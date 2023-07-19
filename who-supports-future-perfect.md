@@ -182,24 +182,29 @@ BEMC Foundation was added as a donor in [early November 2021](https://web.archiv
 ### Appendix: Additional Sources
 
 ##### Wayback Machine archives of Future Perfect
-April 2020: https://web.archive.org/web/20200430100914/https://www.vox.com/2020/1/7/21020439/support-future-perfect
-November 2020: https://web.archive.org/web/20201118162835/https://www.vox.com/2020/1/7/21020439/support-future-perfect
-December 2020: https://web.archive.org/web/20201218192332/https://www.vox.com/2020/1/7/21020439/support-future-perfect
-May 2021: https://web.archive.org/web/20210525181105/https://www.vox.com/2020/1/7/21020439/support-future-perfect
-August 2021: https://web.archive.org/web/20210815120557/https://www.vox.com/2020/1/7/21020439/support-future-perfect
-November 2021: https://web.archive.org/web/20211104120328/https://www.vox.com/2020/1/7/21020439/support-future-perfect
+[April 2020](https://web.archive.org/web/20200430100914/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
+
+[November 2020](https://web.archive.org/web/20201118162835/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
+
+[December 2020](https://web.archive.org/web/20201218192332/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
+
+[May 2021](https://web.archive.org/web/20210525181105/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
+
+[August 2021ht](tps://web.archive.org/web/20210815120557/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
+
+[November 2021](https://web.archive.org/web/20211104120328/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
 
 ##### Wayback Machine archives of Vox Media's Editorial Ethics and Guidelines
-April 30, 2023: https://web.archive.org/web/20230430112937/https://corp.voxmedia.com/ethics/
-May 3, 2023: https://web.archive.org/web/20230503121125/https://corp.voxmedia.com/ethics/
+[April 30, 2023](https://web.archive.org/web/20230430112937/https://corp.voxmedia.com/ethics/)
+
+[May 3, 2023](https://web.archive.org/web/20230503121125/https://corp.voxmedia.com/ethics/)
 
 ##### Tax returns for BEMC organizations
- BEMC Foundation, 2020: https://projects.propublica.org/nonprofits/organizations/854281986/202210469349100116/full
- BEMC Foundation, 2021: https://projects.propublica.org/nonprofits/organizations/854281986/202243189349104649/full
- BEMC 4 Foundation, 2021: https://projects.propublica.org/nonprofits/organizations/874726186/202233189349312348/full
+ [BEMC Foundation, 2020](https://projects.propublica.org/nonprofits/organizations/854281986/202210469349100116/full)
+ [BEMC Foundation, 2021](https://projects.propublica.org/nonprofits/organizations/854281986/202243189349104649/full)
+ [BEMC 4 Foundation, 2021](https://projects.propublica.org/nonprofits/organizations/874726186/202233189349312348/full)
 
 ##### Animal Charity Evaluators yearly reports, including links to their tax returns
-https://animalcharityevaluators.org/about/impact/annual-reports/2020-year-in-review/
-https://animalcharityevaluators.org/about/impact/annual-reports/2021-ace-year-in-review/
-https://animalcharityevaluators.org/about/impact/annual-reports/2022-2023-year-in-review/
- 
+[2020 Year in Review](https://animalcharityevaluators.org/about/impact/annual-reports/2020-year-in-review/)
+[2021 Year in Review](https://animalcharityevaluators.org/about/impact/annual-reports/2021-ace-year-in-review/)
+[2022-2023 Year in Review](https://animalcharityevaluators.org/about/impact/annual-reports/2022-2023-year-in-review/)
