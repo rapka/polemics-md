@@ -190,7 +190,7 @@ BEMC Foundation was added as a donor in [early November 2021](https://web.archiv
 
 [May 2021](https://web.archive.org/web/20210525181105/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
 
-[August 2021ht](tps://web.archive.org/web/20210815120557/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
+[August 2021](https://web.archive.org/web/20210815120557/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
 
 [November 2021](https://web.archive.org/web/20211104120328/https://www.vox.com/2020/1/7/21020439/support-future-perfect)
 
@@ -206,5 +206,7 @@ BEMC Foundation was added as a donor in [early November 2021](https://web.archiv
 
 ##### Animal Charity Evaluators yearly reports, including links to their tax returns
 [2020 Year in Review](https://animalcharityevaluators.org/about/impact/annual-reports/2020-year-in-review/)
+
 [2021 Year in Review](https://animalcharityevaluators.org/about/impact/annual-reports/2021-ace-year-in-review/)
+
 [2022-2023 Year in Review](https://animalcharityevaluators.org/about/impact/annual-reports/2022-2023-year-in-review/)
