@@ -2,7 +2,7 @@
 
 ![Photo of John Paul DeJoria and his various businesses](images/billionaire-burner/dejoria-header.png)
 
-Like most of the Internet, I've been captivated by the recent flooding at Burning Man. While reading up on the last few years of the festival, I discovered that Burning Man featured a controversial installment from 2016 to 2018 in the form of a decommissioned Boeing 747. This jet, dubbed "Camp 747" by a group of organizers called Big Imagination, was bought to Black Rock City from an airplane boneyard and turned into a music venue. 
+Like most of the Internet, I've been captivated by the recent flooding at the 2023 Burning Man festival. While reading up on the last few years of the festival, I discovered that past Burning Man events featured a controversial installment in the form of a decommissioned Boeing 747 jet. This jet, dubbed "Camp 747" by a group of organizers called Big Imagination, was bought to Black Rock City from an airplane boneyard and turned into a music venue. 
 
 ![Camp 747 in 2017](images/billionaire-burner/747-2.png)
 *(Camp 747 in 2017. Photo credit: Big Imagination's [Instagram](https://www.instagram.com/p/BXEWt9Fgntp/))*
