@@ -9,12 +9,12 @@ Like most of the Internet, I've been captivated by the recent flooding at the 20
 
 Camp 747 received [strong negative reactions online](https://www.reddit.com/r/BurningMan/comments/9czslw/im_pretty_sure_the_big_imagination_747_airplane/), with burners likening the experience to that of an exclusive night club. Despite this, Mashable [reported](https://mashable.com/article/747-burning-man) that the camp had the "full confidence of the Burning Man organization". The 747 would return again for 2019 and the organizers stated they wanted the plane to be an "evolving fixture at Burning Man".
 
-In light of the flooding, I can't help but wonder what would've happened if Camp 747 had been present in 2023. I can't imagine moving something as heavy as an airplane through the thick mud would've been possible at all until the playa is mostly done drying out. Transporting the jet in 2018 required a police escort and it [took longer than expected](https://www.sfgate.com/travel/burningman/article/Burning-Man-747-plane-Big-Imagination-left-behind-13236266.php) for the plane to be comepletely gone from the Black Rock Desert. In 2023, law enforcement's most notable contribution to Burning Man involved [ramming through climate prostestors](https://www.theguardian.com/culture/2023/aug/28/burning-man-protest-climate-change-environment). Ironically, one of the practices these activists were protesting was the presence private jets at Burning Man.
+In light of the flooding, I can't help but wonder what would've happened if Camp 747 had been present in 2023. I can't imagine moving something as heavy as an airplane through the thick mud would've been possible at all until the playa is mostly done drying out. Transporting the jet in 2018 required a police escort and it [took longer than expected](https://www.sfgate.com/travel/burningman/article/Burning-Man-747-plane-Big-Imagination-left-behind-13236266.php) for the plane to be completely gone from the Black Rock Desert. In 2023, law enforcement's most notable contribution to Burning Man involved [ramming through climate prostestors](https://www.theguardian.com/culture/2023/aug/28/burning-man-protest-climate-change-environment). Ironically, one of the practices these activists were protesting was the presence private jets at Burning Man.
 
 ![Camp 747 in 2017](images/billionaire-burner/747.jpg)
 *(Camp 747's eponymous jet in transit. Photo credit: Big Imagination's [Instagram](https://www.instagram.com/p/Bmz7CoOBlJ-/))*
 
-Big Imagination spent multiple years trying to raise enough fund to make Camp 747 possible before its debut in 2018. Mashable's reporting revealed that some of these funders were in fact wealthy tech executives.
+Big Imagination spent multiple years trying to raise enough fund to make Camp 747 possible before its debut in 2018. Mashable's reporting revealed that some of these funders were actually wealthy tech executives.
 
 > There was a good deal of buy-in to help bring the whole thing, however. Feldman says he received hundreds of donations averaging around $1,000 apiece. There were a "handful of five figure donations," he adds, but "most were under $10k." (Reported backers include Joe Gebbia, co-founder of Airbnb, Singapore VC Jonathan Teo, Guy Laliberte, CEO of Cirque du Soleil, plus Tesla and SpaceX board members.) 
 
@@ -63,8 +63,7 @@ It seems this new law may be used again by DeJoria in the future as Morocco is n
 ![A promotional video from Barduda Ocean Club's website](images/billionaire-burner/barbuda-ocean-club.png)
 *(Promotional video from Barduda Ocean Club's [website](https://barbudaoceanclub.com/)* invites visitors to "escape to a private paradise")
 
-
-John Paul DeJoria founded the Peace Love and Happininess Foundation in 2011 alongside a pledge to give half his wealth to charity, which the Ageist profile frames as part of DeJoria's larger interest in giving back to society.
+John Paul DeJoria founded the Peace Love and Happiness Foundation in 2011 alongside a pledge to give half his wealth to charity, which the Ageist profile frames as part of DeJoria's larger interest in giving back to society.
 
 > “He was doing conscious capitalism before it was cool,” Good Fortune filmmaker Josh Tickell told the Los Angeles Times. “He’s the kind of guy who is personally and physically invested in the people he helps. He rolls his sleeves up and takes on the accountability of making things better.”
 > 
@@ -89,7 +88,7 @@ To add insult to injury, this lease required changing the property laws for the 
 > 
 > Browne has said that the law would restrict ownership to Barbudans — and only if they choose to buy. But by allowing land to be sold at all, the communal land ownership structure is being fundamentally changed, and many see a slippery slope. Moreover, once land has been purchased, it can then be leased to foreign developers without a democratic process.
 
-The implications of this change are enormous, as Barbuda's traditional of communal land ownership dates back to the days of slave ownership for reasons explained by a [2020 Guardian article](https://www.theguardian.com/world/2020/dec/14/barbuda-luxury-resort-project-dispute) disucssing the status of PLH's developments in Barbuda.
+The implications of this change are enormous, as Barbuda's traditional of communal land ownership dates back to the days of slave ownership for reasons explained by a [2020 Guardian article](https://www.theguardian.com/world/2020/dec/14/barbuda-luxury-resort-project-dispute) discussing the status of PLH's developments in Barbuda.
 
 > The project is unfolding against the backdrop of a bitter ongoing row between Barbuda and big sister Antigua over the central government’s reversal of a centuries-old system of communal land ownership.
 > 
