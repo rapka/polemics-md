@@ -2,12 +2,12 @@
 
 ![Photo of John Paul DeJoria and his various businesses](images/billionaire-burner/dejoria-header.png)
 
-Like mmst of the Internet, I've been captivated by the recent flooding at Burning Man. While reading up on the last few years of the festival, I discovered that Burning Man featured a controversial installment from 2016 to 2018 in the form of a decommisoned Boeing 747. This jet, dubbed "Camp 747" by a group of organizers called Big Imagination, was bought to Black Rock City from an airplane boneyard and turned into a music venue. 
+Like most of the Internet, I've been captivated by the recent flooding at Burning Man. While reading up on the last few years of the festival, I discovered that Burning Man featured a controversial installment from 2016 to 2018 in the form of a decommissioned Boeing 747. This jet, dubbed "Camp 747" by a group of organizers called Big Imagination, was bought to Black Rock City from an airplane boneyard and turned into a music venue. 
 
 ![Camp 747 in 2017](images/billionaire-burner/747-2.png)
 *(Camp 747 in 2017. Photo credit: Big Imagination's [Instagram](https://www.instagram.com/p/BXEWt9Fgntp/))*
 
-Camp 747 received [strong negative reactions online](https://www.reddit.com/r/BurningMan/comments/9czslw/im_pretty_sure_the_big_imagination_747_airplane/), with burners likening the experience to that of an exclusive night club. Despite this, Mashable would [report](https://mashable.com/article/747-burning-man) that the camp had the "full confidence of the Burning Man organization". The 747 would return for 2019 and the organizers stated they wanted the plane to be an "evolving fixture at Burning Man".
+Camp 747 received [strong negative reactions online](https://www.reddit.com/r/BurningMan/comments/9czslw/im_pretty_sure_the_big_imagination_747_airplane/), with burners likening the experience to that of an exclusive night club. Despite this, Mashable [reported](https://mashable.com/article/747-burning-man) that the camp had the "full confidence of the Burning Man organization". The 747 would return again for 2019 and the organizers stated they wanted the plane to be an "evolving fixture at Burning Man".
 
 In light of the flooding, I can't help but wonder what would've happened if Camp 747 had been present in 2023. I can't imagine moving something as heavy as an airplane through the thick mud would've been possible at all until the playa is mostly done drying out. Transporting the jet in 2018 required a police escort and it [took longer than expected](https://www.sfgate.com/travel/burningman/article/Burning-Man-747-plane-Big-Imagination-left-behind-13236266.php) for the plane to be comepletely gone from the Black Rock Desert. In 2023, law enforcement's most notable contribution to Burning Man involved [ramming through climate prostestors](https://www.theguardian.com/culture/2023/aug/28/burning-man-protest-climate-change-environment). Ironically, one of the practices these activists were protesting was the presence private jets at Burning Man.
 
@@ -47,7 +47,7 @@ However, there wasn't actually a copious amount of oil in Morocco. Upon closer e
 
 Being a multi-billionaire, DeJoria could easily afford to pay such a judgement. Though a $123 million settlement might get in the way of his [private jet hobby](https://www.businessinsider.com/john-paul-dejoria-splurges-on-private-jets-2016-4) though. In an article for Insider that's sure to anger climate activists titled ["Billionaire John Paul DeJoria splurges on one thing to make his life easier"](https://www.businessinsider.com/john-paul-dejoria-splurges-on-private-jets-2016-4), DeJoria is reported to use his three private jets to save the "valuable commodity" that is his time.
 
-Rather than pay $123 million, Dejoria instead decided to lobby the Texas legilature to retroactively change their laws so he could get out of the lawsuit. A [Texas Tribune article](https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/) details how this was accomplished:
+Rather than pay $123 million, Dejoria instead decided to lobby the Texas legislature to retroactively change their laws so he could get out of the lawsuit. A [Texas Tribune article](https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/) details how this was accomplished:
 
 > DeJoria was already a well-known face in Austin by December 2016, when, with his chances of overturning the Moroccan judgment still looking iffy in court, he hired one of the capital city’s premier lobbying firms, Focused Advocacy. Its founder, Curt Seidlits, is a former chairman of the Texas House’s powerful State Affairs Committee and a common presence at the Capitol. On its website, the firm boasts “one of the richest networks of relationships in the advocacy industry.” It also commands a steep price: DeJoria paid two lobbyists between $50,000 and $99,999.99 each for less than a month of work in December 2016, and three lobbyists the same range each for about a year of work in 2017, state records show.
 
@@ -60,8 +60,8 @@ It seems this new law may be used again by DeJoria in the future as Morocco is n
 ### John Paul DeJoria and Robert De Niro vs. Barbuda
 
 
-![Promotional video from Barduda Ocean Club's website](images/billionaire-burner/barbuda-ocean-club.png)
-*(Promotional video from Barduda Ocean Club's [website](https://barbudaoceanclub.com/)*)
+![A promotional video from Barduda Ocean Club's website](images/billionaire-burner/barbuda-ocean-club.png)
+*(Promotional video from Barduda Ocean Club's [website](https://barbudaoceanclub.com/)* invites visitors to "escape to a private paradise")
 
 
 John Paul DeJoria founded the Peace Love and Happininess Foundation in 2011 alongside a pledge to give half his wealth to charity, which the Ageist profile frames as part of DeJoria's larger interest in giving back to society.
