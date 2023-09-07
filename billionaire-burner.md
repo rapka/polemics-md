@@ -80,6 +80,7 @@ Peace, Love, and Happiness (PLH) acquired a 99 year lease to develop the coastli
 
 
 ![Satellite imagery showing the destruction of Barbuda caused by Hurricane Irma](images/billionaire-burner/barbuda-map-irma.jpg)
+
 *(Satellite imagery showing the destruction of Barbuda caused by Hurricane Irma. Photo credit: [NASA](https://earthobservatory.nasa.gov/images/90952/hurricane-irma-turns-caribbean-islands-brown))*
 
 To add insult to injury, this lease required changing the property laws for the entire country of Barbuda just a decade after it had enshrined its longstanding tradition of communal land ownership into law. The Intercept [reported](https://theintercept.com/2018/01/23/robert-de-niro-barbuda-hotel-hurricane-irma/) on the nature of the changes to the Barbuda Land Act in 2018:
