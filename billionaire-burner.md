@@ -2,17 +2,14 @@
 
 ![Photo of John Paul DeJoria and his various businesses](images/billionaire-burner/dejoria-header.png)
 
-Like mmst of the Internet, I've been captivated by the recent flooding at Burning Man. While reading up on the last few years of the festival, I discovered that from 2016 to 2018 Burning Man featured a controversial installment in the form of a decommisoned Boeing 747 jet turned into a nightclub. Its organizers, Big Imagination Foundation, dubbed it "Camp 747".
+Like mmst of the Internet, I've been captivated by the recent flooding at Burning Man. While reading up on the last few years of the festival, I discovered that Burning Man featured a controversial installment from 2016 to 2018 in the form of a decommisoned Boeing 747. This jet, dubbed "Camp 747" by a group of organizers called Big Imagination, was bought to Black Rock City from an airplane boneyard and turned into a music venue. 
 
 ![Camp 747 in 2017](images/billionaire-burner/747-2.png)
 *(Camp 747 in 2017. Photo credit: Big Imagination's [Instagram](https://www.instagram.com/p/BXEWt9Fgntp/))*
 
-https://www.instagram.com/p/Bmz7CoOBlJ-/
+Camp 747 received [strong negative reactions online](https://www.reddit.com/r/BurningMan/comments/9czslw/im_pretty_sure_the_big_imagination_747_airplane/), with burners likening the experience to that of an exclusive night club. Despite this, Mashable would [report](https://mashable.com/article/747-burning-man) that the camp had the "full confidence of the Burning Man organization". The 747 would return for 2019 and the organizers stated they wanted the plane to be an "evolving fixture at Burning Man".
 
-
-Camp 747 received [string negative reactions to it online](https://www.reddit.com/r/BurningMan/comments/9czslw/im_pretty_sure_the_big_imagination_747_airplane/), with burners likening the experience to an exclusive night club. Despite this, Mashable would [report](https://mashable.com/article/747-burning-man) that the camp had the "full confidence of the Burning Man organization". The 747 would return for 2019 and the organizers stated they wanted the plane to be an "evolving fixture at Burning Man".
-
-In light of the flooding, I can't help but wonder what would've happened if Camp 747 had been present in 2023. I can't imagine moving something as heavy as an airplane through the thick mud would've been possible at all until the playa is mostly done drying out. Transporting the jet in 2018 required a police escort and it [took longer than expected](https://www.sfgate.com/travel/burningman/article/Burning-Man-747-plane-Big-Imagination-left-behind-13236266.php) for the plane to be comepletely gone from the Black Rock Desert. In 2023, law enforcement's most notable contribution to Burning Man involved [ramming through climate prostestors](https://www.theguardian.com/culture/2023/aug/28/burning-man-protest-climate-change-environment). Ironically, one of the practices these activists were protesting the presence private jets at Burning Man.
+In light of the flooding, I can't help but wonder what would've happened if Camp 747 had been present in 2023. I can't imagine moving something as heavy as an airplane through the thick mud would've been possible at all until the playa is mostly done drying out. Transporting the jet in 2018 required a police escort and it [took longer than expected](https://www.sfgate.com/travel/burningman/article/Burning-Man-747-plane-Big-Imagination-left-behind-13236266.php) for the plane to be comepletely gone from the Black Rock Desert. In 2023, law enforcement's most notable contribution to Burning Man involved [ramming through climate prostestors](https://www.theguardian.com/culture/2023/aug/28/burning-man-protest-climate-change-environment). Ironically, one of the practices these activists were protesting was the presence private jets at Burning Man.
 
 ![Camp 747 in 2017](images/billionaire-burner/747.jpg)
 *(Camp 747's eponymous jet in transit. Photo credit: Big Imagination's [Instagram](https://www.instagram.com/p/Bmz7CoOBlJ-/))*
@@ -30,7 +27,7 @@ A [FastCompany article](https://www.fastcompany.com/90378291/tech-billionaires-h
 
 *(Photo credit: [Rokit's website](https://rokit.com/about-us/))*
 
-Before learning about his involvement in Burning Man, I was familiar with Paul Mitchell and Patrón products but knew nothing about John Paul DeJoria himself. A [2018 profile](https://www.ageist.com/profile/john-paul-dejoria-74/) on him from Ageist magazine paints a rosy picture of him. Beyond hair products and tequila, he's involved in the tech and media industries via his [ROKiT](https://rokit.com/rokitapps/) conglomerate and is very active as a philanthropist.
+Before learning about his involvement in Burning Man, I was familiar with Paul Mitchell and Patrón products but knew nothing about John Paul DeJoria himself. A [2018 profile](https://www.ageist.com/profile/john-paul-dejoria-74/) on him from Ageist magazine paints a rosy picture of him. Beyond hair products and tequila, he's involved in the tech and media industries via his [ROKiT](https://rokit.com/rokitapps/) conglomerate and is very active as a philanthropist. 
 
 > DeJoria is a capitalist who believes you do well and do good, and the better you do, the greater your capacity to make a difference.
 > His is the story of a guy who did well, then did good — an enormous amount of good. His story was chronicled in the 2016-17 documentary Good Fortune, which is narrated by actor, friend and former business partner, Dan Aykroyd.
@@ -51,28 +48,17 @@ However, there wasn't actually a copious amount of oil in Morocco. Upon closer e
 Being a multi-billionaire, DeJoria could easily afford to pay such a judgement. A $123 million settlement might get in the way of his [private jet budget](https://www.businessinsider.com/john-paul-dejoria-splurges-on-private-jets-2016-4) though, so instead he lobbied the Texas legilature to retroactively change their laws so he could get out of the lawsuit. A [Texas Tribune article](https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/) details how this was accomplished:
 
 > DeJoria was already a well-known face in Austin by December 2016, when, with his chances of overturning the Moroccan judgment still looking iffy in court, he hired one of the capital city’s premier lobbying firms, Focused Advocacy. Its founder, Curt Seidlits, is a former chairman of the Texas House’s powerful State Affairs Committee and a common presence at the Capitol. On its website, the firm boasts “one of the richest networks of relationships in the advocacy industry.” It also commands a steep price: DeJoria paid two lobbyists between $50,000 and $99,999.99 each for less than a month of work in December 2016, and three lobbyists the same range each for about a year of work in 2017, state records show.
->
->...
->
+
 > That the bill had been born of DeJoria’s floundering case was not lost on the lawmakers considering it — nor was there much attempt to keep that hidden. Enoch, who formally registered to testify on DeJoria’s behalf, sold the bill as a protection for Texans in “any number of cases.” But he and other advocates acknowledged that the only case they were aware of was DeJoria’s. “We have no idea” how many such cases were in Texas courts, he told a House committee.
 
-The proposed law would go on to pass under the auspices of protecting American entrepeuneurs doing work overseas, though the judge overseeing DeJoria's case was not pleased about it.
-
-> “There is a deep irony in allowing DeJoria to contend he was denied due process in Morocco when it was his lobbying efforts that changed the rules of the game midway through the proceedings in the United States,” Costa wrote. But “‘unfair does not always equal unconstitutional.’”
->
-
-
-An [op-ed from Bloomberg Law](https://news.bloomberglaw.com/us-law-week/insight-fifth-circuit-home-cooking-ruling-harms-future-u-s-trade-partners) published after the bill's passage was similarly unhappy about the precedent being set.
-
-> To an outside observer, DeJoria II makes the foreign-judgment-recognition process in America looks arbitrary, unpredictable, and subject to money influence. Even the same court—a U.S. Court of Appeals, no less—can reach opposite decisions in the same case on the same set of facts.
-> Decreased confidence in the ability to reliably enforce foreign judgments will increase the cost for American firms to do business with foreign counterparts. Foreign companies are likely to demand a litigation premium to offset the risk that they may not be able to enforce a valid foreign judgment in American courts. Or they will simply do business with firms from countries other than the U.S.
+The proposed law would go on to pass under the auspices of protecting American entrepeuneurs doing work overseas, though the judge overseeing DeJoria's case was not pleased about it. In her decision, she wrote that “there is a deep irony in allowing DeJoria to contend he was denied due process in Morocco when it was his lobbying efforts that changed the rules of the game midway through the proceedings in the United States”. An [op-ed from Bloomberg Law](https://news.bloomberglaw.com/us-law-week/insight-fifth-circuit-home-cooking-ruling-harms-future-u-s-trade-partners) published after the bill's passage was similarly unhappy about the precedent being set, saying it appeared "arbitrary, unpredictable, and subject to money influence".
 
 It seems this new law may be used again by DeJoria in the future as Morocco is not the only nation where his business plans have sparked outrage.
 
 ### Peace, Love and Happiness Inc vs. Barbuda
 
 
-![Promotional video from Barduda Ocean Club's website](images/billionaire-burner/patron-motorcycle.png)
+![Promotional video from Barduda Ocean Club's website](images/billionaire-burner/barbuda-ocean-club.png)
 *(Promotional video from Barduda Ocean Club's [website](https://barbudaoceanclub.com/)*
 
 
@@ -99,7 +85,7 @@ To add insult to injury, this lease required changing the property laws for the 
 > On December 12, a sweeping 13-page “amendment” to the hard-won Barbuda Land Act was officially introduced in Antigua and Barbuda’s House of Representatives. It includes changes that entirely reverse the meaning of the law. In the amendment, a clause declaring Barbuda “owned in common by the people of Barbuda” was deleted and replaced. “The fundamental purpose of the Act is to grant to Barbudans the right to purchase the [land],” the amended act reads.
 > 
 > Browne has said that the law would restrict ownership to Barbudans — and only if they choose to buy. But by allowing land to be sold at all, the communal land ownership structure is being fundamentally changed, and many see a slippery slope. Moreover, once land has been purchased, it can then be leased to foreign developers without a democratic process.
-> 
+
 
 The implications of this change are enormous, as Barbuda's traditional of communal land ownership dates back to the slaveowning days for reasons explained by a [2020 Guardian article](https://www.theguardian.com/world/2020/dec/14/barbuda-luxury-resort-project-dispute) on the status of PLH's developments in Barbuda.
 
@@ -131,16 +117,15 @@ In typical DeJoria fashion, that partnership with the Raiders ended when Rokit f
 >  Able Events Inc., which did business under the name Rokit Marketing Inc., filed for bankruptcy in March, claiming over $70 million in liabilities and no assets. Its list of creditors included Williams Racing, the Houston Rockets and Chargers star Derwin James, who filmed a series of Rokit promotional videos where he teaches touchdown celebrations.
 
 
-Like his love of "conscious capitalism", these marketing deals bear striking similarities to those secured by Sam Bankman-Fried for FTX before its collapse. Rokit's deal with the Oakland Raiders gave them naming rights to a club inside Allegiant Stadium while FTX secured a deal for the American Airline arena in Miamo to be [renamed to the FTX Arena](https://www.nba.com/heat/news/heat-partners-with-ftxus).  Like those for FTX, these sponsorship deals for Rokit have now led to civil lawsuits in multiple countries as its subsidiary companies continue declaring bankruptcy
+Like his love of "conscious capitalism", these marketing deals bear striking similarities to those secured by Sam Bankman-Fried for FTX before its collapse. Rokit's deal with the Oakland Raiders gave them naming rights to a club inside Allegiant Stadium while FTX secured a deal for the American Airline arena in Miamo to be [renamed to the FTX Arena](https://www.nba.com/heat/news/heat-partners-with-ftxus).  Like those for FTX, these sponsorship deals for Rokit have led to civil lawsuits in multiple countries as Rokit's subsidiary companies continue declaring bankruptcy.
 
-## Conclusion: 
+---
 
 If there's one thing that can be learned from John Paul DeJoria's business misadventures, it's that public displays of philanthropy from extremely wealthy capitalists should be taken with a grain of salt as it often serves as PR to cover up other misdeeds. This is especially true for billionaires like DeJoria who like to flaunt their wealth in ostentatious displays like Camp 747 or a motorcycle that runs on tequila, which he [showed off](https://www.youtube.com/watch?v=HliPWeVPe3A) on CNBC's "Secret Lives of the Super Rich".
-
-The similarities between John Paul DeJoria and the Sam Bankman-Fried movement are many: luxurious lifestyles, island real estate, [bomb shelters](https://www.wsj.com/articles/patron-spirits-founder-sells-texas-ranch-with-bomb-shelter-1479919519), ties to cryptocurrency (Big Imagination founder Ken Feldman previously ran a Bitcoin price tracking service), [attempts to buy land on remote island](https://qz.com/sam-bankman-fried-ftx-nauru-court-case-money-laundering-1850662899), sponsorship deals, a love of philanthropy, and a professed goal of making capitalism ethical are common themes to both of their stories. 
 
 ![John Paul DeJoria's tequila-power motorcycle](images/billionaire-burner/patron-motorcycle.png)
 *(John Paul DeJoria's tequila-power motorcycle. Photo credit: CNBC)*
 
+The similarities between John Paul DeJoria and the Sam Bankman-Fried movement are many: luxurious lifestyles, island real estate, [bomb shelters](https://www.wsj.com/articles/patron-spirits-founder-sells-texas-ranch-with-bomb-shelter-1479919519), ties to cryptocurrency (Big Imagination founder Ken Feldman previously ran a Bitcoin price tracking service), [attempts to buy land on remote island](https://qz.com/sam-bankman-fried-ftx-nauru-court-case-money-laundering-1850662899), sponsorship deals, a love of philanthropy, and a professed goal of making capitalism ethical are common themes to both of their stories. 
 
 Bankman-Fried's downfall have led to many doubts about the effective altruism movement. It's high time we as a culture start having the same sorts of reservations about other wealthy philanthropists.
