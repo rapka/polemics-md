@@ -61,7 +61,7 @@ It seems this new law may be used again by DeJoria in the future as Morocco is n
 
 
 ![Promotional video from Barduda Ocean Club's website](images/billionaire-burner/barbuda-ocean-club.png)
-*(Promotional video from Barduda Ocean Club's [website](https://barbudaoceanclub.com/)*
+*(Promotional video from Barduda Ocean Club's [website](https://barbudaoceanclub.com/)*)
 
 
 John Paul DeJoria founded the Peace Love and Happininess Foundation in 2011 alongside a pledge to give half his wealth to charity, which the Ageist profile frames as part of DeJoria's larger interest in giving back to society.
