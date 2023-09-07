@@ -1,4 +1,4 @@
-# The Billionaire Burning Man Attendee Who Can't Stop Getting Sued
+# The Billionaire Burning Man Attendee Who Loves Private Jets and Philanthropy
 
 ![Photo of John Paul DeJoria and his various businesses](images/billionaire-burner/dejoria-header.png)
 
@@ -45,7 +45,9 @@ Gustin and DeJoria would continue to work together and would make news 2000 when
 
 However, there wasn't actually a copious amount of oil in Morocco. Upon closer examination, the field in question only had about 65 million barrels, a far cry from the 10 billion barrel figure touted by DeJoria at the press conference. This discovery naturally made his Moroccan partners quite upset and they sued DeJoria in Moroccan court. DeJoria didn't travel to Morocco for the case, [claiming](https://www.forbes.com/sites/christopherhelman/2015/10/13/tequila-tycoon-faces-123m-judgement-in-moroccan-oil-deal-gone-wrong/) that he "believed his life would be in danger" in Morocco. He would go on to lose the suit and the courts ruled that he owed $123 million in damages.
 
-Being a multi-billionaire, DeJoria could easily afford to pay such a judgement. A $123 million settlement might get in the way of his [private jet budget](https://www.businessinsider.com/john-paul-dejoria-splurges-on-private-jets-2016-4) though, so instead he lobbied the Texas legilature to retroactively change their laws so he could get out of the lawsuit. A [Texas Tribune article](https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/) details how this was accomplished:
+Being a multi-billionaire, DeJoria could easily afford to pay such a judgement. Though a $123 million settlement might get in the way of his [private jet hobby](https://www.businessinsider.com/john-paul-dejoria-splurges-on-private-jets-2016-4) though. In an article for Insider that's sure to anger climate activists titled ["Billionaire John Paul DeJoria splurges on one thing to make his life easier"](https://www.businessinsider.com/john-paul-dejoria-splurges-on-private-jets-2016-4), DeJoria is reported to use his three private jets to save the "valuable commodity" that is his time.
+
+Rather than pay $123 million, Dejoria instead decided to lobby the Texas legilature to retroactively change their laws so he could get out of the lawsuit. A [Texas Tribune article](https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/) details how this was accomplished:
 
 > DeJoria was already a well-known face in Austin by December 2016, when, with his chances of overturning the Moroccan judgment still looking iffy in court, he hired one of the capital city’s premier lobbying firms, Focused Advocacy. Its founder, Curt Seidlits, is a former chairman of the Texas House’s powerful State Affairs Committee and a common presence at the Capitol. On its website, the firm boasts “one of the richest networks of relationships in the advocacy industry.” It also commands a steep price: DeJoria paid two lobbyists between $50,000 and $99,999.99 each for less than a month of work in December 2016, and three lobbyists the same range each for about a year of work in 2017, state records show.
 
@@ -55,7 +57,7 @@ The proposed law would go on to pass under the auspices of protecting American e
 
 It seems this new law may be used again by DeJoria in the future as Morocco is not the only nation where his business plans have sparked outrage.
 
-### Peace, Love and Happiness Inc vs. Barbuda
+### John Paul DeJoria and Robert De Niro vs. Barbuda
 
 
 ![Promotional video from Barduda Ocean Club's website](images/billionaire-burner/barbuda-ocean-club.png)
@@ -86,8 +88,7 @@ To add insult to injury, this lease required changing the property laws for the 
 > 
 > Browne has said that the law would restrict ownership to Barbudans — and only if they choose to buy. But by allowing land to be sold at all, the communal land ownership structure is being fundamentally changed, and many see a slippery slope. Moreover, once land has been purchased, it can then be leased to foreign developers without a democratic process.
 
-
-The implications of this change are enormous, as Barbuda's traditional of communal land ownership dates back to the slaveowning days for reasons explained by a [2020 Guardian article](https://www.theguardian.com/world/2020/dec/14/barbuda-luxury-resort-project-dispute) on the status of PLH's developments in Barbuda.
+The implications of this change are enormous, as Barbuda's traditional of communal land ownership dates back to the days of slave ownership for reasons explained by a [2020 Guardian article](https://www.theguardian.com/world/2020/dec/14/barbuda-luxury-resort-project-dispute) disucssing the status of PLH's developments in Barbuda.
 
 > The project is unfolding against the backdrop of a bitter ongoing row between Barbuda and big sister Antigua over the central government’s reversal of a centuries-old system of communal land ownership.
 > 
@@ -102,7 +103,7 @@ All of this was enabled by the cooperation of the Government of Antigua & Barbud
 
 Before entering politics, Browne spent 13 years [working](https://cip.gov.ag/invest-caribbean-2017/meet-the-speakers/gaston-browne) as a senior manager for the Swiss American Banking Group, a bank founded by controversial businessman Bruce Rappaport. During this time, both Rappaport and Swiss American were been [accused](https://www.theguardian.com/uk/2009/mar/11/antigua-isle-of-man) of various forms of financial misconduct, including a lawsuit filed by the US Department of Justice to recover over $7 million of alleged drug trafficking money. This investigation was [also hindered by a hurricane](https://www.wsj.com/articles/SB909949302963124000), with the bank claiming that records "were not available because Hurricane Luis apparently destroyed the Friars Hill branch".
 
-Since then, PLH's development plans have continued despite concerns of environmental destruction and a [complaint from the United Nations Human Rights office](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26336). The Barbuda Ocean Club's [website](https://barbudaoceanclub.com/) invites guests to "escape to a private paradise in the eastern Carribean" alongside footage of tourists playing golf and enjoying the beach. As of this writing, more than half of the listed properties on the island have been sold.
+Since then, PLH's development plans have continued despite concerns of environmental destruction and a [complaint from the United Nations Human Rights office](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26336). The Barbuda Ocean Club's [website](https://barbudaoceanclub.com/) invites guests to "escape to a private paradise in the eastern Carribean" alongside footage of tourists playing golf and enjoying the beach. The website also advertises the nearby Nobu Barbuda restaurant, which is part of Robert De Nrio's Paradaise Found Nobu resort. As of this writing, more than half of the listed properties on the island have been sold.
 
 ### Rokit vs. The Sports World
 
@@ -116,8 +117,7 @@ In typical DeJoria fashion, that partnership with the Raiders ended when Rokit f
 > 
 >  Able Events Inc., which did business under the name Rokit Marketing Inc., filed for bankruptcy in March, claiming over $70 million in liabilities and no assets. Its list of creditors included Williams Racing, the Houston Rockets and Chargers star Derwin James, who filmed a series of Rokit promotional videos where he teaches touchdown celebrations.
 
-
-Like his love of "conscious capitalism", these marketing deals bear striking similarities to those secured by Sam Bankman-Fried for FTX before its collapse. Rokit's deal with the Oakland Raiders gave them naming rights to a club inside Allegiant Stadium while FTX secured a deal for the American Airline arena in Miamo to be [renamed to the FTX Arena](https://www.nba.com/heat/news/heat-partners-with-ftxus).  Like those for FTX, these sponsorship deals for Rokit have led to civil lawsuits in multiple countries as Rokit's subsidiary companies continue declaring bankruptcy.
+Like his love of "conscious capitalism", these marketing deals bear striking similarities to those secured by Sam Bankman-Fried for FTX before its collapse. Rokit's deal with the Oakland Raiders gave them naming rights to a club inside Allegiant Stadium while FTX secured a deal for the American Airlines Arena in Miami to be [renamed to the FTX Arena](https://www.nba.com/heat/news/heat-partners-with-ftxus).  These sponsorship deals for Rokit have led to civil lawsuits in multiple countries as Rokit's subsidiary companies continue declaring bankruptcy.
 
 ---
 
