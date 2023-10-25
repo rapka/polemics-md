@@ -48,7 +48,7 @@ Another news article published by United Press International in 2006 is simply t
 
 Leitenberg, who had 40 years of experience at the time, goes on to call Ron Suskind's claim that a Mubtakkar made from household ingredients could kill many people **"the stupidest statement I have heard in many years"** and points out that the Japanese terrorist group Aum Shinrikyo was unable to create an effective chemical weapon even with access to modern labs and millions of dollars. One ex-official interviewed by United Press said Suskind "makes it seem a lot more dramatic" than it really was while another stated **"if this is such an amazing weapon, and the design for it is out there, why has no one ever used it?"**.
 
-This quote rings even more true in 2023. If the pictured device is indeed a Muktabbar, all evidence seems to indicate that it has never successfully been used in a terrorist attack in the 20 years since its design.  
+This quote rings even more true in 2023. If the pictured device is indeed a Mubtakkar, all evidence seems to indicate that it has never successfully been used in a terrorist attack in the 20 years since its design.  
 
 ### Not the Mubtakkar?
 
@@ -59,7 +59,7 @@ The nature of the weapon diagram was disputed by chemist George Smith, whose [20
 ![Possible Mubtakkar diagram with English translations](images/herzog-documents/diagram-translated.jpg)
 *(Translated chemical weapon diagram from 2006)*
 
-WMD Insights' report expressed concerns that terrorists unrelated to al-Qaeda might be able to recreate the weapon, but Smith is skeptical. In his analysis, he points to a major error in the English instructions and concludes that WMD Insights were incorrect in labeling the weapon as "nearly identical" to Suskind's Muktabbar[^4].
+WMD Insights' report expressed concerns that terrorists unrelated to al-Qaeda might be able to recreate the weapon, but George Smith was skeptical. In his analysis, he points to a major error in the English instructions and concludes that WMD Insights were incorrect in labeling the weapon as "nearly identical" to Suskind's Mubtakkar[^4].
 
 > **This diagram is not like Suskind's much-publicized Mubtakkar.** The Pulitzer-winner did not know the basic science involved and so described its design very poorly. But he did define it as a two-compound munition, even blutzing that bit on National Public Radio's Fresh Air, saying one of its reagents was "sodium chloride" -- simple table salt. However, the diagram at left is virtually identical to the photograph of the Department of Homeland Security prototype -- a three compound design -- distributed nationwide in cyberspace and discussed in "Improvised Cyanide Munition."
 
@@ -77,11 +77,11 @@ Milton Leitenberg claimed in his interview with United Press that "you would hav
 > 
 > The fear that the attempted procurement of materials which could be used for terror purposes will result in a sting operation is even common among jihadist forums, Ms Pinkard told Sky News.
 
- I am by no means an expert, but it seems unlikely that Hamas would be able to smuggle those materials through the Israeli blockade of the  Gaza Strip. If they did manage that feat, I think common sense would dictate that Hamas should manufacture their chemical weapons *before* beginning their assault on Israel.
+ I am by no means an expert, but it seems unlikely that Hamas would be able to smuggle those materials through the Israeli blockade of the  Gaza Strip. If they did manage that feat, I believe common sense would dictate that Hamas should manufacture their chemical weapons *before* beginning their assault on Israel.
 
 Another possibility is that Hamas intended to obtain these chemicals in Israel during their attack, but I have heard no news of a Hamas attack on Israeli chemical depots and Hamas seems to be pre-occupied with their murder/kidnapping spree and the massive bombing campaign Israel has initiated in response right now.
 
-An [Axios article](https://www.axios.com/2023/10/21/israel-hamas-cyanide-weapon-instructions) on the weapon-making manual says that the news was disseminated in a classified cable with the headline "Hamas intention of using chemical weapons". If this claim is based solely on the evidence presented by Herzog, any plans Hamas may have had for using chemical weapons seem to be poorly thought out at best.
+An [Axios article](https://www.axios.com/2023/10/21/israel-hamas-cyanide-weapon-instructions) on the weapon-making manual says that the news of its existence was disseminated in a classified cable with the headline "Hamas intention of using chemical weapons". If this claim is based solely on the evidence presented by Herzog, any plans Hamas may have had for using chemical weapons seem to be poorly thought out at best.
 
 ### George Smith has a history in this area
 ![George "Dick Destiny" Smith with his band The Highway Kings](images/herzog-documents/dick-destiny.jpg)
