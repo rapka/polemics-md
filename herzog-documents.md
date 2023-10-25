@@ -3,7 +3,7 @@
 ![Isaac Herzog, George "Dick Destiny" Smith, and Colin Powell](images/herzog-documents/herzog-dick-colin.jpg)
 *(Isaac Herzog, George "Dick Destiny" Smith, and Colin Powell)*
 
-On October 22, 2023, Sky News aired an [interview](https://twitter.com/SkyNews/status/1716176823862587814) with Israeli president Isaac Herzog in which he presented two pieces of paper. According to Herzog, these papers come from an official instruction manual written by al-Qaeda on how to produce chemical weapons recovered from Hamas. An accompanying [statement](https://www.gov.il/en/departments/news/president-herzog-interviewed-on-sky-news-22-oct-2023) released by the Prime Minister's office proclaims the following:
+On October 22, 2023, Sky News aired an [interview](https://twitter.com/SkyNews/status/1716176823862587814) with Israeli president Isaac Herzog in which he presented two pieces of paper. According to Herzog, these papers come from an official instruction manual written by al-Qaeda on how to produce chemical weapons recovered from Hamas. An accompanying [press release](https://www.gov.il/en/departments/news/president-herzog-interviewed-on-sky-news-22-oct-2023) put out by the president's spokesperson proclaims the following:
 
 > Its discovery indicates both the connection between the organizations and the intention of the Hamas terrorist organization to use chemical weapons to cause mass casualties". 
 
@@ -12,8 +12,8 @@ My brief investigation into the public history of the documents Herzog presented
 
 Shortly after the interview went online, Journalist [Séamus Malekafzali](https://twitter.com/Seamus_Malek/status/1716278455677923711) found a file containing the first page shown by Herzog on a book hosting website named [noor-book.com](https://www.noor-book.com/en/ebook-%D8%B1%D9%85%D8%B2%D9%8A-%D9%8A%D9%88%D8%B3%D9%81-pdf), though this is not the true origin of this document. The book's webpage on noor-book.com indicates that the file was taken from the Internet Archive and I was indeed able to find the [original PDF](https://archive.org/details/hamanyzaied_gmail_20140223/page/n3/mode/2up) there[^1]. The contents appear to pertain to [Ramzi Yousef](https://en.wikipedia.org/wiki/Ramzi_Yousef), ringleader of the 1993 World Trade Center bombings and the document doesn't include the other page shown by Herzog.
 
-![PDF from the Internet Archive compared to the first document presented by Isaac Herzbog](images/herzog-documents/page-1-comparison.png)
-*(PDF from the Internet Archive compared to the first document presented by Isaac Herzbog)*
+![PDF from the Internet Archive compared to the document presented by Isaac Herzbog](images/herzog-documents/page-1-comparison.png)
+*(PDF from the Internet Archive compared to the document presented by Isaac Herzbog)*
 
 The press release from the Israeli government concerning this document purports that it dates back to 2003. However, ISIS's predecessor group didn't officially merge with al-Qaeda until [2004](https://www.dni.gov/nctc/ftos/isis_fto.html) and used [other flag designs](https://en.wikipedia.org/wiki/Jama%27at_al-Tawhid_wal-Jihad#/media/File:Flag_of_JTJ.svg) before years. Furthermore, the flag featured in the above photograph was [designed in 2006 and first revealed in 2007](https://www.theatlantic.com/international/archive/2015/09/isis-flag-apocalypse/406498/)  according to Will McCants, author of "The ISIS apocalypse: The history, strategy, and doomsday vision of the Islamic State"[^2]. **It is unclear how a flag created in 2006 ended up on a document from 2003.**
 
