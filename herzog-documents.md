@@ -92,7 +92,7 @@ I was initially reluctant to trust the word of a Blogspot blog named "Dick Desti
 
 The [about page](http://dickdestiny.com/blog1/?page_id=7603) on a newer version of the Dick Destiny blog also reveals an incredible coincidence: George Smith's first claim to fame was testifying as an expert witness for the trial of the alleged [Wood Green ricin bioterrorist plot](https://en.wikipedia.org/wiki/Wood_Green_ricin_plot).
 
-Some context: Back in January 2003, UK police arrested over a dozen people and charged them with plotting a major terrorist attack using the poison ricin (famously [portrayed](https://breakingbad.fandom.com/wiki/Problem_Dog) in Breaking Bad). After an investigation, it was revealed that no ricin was ever detected and all but one of the suspects were eventually released or acquitted. However, the public was not informed that the poison scare was a false positive until 2005 and in early 2023 it was [revealed by lawyer involved with the case](https://bylinetimes.com/2023/03/30/ricin-and-the-red-tops-how-a-made-up-terror-plot-helped-the-media-build-the-case-for-the-iraq-war/) that the faulty intelligence that led to the arrests was probably obtained through torture.
+Some context: Back in January 2003, UK police arrested over a dozen people and charged them with plotting a major terrorist attack using the poison ricin (famously [portrayed](https://breakingbad.fandom.com/wiki/Problem_Dog) in Breaking Bad). After an investigation, it was revealed that no ricin was ever detected and all but one of the suspects were eventually released or acquitted. Despite this, the public was not informed that the poison scare was a false positive until 2005 and in early 2023 it was [revealed by lawyer involved with the case](https://bylinetimes.com/2023/03/30/ricin-and-the-red-tops-how-a-made-up-terror-plot-helped-the-media-build-the-case-for-the-iraq-war/) that the faulty intelligence that led to the arrests was probably obtained through torture.
 
 Of course, none of this prevented Colin Powell from falsely [testifying to the United Nations](https://georgewbush-whitehouse.archives.gov/news/releases/2003/02/20030205-1.html) in 2003 that a network of terrorists with ties to Iraq and Saddam Hussein contained a "UK Poison Cell". 
 
@@ -105,7 +105,7 @@ Prior to this, former Prime Israeli Minister Benjamin Netanyahu (who is somehow 
 
 The United States would infamously go on to invade Iraq despite the lack of evidence, find no weapons of mass destruction, and ironically create the conditions that would allow ISIS to establish itself in the country.
 
-His involvement with this saga has led George Smith to rightfully declare that his work "was one of the first places you could see at least one of the claims made by the US government, delivered by Colin Powell in his address to the UN Security Council, on reasons for war in Iraq, shot to pieces". I'm glad his website is still around over 15 years later to help scrutinize more justifications for war, though I really wish it wasn't necessary right now.
+His involvement with this saga led George Smith to rightfully declare that his work "was one of the first places you could see at least one of the claims made by the US government, delivered by Colin Powell in his address to the UN Security Council, on reasons for war in Iraq, shot to pieces". I'm glad his website is still around over 15 years later to help scrutinize more justifications for war, though I really wish it wasn't necessary right now.
 
 ### Conclusion (tl;dr)
 
