@@ -96,7 +96,7 @@ Of course, none of this prevented Colin Powell from falsely [testifying to the U
 ![Slide presented by Colin Powell to the UN showing a "UK poison cell" with ties to Iraq](uk-poison-cell.jpg)
 *(Slide presented by Colin Powell to the UN showing a "UK poison cell" with ties to Iraq)*
 
-Benjamin Netanyahu, who is somehow still the Prime Minister of Israel, had also previously  [participated in a US Congressional hearing](https://www.youtube.com/watch?v=d_PDpwL8kuY) on Iraq. In his testimony, he warned of Saddam Hussein's (nonexistent) ability to produce weapons of mass destruction and said that an American invasion of Iraq would be "the right choice".  Netanyahu even doubled down on these falsehoods in a [Wall Street Journal op-ed](https://www.wsj.com/articles/SB1032480479501791755) a week later:
+Prior to this, former Prime Israeli Minister Benjamin Netanyahu (who is somehow Prime Minister again in 2023) had also [participated in a US Congressional hearing](https://www.youtube.com/watch?v=d_PDpwL8kuY) on Iraq. In his testimony, he warned of Saddam Hussein's (nonexistent) ability to produce weapons of mass destruction and said that an American invasion of Iraq would be "the right choice".  Netanyahu even doubled down on these falsehoods in a [Wall Street Journal op-ed](https://www.wsj.com/articles/SB1032480479501791755) a week later:
 
 >This is a dictator who is rapidly expanding his arsenal of biological and chemical weapons, who has used these weapons of mass destruction against his subjects and his neighbors, and who is feverishly trying to acquire nuclear weapons.
 
