@@ -1,4 +1,5 @@
 # About Those Hamas Chemical Weapons...
+###  Chemical weapon designs presented by Israeli president Isaac Herzog were analyzed by experts over 15 years ago
 
 ![Isaac Herzog, George "Dick Destiny" Smith, and Colin Powell](images/herzog-documents/herzog-dick-colin.jpg)
 *(Isaac Herzog, George "Dick Destiny" Smith, and Colin Powell)*
@@ -34,7 +35,7 @@ This reverse image search managed to find a handful of mainstream websites where
 
 The first of these search results is none other than Sky News itself! The following image appeared in a 2018 article called ["Can you buy chemical weapons on the dark web?"](https://news.sky.com/story/can-you-buy-chemical-weapons-on-the-dark-web-11297819). Spoiler alert: the answer to this clickbait headline is "no". 
 
-![Sky News' diagram of the Mubtakkar](images/herzog-documents/diagram-skynews.jpg)
+![Sky News diagram of the Mubtakkar](images/herzog-documents/diagram-skynews.jpg)
 *(Diagram of "al-Mubtakkar" from Sky News' 2018 article)*
 
 Experts interviewed by Sky at the time saw no evidence that anyone was trying to build such a device and pointed out that any attempts to do so would be very risky, with one quoted as saying **"You would need significant skills to develop a chemical weapon and not kill yourself"**.
