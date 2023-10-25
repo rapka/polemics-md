@@ -30,7 +30,7 @@ This story gets much more complicated once the other piece of evidence is introd
 
 This reverse image search managed to find a handful of mainstream websites where the uncensored image is already available. While these sources do confirm that it is a diagram of an improvised chemical weapon created by al-Qaeda as early as 2003, they also indicate that there was never a realistic danger of a large scale chemical weapon attack using this weapon.
 
-The first of these search results is none other than Sky News itself, who included it in a 2018 article called ["Can you buy chemical weapons on the dark web?"](https://news.sky.com/story/can-you-buy-chemical-weapons-on-the-dark-web-11297819). Spoiler alert: the answer to this clickbait headline is "no". 
+The first of these search results is none other than Sky News itself! The following image appeared in a 2018 article called ["Can you buy chemical weapons on the dark web?"](https://news.sky.com/story/can-you-buy-chemical-weapons-on-the-dark-web-11297819). Spoiler alert: the answer to this clickbait headline is "no". 
 
 ![Sky News' diagram of the Mubtakkar](images/herzog-documents/diagram-skynews.jpg)
 *(Diagram of "al-Mubtakkar" from Sky News' 2018 article)*
