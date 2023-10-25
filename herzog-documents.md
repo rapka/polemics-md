@@ -111,7 +111,7 @@ The alleged plans for making chemical weapons currently being used by Israel to 
 ---
 
 [^1] The noor-book.com page claims this PDF was added in February 2010 while the Internet Archive listing was added in February 2014. I'm unsure what caused this discrepancy or which date is correct.
-[^2] Metadata for the [ISIS flag on Wikipedia](https://en.m.wikipedia.org/wiki/File:Flag_of_Islamic_State_of_Iraq.svg) states that "press photographs showing this flag first appear in early 2006". These photos may predate the "official" 2007 reveal of the flag on the internet.
+[^2] Metadata for the [ISIS flag on Wikipedia](https://en.m.wikipedia.org/wiki/File:Flag_of_Islamic_State_of_Iraq.svg) states that "press photographs showing this flag first appear in early 2006". These photos may predate the "official" 2007 adoption of the flag on the internet described by William McCants.
 [^3] wmdinsights.com now redirects to the website of [SAIC](https://en.wikipedia.org/wiki/Science_Applications_International_Corporation), a major government contractor.
 [^4] One possible explanation for this is that name "Mubtakkar" was used for multiple weapon designs.
 [^5] A [follow-up post](http://www.dickdestiny.com/blog/2006/07/who-designed-cyanide-bomb-answer.html) by George Smith cites an anonymous source who claims that one of these devices failed in an unpublicized incident in Afghanistan. The anonymous source also corroborates Israel's statement that the diagram dates back to 2003, though I can't verify either statement.
