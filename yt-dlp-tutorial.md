@@ -1,8 +1,8 @@
 # yt-dlp for newbies
 
-This is a minimal tutorial on how to use [yt-dlp](https://github.com/yt-dlp/yt-dlp) for people with no experience using the command line.
+This is a minimal tutorial on how to download videos using [yt-dlp](https://github.com/yt-dlp/yt-dlp) for people with no experience using the command line. Most apps and websites that offer this service use yt-dlp under the hood anyway - using it yourself cuts out the middleman while giving you more options!
 
-This guide won't cover how to use the command line beyond the bare minimum required to use yt-dlp. Mozilla has an excellent [tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) explaining the basicis of what the command line is and how to use it. I highly recommend reading it in full to get a better understanding of what each of these commands does. A more in depth tutorial on how to use the command line is also available [on the Ubuntu website](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+This guide won't cover how to use the command line beyond the bare minimum required to use yt-dlp. Mozilla has an excellent [tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) explaining the basicis of what the command line is and how to use it. I highly recommend reading everything before the "Adding powerups" section to get a better understanding of what each of these commands does. A more in depth tutorial on how to use the command line is also available on the [Ubuntu website](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
 
 ## Installation / basic usage
 
