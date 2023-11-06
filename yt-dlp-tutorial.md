@@ -2,9 +2,7 @@
 
 This is a minimal tutorial on how to use [yt-dlp](https://github.com/yt-dlp/yt-dlp) for people with no experience using the command line.
 
-This guide won't cover how to use the command line beyond the bare minimum required to use yt-dlp. Mozilla has an excellent [tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) explaining the basicis of what the command line is and how to use it. I highly recommend reading it in full to get a better understanding of what each of these commands does.
-
-A more in depth tutorial on how to use the command line is also available [on the Ubuntu website](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+This guide won't cover how to use the command line beyond the bare minimum required to use yt-dlp. Mozilla has an excellent [tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) explaining the basicis of what the command line is and how to use it. I highly recommend reading it in full to get a better understanding of what each of these commands does. A more in depth tutorial on how to use the command line is also available [on the Ubuntu website](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
 
 ## Installation / basic usage
 
@@ -18,8 +16,8 @@ A more in depth tutorial on how to use the command line is also available [on th
 	irm get.scoop.sh | iex```
 	
 3. After installing Scoop, use it to install yt-dlp and ffmpeg with `scoop install yt-dlp ffmpeg`.
-4. Move to your Downloads folder with `cd .\Downloads\`.
-5. Run your yt-dlp command to download your video!
+4. Navigate to your Downloads folder with `cd .\Downloads\`.
+5. Run your yt-dlp command!
 
 ### macOS
 
@@ -27,16 +25,16 @@ A more in depth tutorial on how to use the command line is also available [on th
 2. Install the [Homebrew](https://brew/) package manager by pasting this line into Terminal, pressing Enter, and following the instructions. (Note: this command may be outdated, visit the Homebrew website for more information if you have issues).
 
 	```
-	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/	install.sh)"
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 	```
 	
 3. After installing, use Brew to install yt-dlp and ffmpeg with `brew install yt-dlp ffmpeg`.
-4. Move to your Downloads folder with `cd Downloads`.
-5. Run your yt-dlp command to download your video!
+4. Navigate to your Downloads folder with `cd Downloads`.
+5. Run your yt-dlp command!
  
 ### Linux
 
-All of the steps for macOS should work by simply swapping `brew` with the name of the package manager for your distribution. This is usually `apt` or `apt-get`.
+All of the steps for macOS should work by simply swapping `brew` with the name of the package manager for your distribution. This is usually `apt` or `dpkg`.
 
 ## Using yt-dlp
 
