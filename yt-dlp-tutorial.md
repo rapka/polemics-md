@@ -6,6 +6,8 @@ This guide won't cover how to use the command line beyond the bare minimum requi
 
 ## Installation / basic usage
 
+After installation, steps #2 and #3 can be skipped for subsequent uses.
+
 ### Windows
 
 1. Open PowerShell by searching for it in the Start menu.
@@ -13,7 +15,8 @@ This guide won't cover how to use the command line beyond the bare minimum requi
 
 	```
 	Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-	irm get.scoop.sh | iex```
+	irm get.scoop.sh | iex
+	```
 	
 3. After installing Scoop, use it to install yt-dlp and ffmpeg with `scoop install yt-dlp ffmpeg`.
 4. Navigate to your Downloads folder with `cd .\Downloads\`.
