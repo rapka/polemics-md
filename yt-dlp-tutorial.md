@@ -47,6 +47,7 @@ All of the steps for macOS should work by simply swapping `brew` with the name o
 * Make sure to use single quotes around your URL to avoid parsing errors.
 * A full list of options is available on yt-dlp's [GitHub page](https://github.com/yt-dlp/yt-dlp).
 * yt-dlp should also work with most non-YouTube websites.
+* yt-dlp uses [ffmpeg](https://www.ffmpeg.org/) for file conversion. In the right hands, ffmpeg is by far the most powerful tool for handling audiovisual data and I recommend learning the basics of it as well.
 
 #### Updating
 
