@@ -2,7 +2,7 @@
 
 ![Logos of OpenAI and Effective Ventures combined to create "OpenAI Ventures"](images/openai-board-ea/openai-ventures-logos-square.png)
 
-In the week leading up to Sam Altman's [surprise firing](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) from his job as OpenAI's CEO, VentureBeat published an [article](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/) that explored the company's unusual corporate structure. The article included a statement from an OpenAI spokesperson:
+In the week leading up to Sam Altman's [surprise firing](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) from his job as OpenAI's CEO, VentureBeat published an [article](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/)  exploring the company's unusual corporate structure. This article included a statement from an OpenAI spokesperson:
 > The OpenAI spokesperson said that “None of our board members are effective altruists,” adding that “non-employee board members are not effective altruists; their interactions with the EA community are focused on topics related to AI safety or to offer the perspective of someone not closely involved in the group.”
 
 ![Tyler, The Creator accusing someone of dishonesty](images/openai-board-ea/tyler-lie.gif)
@@ -44,8 +44,8 @@ It sure seems to me like one of the most influential people in the history of th
 
 [^1] It also owns a [15th century English manor](https://www.wythamabbey.org/workshops) for some reason.
 
-[^2] Prior to this change, the most recent [Form 990 tax return from 2021](https://assets.ctfassets.net/es8pp29e1wp8/719m3SIVrQSzDcUxrzo7dS/af10eed02339549672126b0e87f2776d/Final_-_2021_Form_990_signed_-_CEA.pdf) for  CEA shows that it was the business name for Effective Ventures USA. As a result, Tasha McCauley is listed as a board member who worked 40 hours per week for the American side of Effective Ventures despite her designation as a trustee of EVF UK/CEA International. 
+[^2] Prior to this change, the most recent [Form 990 tax return from 2021](https://assets.ctfassets.net/es8pp29e1wp8/719m3SIVrQSzDcUxrzo7dS/af10eed02339549672126b0e87f2776d/Final_-_2021_Form_990_signed_-_CEA.pdf) for  CEA shows that it was the business name for Effective Ventures USA. As a result, Tasha McCauley was listed as a board member who worked 40 hours per week for the American side of Effective Ventures despite her designation as a trustee of EVF UK/CEA International. 
 
 ![2021 American tax records for the Centre for Effective Altruism](images/openai-board-ea/cea-board-990.png)
 
-[^3] Nick Beckstead and William MacAskill resigned from their board positions in [August](https://forum.effectivealtruism.org/posts/Defu3jkejb7pmLjeN/nick-beckstead-is-leaving-the-effective-ventures-boards) and [September](https://forum.effectivealtruism.org/posts/mArisdpuQiFtTNWw3/will-macaskill-has-stepped-down-as-trustee-of-ev-uk#fn-aPdFhg8fBWsqJTHMB-2) respectively for reasons related to their [ties to FTX and Sam Bankman-Fried](https://time.com/6262810/sam-bankman-fried-effective-altruism-alameda-ftx/).
+[^3] Nick Beckstead and William MacAskill resigned from their board positions in [August](https://forum.effectivealtruism.org/posts/Defu3jkejb7pmLjeN/nick-beckstead-is-leaving-the-effective-ventures-boards) and [September](https://forum.effectivealtruism.org/posts/mArisdpuQiFtTNWw3/will-macaskill-has-stepped-down-as-trustee-of-ev-uk#fn-aPdFhg8fBWsqJTHMB-2) 2023 respectively for reasons related to their [ties to FTX and Sam Bankman-Fried](https://time.com/6262810/sam-bankman-fried-effective-altruism-alameda-ftx/).
