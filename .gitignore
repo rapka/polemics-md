@@ -1,2 +1,9 @@
 .obsidian
 node_modules
+/public
+resources/
+node_modules/
+package-lock.json
+.hugo_build.lock
+content
+languages-old
