@@ -19,7 +19,7 @@ This charity structure is very recent; the "Effective Ventures" name has only be
 ![chart of Effective Ventures Foundations' structure](images/openai-board-ea/evf-structure.png)
 >A diagram showing the structure of Effective Ventures as of January 2023.
 
-The new project that is still called CEA runs the Effective Altruism Forum, which is where the name change announcement was posted. As part of this [announcement](https://forum.effectivealtruism.org/posts/GoWNiPbrEb6NHD3MF/announcing-interim-ceos-of-evf), EVF's statement said the following:
+The new group that retains the CEA name runs the Effective Altruism Forum, which is where the name change announcement was posted. As part of this [announcement](https://forum.effectivealtruism.org/posts/GoWNiPbrEb6NHD3MF/announcing-interim-ceos-of-evf), EVF's statement said the following:
 > In response to the new challenges from FTX, **the boards became much more involved in the day-to-day operations of the charities**. But it’s not ideal to have boards playing the role of executives, so the boards have now also appointed Interim CEOs to each charity. 
 
 As a member of one of these boards, McCauley was presumably one of the people who temporarily took on more day to day responsibilities in running one of the largest effective altruist charities.
@@ -34,7 +34,7 @@ William MacAskill, often referred to as an ["originator"](https://www.businessin
 
 MacAskill also describes the state of effective altruism as a "middle ground between a highly centralised (sic) decision-making entity like a company and complete anarchy" and goes on to explain that Effective Ventures US is one of those centralized entities as it **"currently houses the majority of EA movement-building work"**.
 
-It sure seems to me like one of the most influential people in the history of the EA movement disagrees with the idea that there are "no effective altruists on the board of OpenAI"...
+It sure seems to me like one of the most influential people in the history of the EA movement would disagree with the idea that there are "no effective altruists on the board of OpenAI"...
 
 ![AI generated Kermit the Frog meme with a caption of "but that's none of my AI generated business"](images/openai-board-ea/kermit.jpg)
 
@@ -42,10 +42,10 @@ It sure seems to me like one of the most influential people in the history of th
 
 --------
 
-[^1] It also owns a [15th century English manor](https://www.wythamabbey.org/workshops) for some reason.
+[^1] Effective Ventures also owns a [15th century English manor](https://www.wythamabbey.org/workshops) for some reason.
 
 [^2] Prior to this change, the most recent [Form 990 tax return from 2021](https://assets.ctfassets.net/es8pp29e1wp8/719m3SIVrQSzDcUxrzo7dS/af10eed02339549672126b0e87f2776d/Final_-_2021_Form_990_signed_-_CEA.pdf) for  CEA shows that it was the business name for Effective Ventures USA. As a result, Tasha McCauley was listed as a board member who worked 40 hours per week for the American side of Effective Ventures despite her designation as a trustee of EVF UK/CEA International. 
 
 ![2021 American tax records for the Centre for Effective Altruism](images/openai-board-ea/cea-board-990.png)
 
-[^3] Nick Beckstead and William MacAskill resigned from their board positions in [August](https://forum.effectivealtruism.org/posts/Defu3jkejb7pmLjeN/nick-beckstead-is-leaving-the-effective-ventures-boards) and [September](https://forum.effectivealtruism.org/posts/mArisdpuQiFtTNWw3/will-macaskill-has-stepped-down-as-trustee-of-ev-uk#fn-aPdFhg8fBWsqJTHMB-2) 2023 respectively for reasons related to their [ties to FTX and Sam Bankman-Fried](https://time.com/6262810/sam-bankman-fried-effective-altruism-alameda-ftx/).
+[^3] Nick Beckstead and William MacAskill resigned from their board positions in [August](https://forum.effectivealtruism.org/posts/Defu3jkejb7pmLjeN/nick-beckstead-is-leaving-the-effective-ventures-boards) and [September](https://forum.effectivealtruism.org/posts/mArisdpuQiFtTNWw3/will-macaskill-has-stepped-down-as-trustee-of-ev-uk#fn-aPdFhg8fBWsqJTHMB-2) of 2023 respectively for reasons related to their [ties to FTX and Sam Bankman-Fried](https://time.com/6262810/sam-bankman-fried-effective-altruism-alameda-ftx/).
