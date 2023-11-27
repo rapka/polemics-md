@@ -1,3 +1,9 @@
+---
+title: “None of our board members are effective altruists”
+date: 2023-11-19
+draft: false
+tags: AI, effective altruism, capitalism, lying
+---
 # “None of our board members are effective altruists”
 
 ![Logos of OpenAI and Effective Ventures combined to create "OpenAI Ventures"](images/openai-board-ea/openai-ventures-logos-square.png)

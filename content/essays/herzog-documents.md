@@ -1,3 +1,9 @@
+---
+title: About Those Hamas Chemical Weapons...
+date: 2023-10-24
+draft: false
+tags: politics, lying
+---
 # About Those Hamas Chemical Weapons...
 ###  Chemical weapon designs presented by Israeli president Isaac Herzog were analyzed by experts over 15 years ago
 

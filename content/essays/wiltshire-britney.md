@@ -1,3 +1,9 @@
+---
+title: Bandcamp's New CEO Was *Really* Into Britney Spears Back In The Day
+date: 2023-10-19
+draft: false
+tags: music, capitalism
+---
 # Bandcamp's New CEO Was *Really* Into Britney Spears Back In The Day
 
 ![Genius.com lyric cards displaying lyrics to Paul Wiltshire - Britney We Love You](images/wiltshire-britney/genius-lyrics-2x.jpg)

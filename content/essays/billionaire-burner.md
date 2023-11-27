@@ -1,3 +1,10 @@
+---
+title: The Billionaire Burning Man Attendee Who Loves Private Jets and Philanthropy
+date: 2023-09-07
+draft: false
+tags: capitalism, lying
+---
+
 # The Billionaire Burning Man Attendee Who Loves Private Jets and Philanthropy
 
 ![Photo of John Paul DeJoria and his various businesses](images/billionaire-burner/dejoria-header.png)
@@ -16,11 +23,11 @@ In light of the flooding, I can't help but wonder what would've happened if Camp
 
 Big Imagination spent multiple years trying to raise enough fund to make Camp 747 possible before its debut in 2018. Mashable's reporting revealed that some of these funders were actually wealthy tech executives.
 
-> There was a good deal of buy-in to help bring the whole thing, however. Feldman says he received hundreds of donations averaging around $1,000 apiece. There were a "handful of five figure donations," he adds, but "most were under $10k." (Reported backers include Joe Gebbia, co-founder of Airbnb, Singapore VC Jonathan Teo, Guy Laliberte, CEO of Cirque du Soleil, plus Tesla and SpaceX board members.) 
+> There was a good deal of buy-in to help bring the whole thing, however. Feldman says he received hundreds of donations averaging around \$1,000 apiece. There were a "handful of five figure donations," he adds, but "most were under \$10k." (Reported backers include Joe Gebbia, co-founder of Airbnb, Singapore VC Jonathan Teo, Guy Laliberte, CEO of Cirque du Soleil, plus Tesla and SpaceX board members.) 
 
 A [FastCompany article](https://www.fastcompany.com/90378291/tech-billionaires-havent-killed-burning-mans-anti-capitalist-spirit-but-influencers-might) on Camp 747 indicates that another one of these weather funders is billionaire John Paul Dejoria. It's unclear what his contributions were beyond these gifts, but he certainly had a hand in Camp 747 and his presence at Burning Man is an excellent example of the extremely wealthy patrons the festival has attracted in recent years.
 
-> Last year, a Los Angeles–based model named Natasha Wagner, one of hundreds of influencers who use the hashtag #Burnerettes, attended Burning Man for the third time. She was part of a group called Camp 747, which hauled an old Boeing 747 into the desert and turned it into a nightclub. Some burners viewed the effort as the pinnacle of imagination; others saw it as an elitist and ostentatious display. Her camp provided its guests with two daily meals, along with showers, Paul Mitchell hair products, and Patrón tequila, which were provided by Paul Mitchell CEO, Patrón cofounder, and 747 attendee John Paul DeJoria.
+> Last year, a Los Angeles–based model named Natasha Wagner, one of hundreds of influencers who use the hashtag "Burnerettes", attended Burning Man for the third time. She was part of a group called Camp 747, which hauled an old Boeing 747 into the desert and turned it into a nightclub. Some burners viewed the effort as the pinnacle of imagination; others saw it as an elitist and ostentatious display. Her camp provided its guests with two daily meals, along with showers, Paul Mitchell hair products, and Patrón tequila, which were provided by Paul Mitchell CEO, Patrón cofounder, and 747 attendee John Paul DeJoria.
 
 ## John Paul DeJoria
 ![John Paul DeJoria](images/billionaire-burner/dejoria.png)
