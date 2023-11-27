@@ -1,4 +1,4 @@
-# WTF is going with AI and effective altruism: a tl;dr explanation for people who aren't huge nerds
+# WTF is going with AI: a short explanation for people who aren't huge nerds
 
 !["i ain't reading all that" meme combined with the logos of various AI-related companies](images/ea-tldr/ea-tldr.jpg)
 
