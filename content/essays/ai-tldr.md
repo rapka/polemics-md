@@ -4,9 +4,9 @@ date: 2023-11-27
 draft: false
 tags:
   - AI
-  - capitalism
-  - effective
-  - altruism
+  - Capitalism
+  - Big Tech
+  - Effective Altruism
 ---
 # WTF is going with AI: A short explanation for people who aren't huge nerds
 

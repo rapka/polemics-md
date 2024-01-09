@@ -1,4 +1,12 @@
-
+---
+title: Max Tegmark, AI, Conspiracy Theories, and the Swedish Right - An Investigation
+date: 2023-12-11
+draft: false
+tags:
+  - AI
+  - Capitalism
+  - Effective Altruism
+---
 # Max Tegmark, AI, Conspiracy Theories, and the Swedish Right: An Investigation
 
 

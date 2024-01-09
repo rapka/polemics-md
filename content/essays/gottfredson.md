@@ -2,7 +2,7 @@
 title: AGI Researchers Stop Quoting White Supremacists Challenge (Impossible)
 date: 2023-09-09
 draft: false
-tags: AI, racism
+tags: AI, Racism
 ---
 # AGI Researchers Stop Quoting White Supremacists Challenge (Impossible)
 ![AI paper titles laid over a screenshot of Linda Gottfredson and Stefan Molyneux](images/gottfredson/gottfredson-molyneux.jpg)

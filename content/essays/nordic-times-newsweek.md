@@ -1,3 +1,12 @@
+---
+title: Why did Newsweek use a Swedish Neo-Nazi website as a source?
+date: 2023-12-15
+draft: false
+tags:
+  - AI
+  - Racism
+  - Existential Risk
+---
 # Why did Newsweek use a Swedish Neo-Nazi website as a source?
 
 ![The logos of Newsweek and Nya Dagbladet combined to form "Newsweek Dagbladet" next to a grimacing emoji](images/nordic-times-newsweek/newsweek-dagbladet.png)
