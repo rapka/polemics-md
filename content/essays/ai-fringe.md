@@ -4,9 +4,9 @@ date: 2024-01-08
 draft: false
 tags:
   - AI
-  - Big Tech
+  - Big-Tech
   - DeepMind
-  - Existential Risk
+  - Existential-Risk
 ---
 # The not-so-fringe PR firm behind the UK AI Fringe summit
 ![Promotional banner for the AI Fringe summit with a thinking emoji superimposed alongside the logos for Milltown Partners and Google DeepMind](images/ai-fringe/ai-fringe-small.png)
