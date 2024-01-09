@@ -9,14 +9,11 @@ export default (() => {
       const segments: string[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
 
-      if (fileData.dates && !!fileData.frontmatter.date) {
+      if (fileData.dates) {
         segments.push(formatDate(getDate(cfg, fileData)!))
       }
 
-      if (fileData.frontmatter.showReadTime !== false) {
-        segments.push(timeTaken)
-      }
-
+      segments.push(timeTaken)
       return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
     } else {
       return null
