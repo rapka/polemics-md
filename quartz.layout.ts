@@ -38,15 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
         const dateA = a?.file?.dates?.created;
         const dateB = b?.file?.dates?.created;
 
-        console.log('??', a.displayName, a?.file?.dates);
-
-        console.log('aaaa', dateA, dateB);
-
         return dateB - dateA;
       },
       // filterFn: (node) => node.name !== "tags", // filters out 'tags' folder
       mapFn: (node) => {
-
         // dont change name of root node
         if (node.depth > 0) {
           // set emoji for file/folder
@@ -55,8 +50,6 @@ export const defaultContentPageLayout: PageLayout = {
             const month = dateFormatter.format(date);
             const year = date.getFullYear()
             node.displayName = `[${month} ${year}] ${node.displayName})`;
-          } else {
-            // node.displayName = "📁 " + node.displayName
           }
         }
       },
