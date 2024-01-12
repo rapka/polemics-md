@@ -141,7 +141,7 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
+      padding: 0 1rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -154,7 +154,9 @@ a {
 
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      border-right: 1px solid var(--secondary);
       @media all and (max-width: $fullPageWidth) {
+        border-right: none;
         gap: 0;
         align-items: center;
       }
@@ -181,10 +183,12 @@ a {
 
   & .center,
   & footer {
+    padding-left: 2rem;
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {
+      padding-left: 0;
       width: initial;
       margin-left: 0;
       margin-right: 0;
@@ -450,7 +454,7 @@ hr {
   margin: 2rem auto;
   height: 1px;
   border: none;
-  background-color: var(--lightgray);
+  background-color: var(--secondary);
 }
 
 audio,
@@ -465,7 +469,7 @@ video {
 
 ul.overflow,
 ol.overflow {
-  max-height: 400;
+  max-height: 600;
   overflow-y: auto;
 
   // clearfix
