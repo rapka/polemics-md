@@ -1,6 +1,27 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+  // --color-tone-1: #000000;
+  // --color-tone-2: #787c7e;
+  // --color-tone-3: #878a8c;
+  // --color-tone-4: #d3d6da;
+  // --color-tone-5: #edeff1;
+  // --color-tone-6: #f6f7f8;
+  // --color-tone-7: #ffffff;
+
+  // --lightGray: #d8d8d8;
+  // --gray: #86888a;
+  // --darkGray: #939598;
+  // --white: #fff;
+  // --black: #212121;
+
+  // --pink: #F03E88;
+  // --green: #3EF088;
+  // --darkGreen: #3ED088;
+  // --purple: #F023F0;
+  // --codeGrey: hsl(210, 8%, 30%);
+  // --dullGrey: #8b949e;
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "polemics.md",
