@@ -12,4 +12,4 @@ Github isn't really a blogging platform, but I feel like it's a good fit for my 
 - The topics I cover are relevant to Github's userbase of developers.
 - Git commit history shows my edit history, which I think is important for transparency.
 
-If you feel I've made a serious factual error in any of my piece, please feel free to open an issue.
+If you feel I've made a serious factual error in any of my piece, please open an issue on this repo.
