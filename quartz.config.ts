@@ -25,7 +25,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "polemics.md",
-    pageDescription: "",
+    pageDescription: "writings and investigations in art, tech, & ai",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
