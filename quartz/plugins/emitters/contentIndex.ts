@@ -74,14 +74,19 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: nu
     .slice(0, limit ?? idx.size)
     .join("")
 
+
+    const fallbackDescription = `${!!limit ? `Last ${limit} notes` : "Recent notes"} on ${escapeHTML(
+      cfg.pageTitle,
+    )}`
+
+    const description = cfg.pageDescription ? escapeHTML(cfg.pageDescription) : fallbackDescription
+
   return `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
       <title>${escapeHTML(cfg.pageTitle)}</title>
       <link>${root}</link>
-      <description>${!!limit ? `Last ${limit} notes` : "Recent notes"} on ${escapeHTML(
-        cfg.pageTitle,
-      )}</description>
+      <description>${description}</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       ${items}
     </channel>
