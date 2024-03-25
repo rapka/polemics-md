@@ -35,9 +35,11 @@ Accessing and using a crypto wallet requires access to its unique password (or "
 This is not obvious to new users on the Nina platform because Nina uses a service called Magic Wallet to create blockchain wallets on their behalf.
 ## What is Magic Wallet?
 
-In order to simplify signing up for an NFT platform, Nina uses a third party crypto wallet service called [Magic](https://magic.link/). Magic advertises itself as a provider of "the leading wallet-as-a-service plus essential NFT capabilities". Nina uses Magic to automatically create a wallet for the Solana blockchain to store cryptocurrencies and NFTs when users sign up with an email address. This makes the [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14331796132887-Do-I-need-a-Solana-wallet-to-use-Nina) on the subject a bit misleading; **users do in fact need a Solana wallet to use Nina, Solana just uses a service to help them make one when they sign up.**
+In order to simplify the act of signing up for an NFT platform, Nina uses a third party service called [Magic](https://magic.link/) which advertises itself as a provider of "the leading wallet-as-a-service plus essential NFT capabilities". Nina uses Magic to automatically create a wallet on the Solana blockchain to store cryptocurrencies and NFTs when users sign up with an email address. This makes the [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14331796132887-Do-I-need-a-Solana-wallet-to-use-Nina) on the subject a bit misleading; **users do in fact need a Solana wallet to use Nina, Solana just uses a service to help them make one when they sign up.**
 
 All this Nina/Magic/Solana business gets even more confusing once private keys get involved. While Nina makes new Magic accounts on behalf of users, I'm not sure how to actually access mine from Nina's platform. Nina displays the _Solano Address_ of every user on their profile but this is different from being able to access the wallet itself. **Wallets are created as soon as a new user enters their email and Nina does not seem to provide those new accounts with any information on the wallet being managed for them or any way to access their private keys.
+
+I dunno what's going on here. 🤷‍♀️
 
 ## What's an NFT?
 
@@ -63,6 +65,8 @@ One of Nina's developers recently disputed that Arweave uses proof of work when 
 
 Arweave's [website](https://arweave.org/use)brags about its corporate partners, including Meta and Instagram. In the case of Meta, Arweave links to an [announcement](https://www.theblock.co/post/182569/meta-arweave-instagram-nfts)from November 2022 that Arweave will be used to power Instagram's NFTs. However, **Arweave doesn't mention that Instagram [disabled](https://www.forbes.com/sites/williamanderson/2023/04/11/instagram-no-longer-supports-nfts/) all of their NFT features a mere five months after launching them**.
 
+I dunno why they haven't updated their website. 🤷‍♀️
+
 ## What is Irys?
 
 Blockchains like Arweave tend to be expensive and slow, so most apps use a network called Irys (formerly Bundlr) which bundles the data for several Arweave transactions together and speed things up. 
@@ -85,6 +89,8 @@ Earlier in the tweet, Williams states that "Permanent storage needs forks – th
 
 On January 4th, Irys founder Josh Benaron used his own account to [post another tweet](https://twitter.com/josh_benaron/status/1742887405068181641) announcing that the situation was resolved. He explained that Irys will continue to support Arweave's data for the forseeable future and apologized for "any distress this misunderstanding may have caused".
 
+I dunno what's going on here either. 🤷‍♀️
+
 ## What's up with Nina's fees?
 
 Uploads to Arweave are paid upfront by artists on Nina when they upload their music. Here's how Nina's [support page](https://help.ninaprotocol.com/hc/en-us/articles/14332524801559-What-are-the-transaction-fees-when-I-publish-a-release) describes this system:
@@ -95,7 +101,7 @@ Uploads to Arweave are paid upfront by artists on Nina when they upload their mu
 >
 >Nina does not take a cut from the one-time storage fee. Unlike similar services, you do not need to pay a monthly subscription fee to keep your music online.
 
-The third sentence appears to be incomplete; the cost to store the "artwork, audio, and artwork files" is simply missing. 
+The third sentence appears to be incomplete; the cost to store the "artwork, audio, and artwork files" is simply missing. 🤷‍♀️
 
 Morever, Solana's cryptocurrency [trades](https://coinmarketcap.com/currencies/solana/)for $174.93 at time of writing, making 0.032 SOL equivalent to $5.57 rather than $1.20. I do not believe that this page tracks changes to the price of Solana, highlighting the issues of trying to use a volatile crypto currency to power a music platform.
 
@@ -117,11 +123,11 @@ Notably absent from these simulations are scenarios where the price of storage g
 
 You might be wondering how many miners there actually are hosting Arweave's content. Because the blockchain is possibly, it's possible to simply look at its [public metrics](https://viewblock.io/arweave/nodes) to find the answer: 65. Of these 65 nodes, 16 of them are hosted by German hosting service Hetzner Online GmbH, 12 of them are hosted on Amazon servers, and 11 are hosted by DigitalOcean. These three companies together represent 55% of the entire Arweave network.
 
- That's not very decentralized and I don't think there's enough nodes to provide confidence that the network hosting Nina's music will last 200 years.  On the flip side, it means there aren't very many people wasting electricity on this method of hosting.
+ That's not very decentralized and I don't think there's enough nodes to provide confidence that the network hosting Nina's music will last 200 years, much less 10,000.  On the flip side, it means there aren't very many people wasting electricity on this method of hosting.
 
 ## Is Nina itself actually decentralized?
 
-Ignoring Arweave, the ninaprotocol.com website uses the https://help.ninaprotocol.com domain to host its help pages. This is a separate server from the main Nina website and is hosted on Zendesk, a very popular centralized and closed source commercial customer support software suite.
+Besides Solana and Arweave, the ninaprotocol.com website uses the https://help.ninaprotocol.com domain to host its help pages. This is a separate server from the main Nina website and is hosted on Zendesk, a very popular centralized and closed source commercial customer support software suite.
 
 >We built Nina as open source software on open source networks (blockchains) to build a place for music online that avoids the pitfalls of legacy platforms.  Any policy change or fee is in code that can be seen in our public codebases.
 
@@ -139,9 +145,9 @@ This might seem like a nitpick, but the distinction becomes apparent as one read
 ## What's up with all the disclaimers?
 
 Nina's terms of service agreement provides the following warnings:
-- **At any time, your access to your tokens or other cryptocurrency assets may be suspended or terminated** or there may be a delay in your access or use which may result in your tokens or other cryptocurrency assets diminishing in value or you being unable to complete a Smart Contract.
-- **The Services may be suspended or terminated for any or no reason**, which may limit your access to your Cryptocurrency Assets.
-- **You agree that you have an understanding of the usage and intricacies of native cryptographic tokens.** You acknowledge and understand that you alone are responsible for securing your private key(s). We do not have access to your private key(s). Losing control of your private key(s) will permanently and irreversibly deny you access to blockchain resources and your blockchain wallet.
+>- **At any time, your access to your tokens or other cryptocurrency assets may be suspended or terminated** or there may be a delay in your access or use which may result in your tokens or other cryptocurrency assets diminishing in value or you being unable to complete a Smart Contract.
+>- **The Services may be suspended or terminated for any or no reason**, which may limit your access to your Cryptocurrency Assets.
+>- **You agree that you have an understanding of the usage and intricacies of native cryptographic tokens.** You acknowledge and understand that you alone are responsible for securing your private key(s). We do not have access to your private key(s). Losing control of your private key(s) will permanently and irreversibly deny you access to blockchain resources and your blockchain wallet.
 
 Requiring an "understanding of the usage and intricacies of native cryptographic tokens" contradicts Mike Pollard's [claim](https://www.coindesk.com/business/2021/11/20/music-marketplace-nina-wants-to-be-a-bandcamp-for-web-30/) that Nina can "baby-step" people into crypto without them having to "fully drink the Kool-aid". Any artist or fan using the service without a strong understanding of how crypto works is at risk of permanently losing their purchases should something go wrong.
 
@@ -151,13 +157,13 @@ Requiring an "understanding of the usage and intricacies of native cryptographic
 
 A side effect of using Arweave's public blockchain for hosting is that all of the music on Nina can be downloaded for free by anyone. Unlike platforms like Bandcamp and iTunes that use low quality or short previews, **Nina exposes maximum quality mp3s uploaded by artists to the entire internet**. I was able to find the NFT minting transaction for the latest staff pick on Nina and download all of the songs on it in a matter of minutes.
 
-This is the same issue faced by non-music NFTs such as the Bored Ape Yacht Club that led to the internet [roundly mocking](https://slate.com/technology/2021/11/nft-image-ownership-right-clicking-saving-copying-trolling.html) those who spent money on them. The usual defense against this offered by NFT enthusiasts is something along the lines of [this tweet](https://twitter.com/0xAllen_/status/1451218682080894991) by Twitter user 0xAllen. 
+This is the same issue faced by non-music NFTs such as the Bored Ape Yacht Club that led to the internet [roundly mocking](https://slate.com/technology/2021/11/nft-image-ownership-right-clicking-saving-copying-trolling.html) those who spent money on them. The usual defense against this offered by NFT enthusiasts is something along the lines of [this post](https://twitter.com/0xAllen_/status/1451218682080894991) by Twitter user 0xAllen. 
 
 ![Screenshot of https://twitter.com/0xAllen_/status/1451218682080894991. The Media downloaded by "right click savers" is portrayed as being worth $0](../images/nina-arweave/nina_right-click_save_tweet.png)
 
 A Nina NFT, so the argument goes, benefits from the security of a decentralized network where users can buy and sell releases like physical records. This is exactly how Greenfield, the crypto investment firm that funded Nina in 2022, [described releases on the platform](https://greenfield.xyz/2022/10/12/backing-nina/) , calling them "one-of-a-kind digital vinyls". Meanwhile, a random person right clicking and saving the music would get nothing besides a worthless audio file.
 
-There's just one problem with this: **mp3s of music that artists poured their souls into are not worth $0! Especially mp3s that are played by DJs at for-profit gigs!**
+There's just one problem with this: **mp3s of music that artists poured their souls into are not worth $0! Especially mp3s that are played by DJs at for profit gigs!**
 
 I don't believe the artists on Nina were aware of this design when they signed up for the service and I don't want to enable piracy of their works. Accordingly, I am not including detailed instructions for locating these mp3s as part of this article.
 
@@ -183,22 +189,22 @@ The weirdness with file hosting on Nina doesn't stop with lossless files - how p
 
 Using the [Nina API explorer](https://dev.ninaprotocol.com/)to look up accounts, I'm able to see the recently created profile of [Shokuhin Maturi a.k.a Foodman](https://www.ninaprotocol.com/profiles/shokuhin-maturi), the acclaimed producer signed to Hyperdub Records. The data returned by Nina shows that Foodman's [profile picture](https://i1.sndcdn.com/avatars-AHrKsEqfpx9JJieF-QkYeKQ-t500x500.jpg) isn't being hosted by Nina or Arweave at all - **it's simply a link to the image on Soundcloud's servers**. This is good for Nina's bottom line, but it makes their service less reliable.
 
-This doesn't apply to all images on Nina. For example, the [profile picture](https://nina.imgix.net/https%3A%2F%2Farweave.net%2FLjD449Du-yZSdqEiSUo5hNDtVH9N2HdOgIE1YJqJ6go?ixlib=js-3.8.0&w=320&fm=webp&s=615146c93b25114870d28d26865fa638) for Foodman's Nina Hub (a separate entity from his Nina account) is actually hosted on Arweave just like mp3s are. However, these profile pictures and all album art on Nina's website are processed through https://nina.imgix.net/ before being displayed rather than using the blockchain directly in order to save on bandwidth. Like CloudFront, [Imgix](https://www.imgix.com/) is a commercial and centralized traditional web business that Nina's developers are paying to use. Again, we see a case of a blockchain-based system needing to rely on non-blockchain services to function.
+This doesn't apply to all images on Nina. For example, the [profile picture](https://nina.imgix.net/https%3A%2F%2Farweave.net%2FLjD449Du-yZSdqEiSUo5hNDtVH9N2HdOgIE1YJqJ6go?ixlib=js-3.8.0&w=320&fm=webp&s=615146c93b25114870d28d26865fa638) for Foodman's Nina Hub (a separate entity from his Nina account) is actually hosted on Arweave just like mp3s are. However, these profile pictures and all album art on Nina's website are processed through https://nina.imgix.net/ before being displayed rather than using the blockchain directly in order to save on bandwidth. Like CloudFront, [Imgix](https://www.imgix.com/) is a commercial and centralized traditional web business that Nina's developers are paying to use. This is yet another example of a blockchain-based system needing to rely on non-blockchain services to function.
 
 ## Why doesn't Nina's code work?
 
 After the confusing ordeal of trying to download my own music, I decided to try running the user-face source code on [Nina's Github account](https://github.com/nina-protocol/nina). The instructions begin with a disclaimer in bold that says:
 >**Nina is in active development - APIs subject to change - code is unaudited - use at your own risk**
 
-I tried running the scripts under the "frontend" section of these instructions, but they simply do not exist in the code. I was able to find a script that does exist by searching through the files, but the undocumented build command failed with errors on my Macbook. 
+I tried running the scripts under the "frontend" section of these instructions, but they simply do not exist in the code. I was able to find a script that does exist by searching through the files, but the undocumented build command failed with errors on my Macbook. 🤷‍♀️
 
 ## Where is the Nina's real source code?
 
 As running Nina's code doesn't seem to work, my next move was to visually trace through the code to try and figure out what it does. Unfortunately, this led me to a new issue: **Nina's code doesn't line up with what's on their website**. For example, the [source code for managing release bonus material](https://github.com/nina-protocol/nina/blob/main/js/sdk/src/components/GateManageModal.js) contains phrases like "Bonus Material Manager" and "Existing Bonus Material" which don't appear in my interface for managing releases. The source code also uses a trash can icon for deleting files rather than the "delete file" text present on the website.
 
-Confused by this discrepancy, I began to look into the history of Nina's public code. Since the release of Nina v2 on November 13, 2023, there has been a grand total of [3 commits](https://github.com/nina-protocol/nina/commits) to Nina's main Github repository. Only one of these commits contained a change to the code for Nina's website, which [added](https://github.com/nina-protocol/nina/commit/63ec44de4f7d96500ec995f8749ba1d512f7f0a7) a deprecation notice on the v1 pages for Hub.
+Confused by these discrepancies, I began to look into the history of Nina's public code. Since the release of Nina v2 on November 13, 2023, there has been a grand total of [3 changes](https://github.com/nina-protocol/nina/commits) to Nina's main code repository on Github. Only one of these commits contained a change to the code for Nina's website, which [added](https://github.com/nina-protocol/nina/commit/63ec44de4f7d96500ec995f8749ba1d512f7f0a7) a deprecation notice on the v1 pages for Hub.
 
-The actual code for Nina v2 is nowhere to be found on Github. Thankfully, I'm still able to see the code using browser developer tools which are able to display the names of each file that makes up Nina's website. These names of these files, such as `ReleaseGeneralSettings.tsx`, are visible, allowing me to verify that this file [does not exist](https://github.com/search?q=org%3Anina-protocol%20ReleaseGeneralSettings.tsx&type=repositories) in any of Nina's code repositories.
+The actual code for Nina v2 is nowhere to be found on Github. Thankfully, I'm still able to see the code using browser developer tools which are able to display the names of each file that makes up Nina's website. These names of these files, such as `ReleaseGeneralSettings.tsx`, are visible, allowing me to verify that they [do not exist](https://github.com/search?q=org%3Anina-protocol%20ReleaseGeneralSettings.tsx&type=repositories) in any of Nina's code repositories.
 
 **This effectively means that Nina is no longer open source.**
 
