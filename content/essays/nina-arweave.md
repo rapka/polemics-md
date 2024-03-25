@@ -23,7 +23,7 @@ Bitcoin uses a consensus mechanism called **proof-of-work** where nodes are requ
 
 There is no limit on how many nodes can mine Bitcoin, which has created the environmentally disastrous gold rush of mining that has been in the news over the past few years. To deal with this problem, other consensus mechanisms for newer blockchains have been designed. The most popular of these is called "proof of stake", where the receipts are verified by nodes who own a substantial amount of crypto that is reserved for the use of the blockchain. This creates other problems, but it deals with the environmental impact of Bitcoin's proof of work. Solana, the blockchain that handles purchases on Nina, uses proof of stake.
 
-## OK, what's Solana then?
+## OK, what's Solana then??
 
 Solana is the primary blockchain that keeps track of Solana releases. It's like Bitcoin, except the network allows users to store other currencies and NFTs alongside their Solana balance.
 
@@ -33,7 +33,7 @@ Accessing and using a crypto wallet requires access to its unique password (or "
 >You agree that you have an understanding of the usage and intricacies of native cryptographic tokens. You acknowledge and understand that you alone are responsible for securing your private key(s). We do not have access to your private key(s). Losing control of your private key(s) will permanently and irreversibly deny you access to blockchain resources and your blockchain wallet.
 
 This is not obvious to new users on the Nina platform because Nina uses a service called Magic Wallet to create blockchain wallets on their behalf.
-## What is Magic Wallet?
+## What is Magic Wallet???
 
 In order to simplify the act of signing up for an NFT platform, Nina uses a third party service called [Magic](https://magic.link/) which advertises itself as a provider of "the leading wallet-as-a-service plus essential NFT capabilities". Nina uses Magic to automatically create a wallet on the Solana blockchain to store cryptocurrencies and NFTs when users sign up with an email address. This makes the [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14331796132887-Do-I-need-a-Solana-wallet-to-use-Nina) on the subject a bit misleading; **users do in fact need a Solana wallet to use Nina, Solana just uses a service to help them make one when they sign up.**
 
@@ -45,15 +45,15 @@ I dunno what's going on here. 🤷‍♀️
 
 An NFT is simply a receipt that exists on a blockchain to indicate that a certain account owns a certain item. In Nina's case, this means attaching the metadata for a release (artist, title, record label, etc) and links to mp3 files to the Solana wallets that Nina creates for new users using Magic Wallet. 
 
-Solana keeps track of who's buying what release, but it doesn't host the audio files itself. Instead, Nina uses a completely separate blockchain called Arweave.
+Solana keeps track of who's buying what release, but it doesn't host the audio files itself. Instead, Nina uses a completely separate blockchain named Arweave.
 
-## What's Arweave?
+## What's Arweave????
 
 The blockchain and associated cryptocurrency used to host Nina's files is called [Arweave](https://www.arweave.org/). In simple terms, Arweave functions very similarly to Bitcoin wherein a network of miners do processing work to power the blockchain and are rewarded in crypto. The main difference between Arweave and Bitcoin is that Arweave asks miners to also reserve hard drive space for file hosting on top of the computation requirements. This means that Arweave (and thus Nina) inherit many of Bitcoin's flaws while also introducing new complications.
 
 Nina uses two different blockchains as part of its architecture: Solana handles payments and determines who owns each NFT, and while Arweave is responsible for hosting and serving the actual music files.
 
-## What's the environmental impact of using Arweave?
+## What's the environmental impact of using Nina? (Real answer)
 
 Besides proof of work and proof of stake, another consensus mechanism that's been proposed for blockchains is "proof of storage". Under this design, nodes must reserve hard drive space in order to verify transactions. This is usually done for blockchains that need to host larger files and in theory proof of stake doesn't have the same environmental impact as proof of work.
 
@@ -93,7 +93,7 @@ I dunno what's going on here either. 🤷‍♀️
 
 ## What's up with Nina's fees?
 
-Uploads to Arweave are paid upfront by artists on Nina when they upload their music. Here's how Nina's [support page](https://help.ninaprotocol.com/hc/en-us/articles/14332524801559-What-are-the-transaction-fees-when-I-publish-a-release) describes this system:
+Uploads to Arweave are paid upfront by artists on Nina when they upload their music. Here's how Nina's [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14332524801559-What-are-the-transaction-fees-when-I-publish-a-release) describes this system:
 
 > Music uploaded to Nina is stored on a decentralized storage network called Arweave. This requires a small one-time fee.
 > 
@@ -103,11 +103,11 @@ Uploads to Arweave are paid upfront by artists on Nina when they upload their mu
 
 The third sentence appears to be incomplete; the cost to store the "artwork, audio, and artwork files" is simply missing. 🤷‍♀️
 
-Morever, Solana's cryptocurrency [trades](https://coinmarketcap.com/currencies/solana/)for $174.93 at time of writing, making 0.032 SOL equivalent to $5.57 rather than $1.20. I do not believe that this page tracks changes to the price of Solana, highlighting the issues of trying to use a volatile crypto currency to power a music platform.
+Morover, Solana's cryptocurrency [trades](https://coinmarketcap.com/currencies/solana/)for $174.93 at time of writing, making 0.032 SOL equivalent to $5.57 rather than $1.20. I do not believe that this page tracks changes to the price of Solana, highlighting the issues of trying to use a volatile crypto currency to power a music platform.
 
 ## Where is my $26?
 
-The same FAQ page also says that "new users on Nina get a .15 SOL credit to their upload account". I cannot find any information about this account or a 0.15SOL credit. 0.15SOL is worth $26.23, which I could conceivably cash out for real cash if I knew the wallet address. **I would like my $26.23!**
+The same [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14332524801559-What-are-the-transaction-fees-when-I-publish-a-release) also says that "new users on Nina get a .15 SOL credit to their upload account". I cannot find any information about this account or a 0.15SOL credit. 0.15SOL is worth $26.23, which I could conceivably cash out for real cash if I knew the wallet address. **I would like my $26.23!**
 
 Nina's [terms of service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9) says in no uncertain terms that **"fees are the sole responsibility of the Artists and users"**, but provides no way to see the fees I have racked up by uploading releases with a new account. If Nina is currently paying these fees on behalf on artists, the ToS seems to indicate they could decide to stop this policy at any time and retroactively ask artists for payment.
 
@@ -179,7 +179,7 @@ When I attempted to re-download my own song from Nina, I was given a broken file
 
 CloudFront is content delivery network operated by Amazon Web Services. It is not decentralized.
 
-While I'm not a huge fan of Amazon to say the least, I don't really have an issue with Nina using Amazon Web Services. AWS powers a lot of the modern internet and like Twitch.tv, it's a business that's mostly separate from the toxic mess that is the Amazon's primary business. What I *do* have a problem with is the lack of transparency from Nina's team. **Amazon servers are the epitome of the platforms "built on privately owned technology" decried in [Nina's blockchain FAQ](https://help.ninaprotocol.com/hc/en-us/articles/14331778320279-Why-is-Nina-built-on-the-blockchain).** 
+While I'm not a huge fan of Amazon (to say the least), I don't really have an issue with Nina using Amazon Web Services. AWS powers a lot of the modern internet and like Twitch.tv, it's a business that's mostly separate from the toxic mess that is the Amazon's primary business. What I *do* have a problem with is the lack of transparency from Nina's team. **Amazon servers are the epitome of the platforms "built on privately owned technology" decried in [Nina's blockchain FAQ](https://help.ninaprotocol.com/hc/en-us/articles/14331778320279-Why-is-Nina-built-on-the-blockchain).** 
 
 This contradiction exposes a common flaw in blockchain-based platform: developers often have to go outside the blockchain to use traditional development methods in order to make a service that is functional and performant.
 
@@ -198,7 +198,7 @@ After the confusing ordeal of trying to download my own music, I decided to try 
 
 I tried running the scripts under the "frontend" section of these instructions, but they simply do not exist in the code. I was able to find a script that does exist by searching through the files, but the undocumented build command failed with errors on my Macbook. 🤷‍♀️
 
-## Where is the Nina's real source code?
+## Where is Nina's real source code?
 
 As running Nina's code doesn't seem to work, my next move was to visually trace through the code to try and figure out what it does. Unfortunately, this led me to a new issue: **Nina's code doesn't line up with what's on their website**. For example, the [source code for managing release bonus material](https://github.com/nina-protocol/nina/blob/main/js/sdk/src/components/GateManageModal.js) contains phrases like "Bonus Material Manager" and "Existing Bonus Material" which don't appear in my interface for managing releases. The source code also uses a trash can icon for deleting files rather than the "delete file" text present on the website.
 
