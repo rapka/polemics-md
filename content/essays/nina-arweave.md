@@ -63,7 +63,7 @@ One of Nina's developers recently disputed that Arweave uses proof of work when 
 
 ## Is Arweave actually "Trusted by the best"?
 
-Arweave's [website](https://arweave.org/use)brags about its corporate partners, including Meta and Instagram. In the case of Meta, Arweave links to an [announcement](https://www.theblock.co/post/182569/meta-arweave-instagram-nfts)from November 2022 that Arweave will be used to power Instagram's NFTs. However, **Arweave doesn't mention that Instagram [disabled](https://www.forbes.com/sites/williamanderson/2023/04/11/instagram-no-longer-supports-nfts/) all of their NFT features a mere five months after launching them**.
+Arweave's [website](https://arweave.org/use) brags about its corporate partners, including Meta and Instagram. In the case of Meta, Arweave links to an [announcement](https://www.theblock.co/post/182569/meta-arweave-instagram-nfts) from November 2022 that Arweave will be used to power Instagram's NFTs. However, **Arweave doesn't mention that Instagram [disabled](https://www.forbes.com/sites/williamanderson/2023/04/11/instagram-no-longer-supports-nfts/) all of their NFT features a mere five months after launching them**.
 
 I dunno why they haven't updated their website. 🤷‍♀️
 
