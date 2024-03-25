@@ -75,9 +75,9 @@ Nina is such an app, meaning that uploads of Nina releases to Arweave and their 
 
 For example, the same Irys/Arweave bundle that contains dBridge's Vemödalen EP also contains an AI generated image of a Panda with Bitcoin bling called "Panda of Africa" and a meme NFT of Joe Biden called [COMMANDER BODEN](https://exchange.art/single/7RSq4f3VxsoNsL1hffE2gD5tPGfthUEunHD1nwnikLQn). This is part of an NFT collection called ["BODENS ARMY"](https://exchange.art/series/BODENS%20ARMY/about). This is the type of content that usually lives alongside Nina releases:
 
-![COMMANDER BODEN NFT](../images/nina-arweave/COMMANDER_BODEN_9wcy4PL76Si0lmcbX52yV7LBvAeiVFi4H2KOfnRvhnk-small.gif)
+!["COMMANDER BODEN" NFT](../images/nina-arweave/COMMANDER_BODEN_9wcy4PL76Si0lmcbX52yV7LBvAeiVFi4H2KOfnRvhnk-small.gif)
 
-!["Panda of Africa" image hosted on Nina](../images/nina-arweave/Panda_of_Africa_F7xGcq9nn6Y-sDXLfd41ZNeAQvkATDrJ1AKVcmRbeZg.jpg)
+!["Panda of Africa" NFT image hosted on the same blockchain as Nina](../images/nina-arweave/Panda_of_Africa_F7xGcq9nn6Y-sDXLfd41ZNeAQvkATDrJ1AKVcmRbeZg.jpg)
 
 ## What was up the beef between Irys and Arweave?
 
@@ -107,7 +107,7 @@ Morever, Solana's cryptocurrency [trades](https://coinmarketcap.com/currencies/s
 
 ## Where is my $26?
 
-The same FAQ page also says that "new users on Nina get a .15 SOL credit to their upload account". I cannot find any information about this account or a 0.15SOL credit. 0.15SOL is worth $26.23, which I could conceivably cash out for real cash if I knew the wallet address. **I would like the $26.23 that was promised to me!**
+The same FAQ page also says that "new users on Nina get a .15 SOL credit to their upload account". I cannot find any information about this account or a 0.15SOL credit. 0.15SOL is worth $26.23, which I could conceivably cash out for real cash if I knew the wallet address. **I would like my $26.23!**
 
 Nina's [terms of service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9) says in no uncertain terms that **"fees are the sole responsibility of the Artists and users"**, but provides no way to see the fees I have racked up by uploading releases with a new account. If Nina is currently paying these fees on behalf on artists, the ToS seems to indicate they could decide to stop this policy at any time and retroactively ask artists for payment.
 
