@@ -23,7 +23,7 @@ Bitcoin uses a consensus mechanism called **proof-of-work** where nodes are requ
 
 There is no limit on how many nodes can mine Bitcoin, which has created the environmentally disastrous gold rush of mining that has been in the news over the past few years. To deal with this problem, other consensus mechanisms for newer blockchains have been designed. The most popular of these is called "proof of stake", where the receipts are verified by nodes who own a substantial amount of crypto that is reserved for the use of the blockchain. This creates other problems, but it deals with the environmental impact of Bitcoin's proof of work. Solana, the blockchain that handles purchases on Nina, uses proof of stake.
 
-## Ok, what's Solana then?
+## OK, what's Solana then?
 
 Solana is the primary blockchain that keeps track of Solana releases. It's like Bitcoin, except the network allows users to store other currencies and NFTs alongside their Solana balance.
 
