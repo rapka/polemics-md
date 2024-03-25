@@ -73,9 +73,9 @@ Blockchains like Arweave tend to be expensive and slow, so most apps use a netwo
 
 Nina is such an app, meaning that uploads of Nina releases to Arweave and their associated fees are bundled together with other random NFTs. Because of this, its unclear to me how much of the fee is represented by a Nina release or how the fees are paid.
 
-For example, the same Irys/Arweave bundle that contains dBridge's Vemödalen EP also contains an AI generated image of a Panda with Bitcoin bling called "Panda of Africa" and a meme NFT of Joe Biden called [COMMANDER BODEN](https://exchange.art/single/7RSq4f3VxsoNsL1hffE2gD5tPGfthUEunHD1nwnikLQn). This is part of an NFT collection called ["BODENS ARMY"](https://exchange.art/series/BODENS%20ARMY/about). **This is the type of content that usually lives alongside Nina releases.**
+For example, the same Irys/Arweave bundle that contains dBridge's Vemödalen EP also contains an AI generated image of a Panda with Bitcoin bling called "Panda of Africa" and a meme NFT of Joe Biden called [COMMANDER BODEN](https://exchange.art/single/7RSq4f3VxsoNsL1hffE2gD5tPGfthUEunHD1nwnikLQn). This is part of an NFT collection called ["BODENS ARMY"](https://exchange.art/series/BODENS%20ARMY/about). This is the type of content that usually lives alongside Nina releases:
 
-![COMMANDER BODEN NFT](../images/nina-arweave/COMMANDER_BODEN_9wcy4PL76Si0lmcbX52yV7LBvAeiVFi4H2KOfnRvhnk.gif)
+![COMMANDER BODEN NFT](../images/nina-arweave/COMMANDER_BODEN_9wcy4PL76Si0lmcbX52yV7LBvAeiVFi4H2KOfnRvhnk-small.gif)
 
 !["Panda of Africa" image hosted on Nina](../images/nina-arweave/Panda_of_Africa_F7xGcq9nn6Y-sDXLfd41ZNeAQvkATDrJ1AKVcmRbeZg.jpg)
 
