@@ -15,9 +15,9 @@ As is the case with many crypto projects, Nina's developers have not been comple
 
 ## WTF is a blockchain anyway? An explainer
 
-In its simplest form, a blockchain is just a database of financial transactions. It keeps track of everyone's crypto balances and what's been done with them. Unlike traditional financial databases controlled by one owner (PayPal, banks, etc), the data on a blockchain is duplicated across many disparate computers spread across the globe called "nodes". These nodes have to independently verify new transactions before they're added to the blockchain, ensuring that the wallet balances and transaction history are tamper-proof (in theory).
+In its simplest form, a blockchain is just a database of financial transactions. It keeps track of everyone's crypto balances and what's been done with them. Unlike traditional financial databases controlled by one owner (PayPal, banks, etc), the data on a blockchain is duplicated across many disparate computers spread across the globe called "nodes". These nodes have to independently verify new transactions before they're added to the blockchain, ensuring that the wallet balances and transaction history are tamper-proof. In theory.
 
-All blockchains require these decentralized nodes powering them to provide some kind of receipt that they data they're trying to add is legitimate before it gets appended to the official database. To prevent hacking, many identical receipts must be provided by different nodes before a transaction is finalized. The algorithm that creates these receipts (called a "consensus mechanism") is designed to require some work on the part of nodes, who are subsequently compensated in crypto for their effort. What exactly that "effort" entails is where things get tricky.
+All blockchains require these decentralized nodes powering them to provide some kind of receipt that the data they're trying to add is legitimate before it gets appended to the official database. To prevent hacking, many identical receipts must be provided by different nodes before a transaction is finalized. The algorithm that creates these receipts (called a "consensus mechanism") is designed to require some work on the part of nodes, who are subsequently compensated in crypto for their effort. What exactly that "effort" entails is where things get tricky.
 
 Bitcoin uses a consensus mechanism called **proof-of-work** where nodes are required to solve difficult, pointless math problems and attach their answers to data being added to the blockchain. This is where the term "mining" comes from - miners spend a lot of energy crunching data and are rewarded for their effort by being given newly created Bitcoins.
 
@@ -27,7 +27,7 @@ There is no limit on how many nodes can mine Bitcoin, which has created the envi
 
 Solana is the primary blockchain that keeps track of Solana releases. It's like Bitcoin, except the network allows users to store other currencies and NFTs alongside their Solana balance.
 
-Accessing and using a crypto wallet requires access to its unique password (or "key"), which is not kept by anyone besides the owner. This has led to situations like a [hard drive worth $70 million being accidentally thrown in the trash](https://www.cnn.com/2021/01/15/uk/bitcoin-trash-landfill-gbr-scli-intl/index.html) with no insurance or recourse for the owner. Nina's [Terms of Service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9) make it clear that their blockchain-based system comes with similar risks to users:
+Using a crypto wallet requires access to its unique password (or "key"), which is not kept by anyone besides the owner. This has led to situations like a [hard drive worth $70 million being accidentally thrown in the trash](https://www.cnn.com/2021/01/15/uk/bitcoin-trash-landfill-gbr-scli-intl/index.html) with no insurance or recourse for the owner. Nina's [Terms of Service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9) make it clear that their blockchain-based system comes with similar risks to users:
 >You agree that you understand the inherent risks associated with cryptographic systems, including hacking risks and future technological development.
 >
 >You agree that you have an understanding of the usage and intricacies of native cryptographic tokens. You acknowledge and understand that you alone are responsible for securing your private key(s). We do not have access to your private key(s). Losing control of your private key(s) will permanently and irreversibly deny you access to blockchain resources and your blockchain wallet.
@@ -35,9 +35,9 @@ Accessing and using a crypto wallet requires access to its unique password (or "
 This is not obvious to new users on the Nina platform because Nina uses a service called Magic Wallet to create blockchain wallets on their behalf.
 ## What is Magic Wallet???
 
-In order to simplify the act of signing up for an NFT platform, Nina uses a third party service called [Magic](https://magic.link/) which advertises itself as a provider of "the leading wallet-as-a-service plus essential NFT capabilities". Nina uses Magic to automatically create a wallet on the Solana blockchain to store cryptocurrencies and NFTs when users sign up with an email address. This makes the [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14331796132887-Do-I-need-a-Solana-wallet-to-use-Nina) on the subject a bit misleading; **users do in fact need a Solana wallet to use Nina, Solana just uses a service to help them make one when they sign up.**
+In order to simplify the act of signing up for an NFT platform, Nina uses a third party service called [Magic](https://magic.link/) which advertises itself as a provider of "the leading wallet-as-a-service plus essential NFT capabilities". Nina uses Magic to automatically create a wallet on the Solana blockchain to store cryptocurrencies and NFTs when users sign up with an email address. This makes the [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14331796132887-Do-I-need-a-Solana-wallet-to-use-Nina) on the subject a bit misleading; **users do need a Solana wallet to use Nina, Solana just uses a service to help them make one when they sign up.**
 
-All this Nina/Magic/Solana business gets even more confusing once private keys get involved. While Nina makes new Magic accounts on behalf of users, I'm not sure how to actually access mine from Nina's platform. Nina displays the _Solano Address_ of every user on their profile but this is different from being able to access the wallet itself. **Wallets are created as soon as a new user enters their email and Nina does not seem to provide those new accounts with any information on the wallet being managed for them or any way to access their private keys.
+All this Nina/Magic/Solana business gets even more confusing once private keys get involved. While Nina makes new Magic accounts on behalf of users, I'm not sure how to actually access mine from Nina's platform. Nina displays the _Solano Address_ of every user on their profile but this is different from being able to access the wallet itself. Wallets are created as soon as a new user enters their email and Nina does not seem to provide those new users with any information about their wallet or any way to access their private keys.
 
 I dunno what's going on here. 🤷‍♀️
 
@@ -45,13 +45,11 @@ I dunno what's going on here. 🤷‍♀️
 
 An NFT is simply a receipt that exists on a blockchain to indicate that a certain account owns a certain item. In Nina's case, this means attaching the metadata for a release (artist, title, record label, etc) and links to mp3 files to the Solana wallets that Nina creates for new users using Magic Wallet. 
 
-Solana keeps track of who's buying what release, but it doesn't host the audio files itself. Instead, Nina uses a completely separate blockchain named Arweave.
+Solana keeps track of who's buying and selling NFTs, but it doesn't host the audio files itself. Instead, Nina uses a completely separate blockchain named Arweave.
 
 ## What's Arweave????
 
 The blockchain and associated cryptocurrency used to host Nina's files is called [Arweave](https://www.arweave.org/). In simple terms, Arweave functions very similarly to Bitcoin wherein a network of miners do processing work to power the blockchain and are rewarded in crypto. The main difference between Arweave and Bitcoin is that Arweave asks miners to also reserve hard drive space for file hosting on top of the computation requirements. This means that Arweave (and thus Nina) inherit many of Bitcoin's flaws while also introducing new complications.
-
-Nina uses two different blockchains as part of its architecture: Solana handles payments and determines who owns each NFT, and while Arweave is responsible for hosting and serving the actual music files.
 
 ## What's the environmental impact of using Nina? (Real answer)
 
@@ -63,7 +61,7 @@ One of Nina's developers recently disputed that Arweave uses proof of work when 
 
 ## Is Arweave actually "Trusted by the best"?
 
-Arweave's [website](https://arweave.org/use) brags about its corporate partners, including Meta and Instagram. In the case of Meta, Arweave links to an [announcement](https://www.theblock.co/post/182569/meta-arweave-instagram-nfts) from November 2022 that Arweave will be used to power Instagram's NFTs. However, **Arweave doesn't mention that Instagram [disabled](https://www.forbes.com/sites/williamanderson/2023/04/11/instagram-no-longer-supports-nfts/) all of their NFT features a mere five months after launching them**.
+Arweave's [website](https://arweave.org/use) brags about its corporate partners, including Meta and Instagram. In the case of Meta, Arweave links to an [announcement](https://www.theblock.co/post/182569/meta-arweave-instagram-nfts) from November 2022 that the blockchain will be used to power Instagram's NFTs. However, **Arweave doesn't mention that Instagram [disabled](https://www.forbes.com/sites/williamanderson/2023/04/11/instagram-no-longer-supports-nfts/) all of their NFT features a mere five months after launching them**.
 
 I dunno why they haven't updated their website. 🤷‍♀️
 
@@ -73,7 +71,7 @@ Blockchains like Arweave tend to be expensive and slow, so most apps use a netwo
 
 Nina is such an app, meaning that uploads of Nina releases to Arweave and their associated fees are bundled together with other random NFTs. Because of this, its unclear to me how much of the fee is represented by a Nina release or how the fees are paid.
 
-For example, the same Irys/Arweave bundle that contains dBridge's Vemödalen EP also contains an AI generated image of a Panda with Bitcoin bling called "Panda of Africa" and a meme NFT of Joe Biden called [COMMANDER BODEN](https://exchange.art/single/7RSq4f3VxsoNsL1hffE2gD5tPGfthUEunHD1nwnikLQn). This is part of an NFT collection called ["BODENS ARMY"](https://exchange.art/series/BODENS%20ARMY/about). This is the type of content that usually lives alongside Nina releases:
+For example, the same Irys/Arweave bundle that contains dBridge's excellent [Vemödalen EP](https://www.ninaprotocol.com/releases/dbridge-vemodalen-ep-exit073) also contains an AI generated image of a Panda with Bitcoin bling called "Panda of Africa" and a meme NFT of Joe Biden called [COMMANDER BODEN](https://exchange.art/single/7RSq4f3VxsoNsL1hffE2gD5tPGfthUEunHD1nwnikLQn). This is part of an NFT collection called ["BODENS ARMY"](https://exchange.art/series/BODENS%20ARMY/about). This is the type of content that usually lives alongside Nina releases:
 
 !["COMMANDER BODEN" NFT](../images/nina-arweave/COMMANDER_BODEN_9wcy4PL76Si0lmcbX52yV7LBvAeiVFi4H2KOfnRvhnk-small.gif)
 
@@ -81,11 +79,11 @@ For example, the same Irys/Arweave bundle that contains dBridge's Vemödalen EP 
 
 ## What was up the beef between Irys and Arweave?
 
-On December 17, 2023, Arweave founder Sam Williams [took to Twitter](https://twitter.com/samecwilliams/status/1736506715523178571)and alleged that Irys' developer were planning a hard fork of Arweave's blockchain. In non-crypto terms, this means that Irys was planning on making their own version of Arweave and start from scratch, deleting all of the existing data they were hosting, including the data uploaded to Nina up until that point. Williams accused Irys' developers of greed, claiming the "stated that they didn’t want to have to support the existing data and ‘give tokens to a bunch of (expletives)’". 
+On December 17, 2023, Arweave founder Sam Williams [took to Twitter](https://twitter.com/samecwilliams/status/1736506715523178571)and alleged that Irys' developers were planning a hard fork of Arweave's blockchain. In non-crypto terms, this means that Irys was planning on making their own version of Arweave and starting from scratch. This would involve deleting all of the existing data on the network, including all the music uploaded to Nina up until that point. Williams accused Irys' developers of greed, claiming they "stated that they didn’t want to have to support the existing data and ‘give tokens to a bunch of (expletives)’". 
 
 In a [response](https://twitter.com/irys_xyz/status/1736535577959264702), Irys denied this, stating that their plans would not disrupt existing services that rely on their network. However, that same tweet also claims that "active censorship" could cause issues with retrieving data from arweave.net, which is the domain currently used by Nina.
 
-Earlier in the tweet, Williams states that "Permanent storage needs forks – they are required for long-term resilience". I agree with this, but it also means that Arweave's "permanent" storage requires not just regular maintenance of its code, but also the continued upgrading of the majority of its community. 
+Earlier in the tweet, Williams states that "Permanent storage needs forks – they are required for long-term resilience". I agree with this, but it also means that Arweave’s “permanent” storage requires not just regular maintenance of its code, but also the continued maintenance of individual miner nodes.
 
 On January 4th, Irys founder Josh Benaron used his own account to [post another tweet](https://twitter.com/josh_benaron/status/1742887405068181641) announcing that the situation was resolved. He explained that Irys will continue to support Arweave's data for the forseeable future and apologized for "any distress this misunderstanding may have caused".
 
@@ -94,22 +92,21 @@ I dunno what's going on here either. 🤷‍♀️
 ## What's up with Nina's fees?
 
 Uploads to Arweave are paid upfront by artists on Nina when they upload their music. Here's how Nina's [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14332524801559-What-are-the-transaction-fees-when-I-publish-a-release) describes this system:
-
 > Music uploaded to Nina is stored on a decentralized storage network called Arweave. This requires a small one-time fee.
 > 
->- The cost to store metadata is 0.032 SOL which is roughly $1.20 and the cost to store the artwork, audio, and artwork files.  This costs roughly $0.003/MB (so a 10MB mp3 costs a one-time fee of $0.03 to store).
+>The cost to store metadata is 0.032 SOL which is roughly $1.20 and the cost to store the artwork, audio, and artwork files.  This costs roughly $0.003/MB (so a 10MB mp3 costs a one-time fee of $0.03 to store).
 >
 >Nina does not take a cut from the one-time storage fee. Unlike similar services, you do not need to pay a monthly subscription fee to keep your music online.
 
 The third sentence appears to be incomplete; the cost to store the "artwork, audio, and artwork files" is simply missing. 🤷‍♀️
 
-Morover, Solana's cryptocurrency [trades](https://coinmarketcap.com/currencies/solana/)for $174.93 at time of writing, making 0.032 SOL equivalent to $5.57 rather than $1.20. I do not believe that this page tracks changes to the price of Solana, highlighting the issues of trying to use a volatile crypto currency to power a music platform.
+Morover, Solana's cryptocurrency [trades](https://coinmarketcap.com/currencies/solana/)for $174.93 at time of writing, making 0.032 SOL equivalent to $5.57 rather than $1.20. I do not believe that this page tracks changes to the price of Solana, highlighting the issues of trying to use a volatile cryptocurrency to power a music platform.
 
 ## Where is my $26?
 
 The same [FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14332524801559-What-are-the-transaction-fees-when-I-publish-a-release) also says that "new users on Nina get a .15 SOL credit to their upload account". I cannot find any information about this account or a 0.15SOL credit. 0.15SOL is worth $26.23, which I could conceivably cash out for real cash if I knew the wallet address. **I would like my $26.23!**
 
-Nina's [terms of service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9) says in no uncertain terms that **"fees are the sole responsibility of the Artists and users"**, but provides no way to see the fees I have racked up by uploading releases with a new account. If Nina is currently paying these fees on behalf on artists, the ToS seems to indicate they could decide to stop this policy at any time and retroactively ask artists for payment.
+Nina's [terms of service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9) says in no uncertain terms that **"fees are the sole responsibility of the Artists and users"**, but provides no way to see any fees I have racked up by uploading releases with a new account. If Nina is currently paying these fees on behalf on artists, the ToS seems to indicate they could decide to stop this policy at any time and retroactively ask artists for payment.
 
 ## What the heck is Arweave's "endowment"?
 
@@ -117,11 +114,13 @@ The one-time upload fees for uploading to Arweave are calculated by a complex fo
 
 The formula that calculates this upfront fee was devised by Arweave's developers by taking historical trends of hard drive prices dropping over time and [projecting those trends](https://arwiki.wiki/#/en/endowment-simulation) up to 10,000 years into the future. A conservative estimate of these trends is converted into the upload fee, which Arweave claims will "a finite cost for the indefinite storage of data" (or 200 years of storage, at least).
 
-Notably absent from these simulations are scenarios where the price of storage goes *up* due to say, an economic depression or supply chain issues for the material needed to manufacture hard drives. This situation would also require the price of Arweave's crypto to remain relatively stable and for all of the miners in Arweave's network to stick around for that long. 
+Notably absent from these simulations are scenarios where the price of storage goes *up* due to say, an economic depression or supply chain issues. This hypothetical situation would also require the price of Arweave's currency to remain relatively stable and for all of the miners in Arweave's network to stick around for that long. 
 
 ## How Decentralized is Arweave?
 
-You might be wondering how many miners there actually are hosting Arweave's content. Because the blockchain is possibly, it's possible to simply look at its [public metrics](https://viewblock.io/arweave/nodes) to find the answer: 65. Of these 65 nodes, 16 of them are hosted by German hosting service Hetzner Online GmbH, 12 of them are hosted on Amazon servers, and 11 are hosted by DigitalOcean. These three companies together represent 55% of the entire Arweave network.
+You might be wondering how many miners there actually are hosting Arweave's content. Because the blockchain is public, it's possible to simply look at its [public metrics](https://viewblock.io/arweave/nodes) to find the answer: 65.
+
+Of these 65 nodes, 16 of them are hosted by German hosting service Hetzner Online GmbH, 12 of them are hosted on Amazon servers, and 11 are hosted by DigitalOcean. These three companies together represent 55% of the entire Arweave network.
 
  That's not very decentralized and I don't think there's enough nodes to provide confidence that the network hosting Nina's music will last 200 years, much less 10,000.  On the flip side, it means there aren't very many people wasting electricity on this method of hosting.
 
@@ -140,7 +139,7 @@ Nina's [blockchain FAQ](https://help.ninaprotocol.com/hc/en-us/articles/14331778
 
 This isn't exactly accurate. A protocol is a set of _rules_ that tools (open source or other) can implement in order to operate as a network, not the tools themselves. Nina does indeed have a protocol for creating and selling releases as NFTs on the Solana blockchain, but the ninaprotocol.com website that implements their protocol is something else entirely. Nina's [Terms of Service](https://nina-protocol.notion.site/Nina-Protocol-Terms-of-Service-45db765d2ccf4000946af0af2ee491b9)also clarify that that **ninaprotocol.com is not a protocol but actually a Service operated by Nina Protocol Corp (a Delaware corporation)**.
 
-This might seem like a nitpick, but the distinction becomes apparent as one reads the rest of the terms. 
+This might seem like a nitpick, but the distinction becomes more apparent as one reads the rest of the terms. 
 
 ## What's up with all the disclaimers?
 
@@ -161,23 +160,23 @@ This is the same issue faced by non-music NFTs such as the Bored Ape Yacht Club 
 
 ![Screenshot of https://twitter.com/0xAllen_/status/1451218682080894991. The Media downloaded by "right click savers" is portrayed as being worth $0](../images/nina-arweave/nina_right-click_save_tweet.png)
 
-A Nina NFT, so the argument goes, benefits from the security of a decentralized network where users can buy and sell releases like physical records. This is exactly how Greenfield, the crypto investment firm that funded Nina in 2022, [described releases on the platform](https://greenfield.xyz/2022/10/12/backing-nina/) , calling them "one-of-a-kind digital vinyls". Meanwhile, a random person right clicking and saving the music would get nothing besides a worthless audio file.
+A Nina NFT, so the argument goes, benefits from the security of a decentralized network where users can buy and sell releases like physical records. This is exactly how Greenfield, the crypto investment firm that funded Nina in 2022, [described releases on the platform](https://greenfield.xyz/2022/10/12/backing-nina/), calling them "one-of-a-kind digital vinyls". Meanwhile, a random person right clicking and saving the music would get nothing besides a worthless audio file.
 
-There's just one problem with this: **mp3s of music that artists poured their souls into are not worth $0! Especially mp3s that are played by DJs at for profit gigs!**
+There's just one problem with this: **mp3s of music that artists poured their souls into are not worth $0! Especially mp3s that are played by DJs at for profit gigs!** 
 
 I don't believe the artists on Nina were aware of this design when they signed up for the service and I don't want to enable piracy of their works. Accordingly, I am not including detailed instructions for locating these mp3s as part of this article.
 
 ## What about bonus material?
 
-So far, my investigation has focused on the mp3s Nina stores on the blockchain. What happens to the original lossless WAV files that artists upload as "bonus material" is much less clear to me. 
+So far, my investigation has focused on the mp3s Nina stores on the blockchain. What happens to the lossless WAV files that are often included with releases as "bonus material" is much less clear to me. 
 
-WAV files for Nina releases don't seem to exist on Arweave as far as I can tell. The [Nina FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14334451677335-What-is-Arweave) about Arweave does not mention the storage of bonus material as being covered by upload fees.
+WAV files for Nina releases don't seem to exist on Arweave at all as far as I can tell. The [Nina FAQ page](https://help.ninaprotocol.com/hc/en-us/articles/14334451677335-What-is-Arweave) about Arweave does not mention the storage of bonus material as being covered by upload fees either.
 
-This has a few benefits: WAV files are 4.4x bigger than mp3s which cuts down on storage fees and these files can be limited to the users who own the NFTs. On the other hand, this obfuscates how the files are managed and sacrifices the alleged benefits of using a blockchain in the first place.
+This has a few benefits: WAV files are 4.4x bigger than mp3s which cuts down on storage fees. These files can also be limited to only the users who own the NFTs. On the other hand, this obfuscates how the files are managed and sacrifices the alleged benefits of using a blockchain in the first place.
 
 When I attempted to re-download my own song from Nina, I was given a broken file less than a kilobyte in size. This file was in fact a text file mislabeled to have a `.wav` extension, which in turn contained a link to my music hosted on cloudfront.net.
 
-CloudFront is content delivery network operated by Amazon Web Services. It is not decentralized.
+CloudFront is a content delivery network operated by Amazon Web Services. It is not decentralized.
 
 While I'm not a huge fan of Amazon (to say the least), I don't really have an issue with Nina using Amazon Web Services. AWS powers a lot of the modern internet and like Twitch.tv, it's a business that's mostly separate from the toxic mess that is the Amazon's primary business. What I *do* have a problem with is the lack of transparency from Nina's team. **Amazon servers are the epitome of the platforms "built on privately owned technology" decried in [Nina's blockchain FAQ](https://help.ninaprotocol.com/hc/en-us/articles/14331778320279-Why-is-Nina-built-on-the-blockchain).** 
 
