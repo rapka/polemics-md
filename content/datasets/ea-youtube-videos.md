@@ -1,3 +1,11 @@
+---
+title: YouTube Videos sponsored by GiveWell & 80,000 Hours
+tags:
+  - Datasets
+  - EffectiveAltruism
+  - ExistentialRisk
+  - AI
+---
 # YouTube Videos sponsored by GiveWell & 80,000 Hours
 
 This is the full list of YouTube videos sponsored by effective altruist groups as part of my research on the topic. Video view counts were recorded in April 2024.

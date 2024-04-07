@@ -50,7 +50,8 @@ export const defaultContentPageLayout: PageLayout = {
             const date = node.file.dates?.created;
             const month = dateFormatter.format(date);
             const year = date.getFullYear()
-            node.displayName = `[${month} ${year}] ${node.displayName}`;
+            // node.displayName = `[${month} ${year}] ${node.displayName}`;
+            node.displayName = `${node.displayName}`;
           }
         }
       },
