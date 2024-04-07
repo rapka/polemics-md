@@ -1,3 +1,10 @@
+---
+title: I don’t know who needs to hear this, but Nina Protocol is a sketchy NFT platform
+date: 2024-03-25
+tags:
+  - Crypto
+  - Music
+---
 # I don't know who needs to hear this, but Nina Protocol is a sketchy NFT platform
 
 ![Nina Protocol logo with an Anti sign over it](../images/nina-arweave/anti-nina-white-bg.png)

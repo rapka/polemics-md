@@ -2,7 +2,11 @@
 title: Who Supports Future Perfect?
 date: 2023-07-19
 draft: false
-tags: AI, effective altruism, capitalism, lying
+tags:
+  - AI
+  - capitalism
+  - lying
+  - EffectiveAltruism
 ---
 # Who Supports Future Perfect?
 

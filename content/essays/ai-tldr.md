@@ -5,8 +5,8 @@ draft: false
 tags:
   - AI
   - Capitalism
-  - Big Tech
-  - Effective Altruism
+  - EffectiveAltruism
+  - BigTech
 ---
 # WTF is going with AI: A short explanation for people who aren't huge nerds
 

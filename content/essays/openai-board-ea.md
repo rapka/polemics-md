@@ -2,7 +2,11 @@
 title: “None of our board members are effective altruists”
 date: 2023-11-19
 draft: false
-tags: AI, effective altruism, capitalism, lying
+tags:
+  - AI
+  - capitalism
+  - lying
+  - EffectiveAltruism
 ---
 # “None of our board members are effective altruists”
 

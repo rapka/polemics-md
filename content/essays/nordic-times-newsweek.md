@@ -5,7 +5,7 @@ draft: false
 tags:
   - AI
   - Racism
-  - Existential Risk
+  - ExistentialRisk
 ---
 # Why did Newsweek use a Swedish Neo-Nazi website as a source?
 

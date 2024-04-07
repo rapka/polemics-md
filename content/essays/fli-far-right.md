@@ -5,7 +5,7 @@ draft: false
 tags:
   - AI
   - Capitalism
-  - Effective Altruism
+  - EffectiveAltruism
 ---
 # Max Tegmark, AI, Conspiracy Theories, and the Swedish Right: An Investigation
 

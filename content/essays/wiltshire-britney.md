@@ -2,7 +2,9 @@
 title: Bandcamp's New CEO Was *Really* Into Britney Spears Back In The Day
 date: 2023-10-19
 draft: false
-tags: music, capitalism
+tags:
+  - Music
+  - BigTech
 ---
 # Bandcamp's New CEO Was *Really* Into Britney Spears Back In The Day
 
