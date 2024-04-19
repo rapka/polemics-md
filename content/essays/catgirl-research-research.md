@@ -126,9 +126,9 @@ CoinDesk article on Charlotte Fang and Remilia (via the Wayback Machine): https:
 
 [1] These user reviews may be entirely fabricated; I have no way of knowing for sure.
 [2] Also mentioned as influential within this social sphere is the edgy [Angelicism01](https://cashedcobrazhousewriter.substack.com) Substack which has also made [references](https://cashedcobrazhousewriter.substack.com/p/reaction-harmony-korine-hitler-mitchell) to Land's accelerationism. The blog also has [several](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) [posts](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) calling for the "Columbining" of journalists.
-[3] It also encourages the sharing of information on its website, like I'm doing right now.
+[3] West Ham also encourages the sharing of information on its website, like I'm doing right now.
 [4] West Ham states that their advice was "not, in fact, financial advice". They're also apparently looking for a new lawyer.
 [5] Memes aside, this is a pretty decent critique of crypto and EA if I'm being honest.
 [6] Lawrence Day's participation in this film is most likely due to a 2021 incident where his crypto project got, for lack of a better word, ["pwned"](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community) by a racist hacker.
 [7] This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
-[8] There's a minority of people with good politics still adopting the "accelerationist" and "l/acc" labels, but they've sadly been eclipsed by the right-wing anctics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
+[8] There's a minority of people with good politics still adopting the "accelerationist" and "l/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
