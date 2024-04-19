@@ -1,3 +1,13 @@
+---
+title: '"Accelerate Catgirl Research" Research'
+date: 2024-04-19
+tags:
+  - Crypto
+  - Accelerationism
+  - AI
+  - Racism
+draft: true
+---
 # "Accelerate Catgirl Research" Research
 
 ![promotional image of "Naifu" from ImgnAI's website](../images/catgirl-research-research/naifu.png)
