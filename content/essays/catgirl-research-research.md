@@ -6,7 +6,7 @@ tags:
   - Accelerationism
   - AI
   - Racism
-draft: true
+draft: false
 ---
 # "Accelerate Catgirl Research" Research
 ### In which i try to understand what the heck happened outisde GTC last month
