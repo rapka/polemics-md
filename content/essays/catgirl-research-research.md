@@ -9,9 +9,9 @@ tags:
 draft: true
 ---
 # "Accelerate Catgirl Research" Research
+### In which i try to understand what the heck happened outisde GTC last month
 
 ![promotional image of "Naifu" from ImgnAI's website](../images/catgirl-research-research/naifu.png)
-## In which i try to understand what the heck happened outisde GTC last month
 
 Nvidia's [GPU Technology Conference (GTC)](https://www.nvidia.com/gtc/) for artificial intelligence was held last March. There were some protestors outside the event this year, holding signs arguing against the regulation of AI and while repeating their one demand: **"ACCELERATE CATGIRL RESEARCH"**.
 
