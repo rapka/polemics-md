@@ -8,7 +8,6 @@ tags:
   - Racism
 draft: false
 ---
-# "Accelerate Catgirl Research" Research
 ### In which I try to understand what the heck happened outside Nvidia’s GPU Technology Conference last month
 
 ![Photo of the "no AI censorship" protest at GTC. The "accelerate catgirl research" slogan being chanted can be seen on the protestors' matching t-shirts. A thinking face emoji is used to protect the privacy of a protestor.](../images/catgirl-research-research/imgnai-protest-square-emoji.png)

@@ -6,8 +6,6 @@ tags:
   - Music
   - BigTech
 ---
-# Bandcamp's New CEO Was *Really* Into Britney Spears Back In The Day
-
 ![Genius.com lyric cards displaying lyrics to Paul Wiltshire - Britney We Love You](images/wiltshire-britney/genius-lyrics-2x.jpg)
 
 

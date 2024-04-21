@@ -6,8 +6,6 @@ tags:
   - ExistentialRisk
   - AI
 ---
-# Effective Altruists are trying very hard to recruit on YouTube
-
 ![Screenhot of a PBS video with the 80,000 Hours logo and closed captions that say "Thank you to 80,000 Hours, a project of Effective Ventures, for supporting PBS"](../images/ea-recruitment-youtube/80k-pbs-thinking-emoji-big.png)
 
 Back in July 2023, Nitasha Tiku of The Washington Post wrote an [article](https://www.washingtonpost.com/technology/2023/07/05/ai-apocalypse-college-students/) detailing the effective altruism movement's fixation on preventing a hypothetical AI doomsday. Special focus was paid to the funding activities of Open Philanthropy, the grant-making organization backed by the vast fortune of Facebook co-founder Dustin Moskovitz and his wife Cari Tuna. Tiku wrote:

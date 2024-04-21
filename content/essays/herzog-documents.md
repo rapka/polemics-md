@@ -4,7 +4,6 @@ date: 2023-10-24
 draft: false
 tags: politics, lying
 ---
-# About Those Hamas Chemical Weapons...
 ###  Chemical weapon designs presented by Israeli president Isaac Herzog were analyzed by experts over 15 years ago
 
 ![Isaac Herzog, George "Dick Destiny" Smith, and Colin Powell](images/herzog-documents/herzog-dick-colin.jpg)

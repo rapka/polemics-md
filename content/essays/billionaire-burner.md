@@ -4,9 +4,6 @@ date: 2023-09-07
 draft: false
 tags: capitalism, lying
 ---
-
-# The Billionaire Burning Man Attendee Who Loves Private Jets and Philanthropy
-
 ![Photo of John Paul DeJoria and his various businesses](images/billionaire-burner/dejoria-header.png)
 
 Like most of the Internet, I've been captivated by the recent flooding at the 2023 Burning Man festival. While reading up on the last few years of the festival, I discovered that past Burning Man events featured a controversial installment in the form of a decommissioned Boeing 747 jet. This jet, dubbed "Camp 747" by a group of organizers called Big Imagination, was bought to Black Rock City from an airplane boneyard and turned into a music venue. 

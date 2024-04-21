@@ -8,8 +8,6 @@ tags:
   - EffectiveAltruism
   - BigTech
 ---
-# WTF is going with AI: A short explanation for people who aren't huge nerds
-
 !["i ain't reading all that" meme combined with the logos of various AI-related companies](images/ai-tldr/ai-tldr.jpg)
 
 Between the recent [kerfuffle](https://www.reuters.com/technology/sam-altman-return-openai-ceo-2023-11-22/) at OpenAI, [statements from politicians](https://www.gov.uk/government/speeches/prime-ministers-speech-on-ai-26-october-2023) about "risk of extinction from AI", and AI investor/philanthropist Sam Bankman-Fried's [recent trial for fraud](https://www.wired.com/story/sbf-trial-sam-bankman-fried-ftx-testimony/),  there’s been a lot of talk about the dangers of artificial intelligence, AI regulation and a movement called “effective altruism” lately.

@@ -8,7 +8,6 @@ tags:
   - ExistentialRisk
   - BigTech
 ---
-# The not-so-fringe PR firm behind the UK AI Fringe summit
 ![Promotional banner for the AI Fringe summit with a thinking emoji superimposed alongside the logos for Milltown Partners and Google DeepMind](images/ai-fringe/ai-fringe-small.png)
 
 The UK recently held a well-publicized [AI Safety Summit](https://www.gov.uk/government/topical-events/ai-safety-summit-2023) focusing on the risks presented by AI. A less well-publicized alternative summit also happened at the same time called [AI Fringe](https://aifringe.org/). I'm not British, but as someone who keeps up with tech industry news I was intrigued by a convention that was seemingly competing with an official government event and was curious as to who organized it.

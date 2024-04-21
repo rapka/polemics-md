@@ -8,8 +8,6 @@ tags:
   - lying
   - EffectiveAltruism
 ---
-# Who Supports Future Perfect?
-
 ![Thinking emoji overlaid over Future Perfect's website](images/who-supports-future-perfect/future-perfect-thinking-emoji.png)
 
 In 2018, news website Vox Media launched a subsection called Future Perfect with a motto of "finding the best ways to do good", often covering topics related to the effective altruism movement (EA for short). Future Perfect is partially funded by grants and their [donation page](https://www.vox.com/2020/1/7/21020439/support-future-perfect) claims that "all editorial decisions are made separately from fundraising and commercial considerations". While that may be the case, an investigation into those donors has revealed some worrying discrepancies with regards to how this fundraising has been disclosed. 

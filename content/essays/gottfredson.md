@@ -7,7 +7,6 @@ tags:
   - Racism
   - ExistentialRisk
 ---
-# AGI Researchers Stop Quoting White Supremacists Challenge (Impossible)
 ![AI paper titles laid over a screenshot of Linda Gottfredson and Stefan Molyneux](images/gottfredson/gottfredson-molyneux.jpg)
 > Linda Gottfredson appearing on a show with right wing influencer Stefan Molyneux called "Race, Evolution and Intelligence" in 2015 where she claimed that the "IQs of African blacks" was "around 70". Molyneux would later be permanently banned from YouTube for hate speech.
 

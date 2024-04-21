@@ -8,8 +8,6 @@ tags:
   - lying
   - EffectiveAltruism
 ---
-# “None of our board members are effective altruists”
-
 ![Logos of OpenAI and Effective Ventures combined to create "OpenAI Ventures"](images/openai-board-ea/openai-ventures-logos-square.png)
 
 In the week leading up to Sam Altman's [surprise firing](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) from his job as OpenAI's CEO, VentureBeat published an [article](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/)  exploring the company's unusual corporate structure. This article included a statement from an OpenAI spokesperson:

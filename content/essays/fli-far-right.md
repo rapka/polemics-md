@@ -7,9 +7,6 @@ tags:
   - Capitalism
   - EffectiveAltruism
 ---
-# Max Tegmark, AI, Conspiracy Theories, and the Swedish Right: An Investigation
-
-
 ![Header image for a 2021 episode of Folkets Radio featuring Max Tegmark alongside the cover of his brother's book](images/fli-far-right/folkets-tegmark-covid-91.jpg)
 **(Important note: I do not speak Swedish. All Swedish language and quotes and screenshots for this article have been translated using  Google Translate and are indicated by _italics_.**
 

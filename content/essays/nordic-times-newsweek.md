@@ -7,8 +7,6 @@ tags:
   - Racism
   - ExistentialRisk
 ---
-# Why did Newsweek use a Swedish Neo-Nazi website as a source?
-
 ![The logos of Newsweek and Nya Dagbladet combined to form "Newsweek Dagbladet" next to a grimacing emoji](images/nordic-times-newsweek/newsweek-dagbladet.png)
 
 Earlier this week, I published an [article](https://medium.com/@collegehill/max-tegmark-ai-conspiracy-theories-and-the-swedish-right-an-investigation-5c70eea21b56) exposing the website [The Nordic Times]() as an English version of [Nya Dagbladet](), a Sweden far-right online newspaper that's operated and edited by Neo-Nazis. Over the course of my research, I thankfully found virtually no references to the outlet besides content The Nordic Times itself has published. 

@@ -5,8 +5,6 @@ tags:
   - Crypto
   - Music
 ---
-# I don't know who needs to hear this, but Nina Protocol is a sketchy NFT platform
-
 ![Nina Protocol logo with an Anti sign over it](../images/nina-arweave/anti-nina-white-bg.png)
 
 Nina Protocol is a cryptocurrency-based NFT music platform. This is obvious from the platform's 2021 [announcement](https://www.coindesk.com/business/2021/11/20/music-marketplace-nina-wants-to-be-a-bandcamp-for-web-30/) on crypto news site CoinDesk, which described Nina as "Bandcamp for Web 3.0". Speaking on the nature of the platform, founder Mike Pollard said:
