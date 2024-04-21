@@ -9,23 +9,20 @@ tags:
 draft: false
 ---
 # "Accelerate Catgirl Research" Research
-### In which I try to understand what the heck happened outisde GTC last month
+### In which I try to understand what the heck happened outside GTC last month
 
-![promotional image of "Naifu" from ImgnAI's website](../images/catgirl-research-research/naifu.png)
+![Photo of the "no AI censorship" protest at GTC. The "accelerate catgirl research" slogan being chanted can be seen on the protestors' matching t-shirts. A thinking face emoji is used to protect the privacy of a protestor.](../images/catgirl-research-research/imgnai-protest-square-emoji.png)
 
 Nvidia's [GPU Technology Conference (GTC)](https://www.nvidia.com/gtc/) for artificial intelligence was held last March. There were some protestors outside the event this year, holding signs arguing against the regulation of AI and while repeating their one demand: **"ACCELERATE CATGIRL RESEARCH"**.
 
-When I saw this, I absolutely needed to figure out just what in tarnation was going on. I've managed to find a couple of answers, but boy oh boy does this story get *weird*.
-
-![](../images/catgirl-research-research/imgnai-protest-square-emoji.png)
-
-The "accelerate catgirl research" slogan being chanted can be seen on the protestors'[^1] matching t-shirts. 
-
+When I saw this, I absolutely needed to figure out just what in tarnation was going on with this protest[^1]. I've managed to find a couple of answers, but boy oh boy does this story get *weird*.
 ### ImgnAI
+
+![promotional image of "Naifu" from ImgnAI's website](../images/catgirl-research-research/naifu.png)
 
 It didn't take long to find out who was behind the protest. Some searching for "catgirl research" on Twitter reveals that an AI startup called [ImgnAI](https:///app.imgnai.com) was its originator, with the company's account posting [several](https://twitter.com/imgn_ai/status/1769826150610559036) [videos](https://twitter.com/imgn_ai/status/1769791182270333067)  of the protest. A search for "accelerate catgirl research" on Google Images also gives results for the [t-shirts](https://oratee.com/campaign/accelerate-imgnai-catgirl-research-t-shirt) worn by the protestors that have imgnAI's name visible.
 
-![](../images/catgirl-research-research/imgnai-shirt.jpg)
+![Image of ImgnAI's branded "Accelerate Catgirl Research" t-shirt](../images/catgirl-research-research/imgnai-shirt.jpg)
 
 
 
@@ -39,15 +36,14 @@ ImgnAI was co-founded by an anonymous developer who goes as Thelema ([@networksp
 
 ![Slide from Thelema's talk. It says "crypto x Al is imperative to ensure censorship resistance and protect creative freedom, while letting us create new incentive structures for artists". There's a Milady-style image macro meme that says "DONT BE PART OF THE PROBLEM, BE THE ENTIRE PROBLEM"](../images/catgirl-research-research/imgnai-milady-slide.jpg)
 
-In a blog post about ImgnAI's philosophy called [Generative AI: accelerating creativity & self expression](https://mirror.xyz/networkspirits.eth/t2hW0Xk6artfSuDBlsCbmrSSeD40JYAOUvRESs6rZnc), Thelema said:
-It also says:
->Simply put, the LLM fuels data accessibility and accelerates IQ. Generative art provides creative balance, allowing our EQ to flourish. The combination of both accelerates human experience and potential as a whole.
+In a blog post about ImgnAI's ethos called [Generative AI: accelerating creativity & self expression](https://mirror.xyz/networkspirits.eth/t2hW0Xk6artfSuDBlsCbmrSSeD40JYAOUvRESs6rZnc), Thelema lays out her philosophy around modern AI:
+>Generative art is the yin to the LLMs yang... the LLM fuels data accessibility and accelerates IQ. Generative art provides creative balance, allowing our EQ to flourish. The combination of both accelerates human experience and potential as a whole.
 
-And ends with a reference to AGI:
+She also ends her essay with a reference to the concept of Artificial General Intelligence.
 >I, and we at imgnAI hope to add to these conversations and play a part in preserving some of the important parts of humanity as we hit the speedrun to AGI - as well as the values we hold close as part of the crypto community.
 ### Nick Land & The CCRU
 
-In her post, Thelema also explains the origins of her Aleister Crowley-inspired username.
+In her manifesto, Thelema explains the origins of her Aleister Crowley-inspired username.
 >We’re currently witnessing the dawn of a new era of online subcultures, some based deeply within the AI realms. Whilst Landian accelerationism isn’t new and has been part of, or at least complimentary to, subcultures such as Remilia; we now see a rise in mindshare of e/acc (and the many accelerationist variants), 21e8 et al, and we’re watching these communities grow and split with their own distinct traits and beliefs in real time.
 
 >As my anon name suggests, I am a long-time Crowley fan so seeing the lore build from the early Land/CCRU days to where we are now, which still feels like the beginning, feels like a great time to be alive as these ideas are building their roots within modern culture.
@@ -55,13 +51,13 @@ In her post, Thelema also explains the origins of her Aleister Crowley-inspired 
 "Landian" here refers to the writings of [Nick Land](https://en.wikipedia.org/wiki/Nick_Land), an infamous philosopher from the University of Warwick who would later go on to helped craft the reactionary "Dark Enlightenment" movement. During his time at Warwick in the 1990's, Land would draw from the writings of Félix Guattari and Gilles Deleuze to draft his own vision of accelerationism as a philosophical position. His most famous writing from this period is a 1994 piece called [*Meltdown*](http://www.ccru.net/swarm1/1_melt.htm) which laid out his sci-fi vision of the future as such:
 >The story goes like this: Earth is captured by a technocapital singularity as renaissance rationalitization and oceanic navigation lock into commoditization take-off. Logistically accelerating techno-economic interactivity crumbles social order in auto-sophisticating machine runaway. As markets learn to manufacture intelligence, politics modernizes, upgrades paranoia, and tries to get a grip.
 
-Land created an unofficial collective at the university called the [Cybernetic Culture Research Unit (CCRU)](http://www.ccru.net/) that produced a bevy of esoteric cyberpunk art pieces and attracted students such as influential dubstep producer [Kode9](https://en.wikipedia.org/wiki/Kode9) and [Mark Fisher](https://en.wikipedia.org/wiki/Mark_Fisher) who would later go on to work on more modern interpretations of accelerationism.
+Land created an unofficial collective at the university called the [Cybernetic Culture Research Unit (CCRU)](http://www.ccru.net/) that produced a bevy of esoteric cyberpunk art pieces and attracted students such as pioneering dubstep DJ [Kode9](https://en.wikipedia.org/wiki/Kode9) and [Mark Fisher](https://en.wikipedia.org/wiki/Mark_Fisher) who would later go on to work on more modern interpretations of accelerationism.
 
-![Image of a "Numerogram" or "Decimal Labyrinth" from CCRU's website](../images/catgirl-research-research/numo2.gif)
+![Image of a "Numerogram" or "Decimal Labyrinth" from CCRU's website circa 1999](../images/catgirl-research-research/numo2.gif)
 
 Towards the end of the 90's, Nick Land began to increasingly abuse amphetamines and the CCRU collective became increasingly bizarre and insular. In an interview, former member Robin Mackay [described](http://readthis.wtf/writing/towards-a-transcendental-deduction-of-jungle-interview-part-1/) Land at the time as being in a disturbing "extreme number mania period" and claimed his activities "didn’t fit into any known definition of ‘philosophy’". At some point during the 90's, Land also developed an obsession with the occult magician [Aleister Crowley](https://en.wikipedia.org/wiki/Aleister_Crowley), going as far as to move the CCRU's headquarters to one of Crowley's former abodes. Aleister Crowley devised a occult magical belief system he referred to as [Thelema](https://en.wikipedia.org/wiki/Thelema), from which the crypto developer draws her name.
 
-![Photo of Aleister Crowley in 1912, courtesy of Wikipedia](../images/catgirl-research-research/aleister-crowley.png)
+![Photo of Aleister Crowley in 1912 courtesy of Wikipedia](../images/catgirl-research-research/aleister-crowley.png)
 A Twitter account by the name of [Bot Chad](https://twitter.com/BotChadX) is the other co-founder of imgnAI who identifies as an effective accelerationist and whose bio says "I hope AI enslaves humanity". Such an attitude would apparently contradict with Thelema's professed love for humanity, but it's perfectly in line with Land's brand of AI-fueled nihilism. 
 ### Remilia Corp, Milady, and right-wing NFT madness
 
@@ -79,7 +75,7 @@ Fang would later be [sued](https://news.bloomberglaw.com/esg/nft-founder-charlot
 
 
 
-![Graphic of ImgnAI's funders for their $1.6M seed round, including West Ham Capital](../images/catgirl-research-research/imgnai_funding.webp)
+![Graphic of ImgnAI's funders for their $1.6M seed round, including West Ham Capital](../images/catgirl-research-research/imgnai_funding.png)
 
 I decided to look into the funders in this image and one of them stood out to me in particular: "West Ham Capital, Inc". Its listed address of *London E20 2ST, United Kingdom* is actually that of the London Stadium, currently the home of [West Ham United FC](https://www.whufc.com/). It seems doubtful that West Ham Capital is officially associated with the actual West Ham football club.
 
@@ -121,9 +117,9 @@ I learned that Nick Land's writing and occult interests have a growing influence
 
 I learned that a joke group chat based on a British football club is now sponsoring generative AI startups and their IRL publicity stunts
 
-Beyond that, I don't think I learned very much of value. I did sustain tremendous amounts of psychic damage while researching this article though.
+Beyond that, I don't think I learned very much of value. I did sustain tremendous amounts of psychic damage while researching for this essay though.
 
-### Additional Accelerationist Reading
+### Additional Accelerationist Articles
 
 Both imgnAI and Milady fall under the "cute/acc" branch of accelerationism, which Matt Colquhoun has written extensively about cute/acc and its relation to Nick Land over at their Xenogothic blog. Cute/acc doesn't inherently fall under the umbrella of "effective accelerationism" like other "/acc" variants, but is instead a descendent of Nick Land's proto-e/acc views[^9] and could theoretically be described as left wing, I believe the concept of left accelerationism is mostly dead in 2024[^10] and any association with NFTs invariably attracts crazed libertarians.
 
@@ -144,23 +140,23 @@ To learn more about the history of the various kinds , check out these writings:
 
 [1] I am not saying that I know for a fact that these protestors were paid...but I am saying that I've never seen so many women that are into crypto in one place at the same time.
 
-[1] These user reviews may be entirely fabricated; I have no way of knowing for sure.
+[2] These user reviews may be entirely fabricated; I have no way of knowing for sure.
 
-[2] Also mentioned as influential within this social sphere is the edgy [Angelicism01](https://cashedcobrazhousewriter.substack.com) Substack which has also made [references](https://cashedcobrazhousewriter.substack.com/p/reaction-harmony-korine-hitler-mitchell) to Land's accelerationism. The blog also has [several](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) [posts](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) calling for the "Columbining" of journalists.
+[3] Also mentioned as influential within this social sphere is the edgy [Angelicism01](https://cashedcobrazhousewriter.substack.com) Substack which has also made [references](https://cashedcobrazhousewriter.substack.com/p/reaction-harmony-korine-hitler-mitchell) to Land's accelerationism. The blog also has [several](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) [posts](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) calling for the "Columbining" of journalists.
 
-[3] My understanding that Charlotte Fang maintained control of Remilia and Milady after this incident.
+[4] My understanding that Charlotte Fang maintained control of Remilia and Milady after this incident.
 
-[4] West Ham also encourages the sharing of information on its website, like I'm doing right now.
+[5] West Ham also encourages the sharing of information on its website, like I'm doing right now.
 
-[5] West Ham states that their advice was "not, in fact, financial advice". They're also apparently looking for a new lawyer.
+[6] West Ham states that their advice was "not, in fact, financial advice". They're also apparently looking for a new lawyer.
 
-[6] Memes aside, this is a pretty decent critique of crypto and EA if I'm being honest.
+[7] Memes aside, this is a pretty decent critique of crypto and EA if I'm being honest.
 
-[7] Lawrence Day's participation in this film is most likely due to a 2021 incident where his crypto project got, for lack of a better word, ["pwned"](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community) by a racist hacker.
+[8] Lawrence Day's participation in this film is most likely due to a 2021 incident where his crypto project got, for lack of a better word, ["pwned"](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community) by a racist hacker.
 
-[8] This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
+[9] This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
 
-[9] There's a minority of people with good politics still adopting the "accelerationist" and "l/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
+[10] There's a minority of people with good politics still adopting the "accelerationist" and "l/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
 
 
 ---
