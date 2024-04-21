@@ -67,6 +67,8 @@ A Twitter account by the name of [Bot Chad](https://twitter.com/BotChadX) is the
 
 As mentioned earlier, Thelema is a big fan of the Milady Maker NFT line and their creator, the Remilia Corporation. In a [November 2023 tweet](https://twitter.com/networkspirits/status/1728442706366484949) praising the project, she celebrated Remilia "pushing cancel culture into its own combustion" while celebrating accelerationism taking over the tech world. 
 
+![Screenshot of a Tweet from Thelema that says "happy birthday remilia corp. you found me some of my best friends and changed my life in doing so](../images/catgirl-research-research/thelema-thanks-remilia.png)
+
 The backstory behind Remilia is far too weird and dark to cover in this article, but here's the Cliff Notes version of what happened: 
 
 Krishna Okhandiar (aka "Charlotte Fang") is the creator of Remilia and Milady. Shortly after Milady launched in 2021 and a community began developing around the NFT collection, reporters began digging into Charlotte Fang's history on the public internet and the 4chan-esque memes and symbolism that constantly appear alongside the Milady NFTs. An [article from CoinDesk](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) on the topic detailed Fang's connection to Land's writings[^3] and the Kali Yuga Accelerationism group that frequently used Nazi dogwhistles.  
