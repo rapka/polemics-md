@@ -123,23 +123,20 @@ I learned that a joke group chat based on a British football club is now sponsor
 
 Beyond that, I don't think I learned very much of value. I did sustain tremendous amounts of psychic damage while researching this article though.
 
-### Additional Reading
+### Additional Accelerationist Reading
 
 Both imgnAI and Milady fall under the "cute/acc" branch of accelerationism, which Matt Colquhoun has written extensively about cute/acc and its relation to Nick Land over at their Xenogothic blog. Cute/acc doesn't inherently fall under the umbrella of "effective accelerationism" like other "/acc" variants, but is instead a descendent of Nick Land's proto-e/acc views[^9] and could theoretically be described as left wing, I believe the concept of left accelerationism is mostly dead in 2024[^10] and any association with NFTs invariably attracts crazed libertarians.
 
-Mattie "Xenogothic" Colquhoun on cute/acc: https://xenogothic.com/2024/02/02/cute-accs-postmodern-princedoms/
+To learn more about the history of the various kinds , check out these writings:
 
-Xenogothic on e/acc: https://xenogothic.com/2023/12/20/effective-accelerationism-brxg-on-acid-horizon-brwith-a-note-on-accelerationism-brand-its-revolutionary-sentiments/
-
-Miaia Arson Crimew on Remilia and Milady: https://maia.crimew.gay/posts/brg/
-
-Ryan Broderick on e/acc and Remilia: https://www.garbageday.email/p/you-are-tearing-me-apart-eacc
-
-CoinDesk article on Charlotte Fang and Remilia (via the Wayback Machine): https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/
-
-The Guardian article on Nick Land, the CCRU, and accelerationism: https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
-
-Interview about Nick Land with former CCRU member Robin MacKay: http://readthis.wtf/writing/towards-a-transcendental-deduction-of-jungle-interview-part-1/
+- [Émile P. Torres on effective accelerationism](https://www.truthdig.com/articles/effective-accelerationism-and-the-pursuit-of-cosmic-utopia/)
+- [Mattie "Xenogothic" Colquhoun on cute/acc](https://xenogothic.com/2024/02/02/cute-accs-postmodern-princedoms/)
+- [Xenogothic on effective accelerationism](https://xenogothic.com/2023/12/20/effective-accelerationism-brxg-on-acid-horizon-brwith-a-note-on-accelerationism-brand-its-revolutionary-sentiments/)
+- [Maia Arson Crimew on Remilia and Milady](https://maia.crimew.gay/posts/brg/)
+- [Ryan Broderick on effective accelerationism and Remilia](https://www.garbageday.email/p/you-are-tearing-me-apart-eacc)
+- [CoinDesk article on Charlotte Fang and Remilia (via the Wayback Machine)](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/)
+- [The Guardian article on Nick Land, the CCRU, and accelerationism](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in)
+- [Interview about Nick Land with former CCRU member Robin MacKay](http://readthis.wtf/writing/towards-a-transcendental-deduction-of-jungle-interview-part-1/)
 
 ---
 
