@@ -67,9 +67,13 @@ As mentioned earlier, Thelema is a big fan of the Milady Maker NFT line and thei
 
 The backstory behind Remilia is far too weird and dark to cover in this article, but here's the Cliff Notes version of what happened: 
 
-Krishna Okhandiar (aka "Charlotte Fang") is the creator of Remilia and Milady. Shortly after Milady launched in 2021 and a community began developing around the NFT collection, reporters began digging into Charlotte Fang's history on the public internet and the 4chan-esque memes and symbolism that constantly appear alongside the Milady NFTs. An [article from CoinDesk](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) on the topic detailed Fang's connection to Land's writings[^3] and the Kali Yuga Accelerationism group that frequently used Nazi dogwhistles.  
+	Krishna Okhandiar (aka "Charlotte Fang") is the creator of Remilia and Milady. A few months after Milady launched in 2021 and a community began developing around the NFT collection, reporters began digging into Charlotte Fang's history on the public internet and the 4chan-esque memes and symbolism that constantly appear alongside the Milady NFTs. An [article from CoinDesk](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) on the topic detailed Fang's connection to Land's writings[^3] and the Kali Yuga Accelerationism group that frequently used Nazi dogwhistles.  
 
 Fang would later be [sued](https://news.bloomberglaw.com/esg/nft-founder-charlotte-fang-likened-to-cult-leader-in-lawsuit) by the other co-founders of Remilia in a lawsuit accusing him of tanking Milady's value with his racism and stealing over a million dollars in crypto. At the same time, Fang himself was [alleging](https://www.ccn.com/news/milady-nft-founder-sues-stealing-income-ip/) that his former partners tried to steal the Milady IP owned by him exclusively through Remilia. This public kerfluffle led to Milady NFTs [losing over 40% of their value](https://www.dlnews.com/articles/people-culture/milady-nfts-lose-a-third-of-their-value-as-founders-fight/).[^4]
+
+Remilia Corp’s flirtations with the far-right didn’t end there. In March, they [announced](https://store.remilia.org/products/brg-x-remilia-jibbitz) a line of cute accesories for Croc shoes in collaboration with another collective that calls themselves the [“Based Retard Gang”](https://www.tiktok.com/@basedredactedgang). Among the items is a rainbow heart version of the [Sonnenrad](https://en.wikipedia.org/wiki/Black_Sun_%28symbol%29), an esoteric Nazi symbol often used by modern Neo-Nazis online as a dogwhistle. An incredibly saccarine and ironic advertisement for the merch is viewable on both [TikTok](https://www.tiktok.com/@basedredactedgang/video/7351968970771025158) and [Instagram](https://www.instagram.com/p/C5Hs4SmMDBv/?hl=en).
+
+![Instagram ad for Remilia merch featuring a rainbow version the Nazi "Black Sun" Sonnenrad icon. One comment say "lovepilled sonnerad goes crazy".](../images/catgirl-research-research/remilia-insta-ad.png)
 
 ### West Ham Capital
 
@@ -81,7 +85,7 @@ I decided to look into the funders in this image and one of them stood out to me
 
 I then found West Ham Capital's [website](https://westhamcapital.com/) and uh... the whole thing is just a giant meme.
 
-Their [legal page](https://westhamcapital.com/legal) makes things even more mysterious. It includes this interesting bit:
+Their [legal page](https://westhamcapital.com/legal) is obviously not serious as it includes this interesting bit of text:
 >West Ham Capital Inc. does not file any reports with the Securities and Exchange Commission, because seriously, fuck that guy.
 
 The page goes on to emphasize that any and all of the information on the website could be incorrect[^5] . Another post on their homepage is designated as a [message from the company](https://westhamcapital.com/message) whose only "recommendations"[^6] are such:
@@ -89,7 +93,7 @@ The page goes on to emphasize that any and all of the information on the website
 >Every year, millions of people lose billions of dollars on their government-sanctioned lotteries. Why this form of state-sanctioned gambling is legal while many others are not confuses us, but frankly, it still beats losing all your money in a centralized shitcoin casino — at least the lottery proceeds ostensibly support public services rather than hollow PR campaigns about Effective Altruism[^7]. And where else are you going to put your money, the stock market? Bonds? Real estate? LOL.
 
 West Ham's obviously fake [holdings page](https://westhamcapital.com/holdings) is dedicated to dunking on FTX and their motto appears to be "Degeneranti, genus opprobrium" which translates to "To a degenerate man his family is a disgrace". Similarly, their obviously fake [governance page](https://westhamcapital.com/governance) declares that West Ham is an "insider cabal and you're not part of it" whose initiation ritual "involves a Bahamian Penthouse and a non-trivial amount of Vaseline and amphetamines".
-#### OK, so WTF is going on then??
+#### OK, so WTF is going on then???
 
 Even if West Ham Capital's website is just a huge joke, there has to be a real legal entity associated with it in order for it to be funding IMGNAI; I set out to find it.
 
@@ -156,7 +160,7 @@ To learn more about the history of the various kinds , check out these writings:
 
 [9] This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
 
-[10] There's a minority of people with good politics still adopting the "accelerationist" and "l/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
+[10] There's a minority of people with good politics still adopting the "accelerationist" and "l(eft)/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
 
 
 ---
@@ -178,5 +182,5 @@ Here's a condensed summary of everything that's happened related to Remilia, BRG
 - [Jan 26, 2024](https://imgnai.medium.com/announcing-our-1-6m-seed-round-led-by-hackvc-3ac775b6bc7f) - ImgnAI seed round funding announced, including from West Ham Capital. ImgnAI also announces the development of Naifu, their "uncensored" AI girlfriend chatbot app
 - [Feb 26, 2024](https://twitter.com/rosspower/status/1762243479340490815/photo/1) - Thelema does an IRL talk with ImgnAI aduringt the [Convergence AI Summit](http://convergenceai.xyz/) during the [ETHDenver](https://www.ethdenver.com/) Conference. One slide includes a Milady meme; another refers to the present moment as ["the seventh and final mass extinction event"](https://twitter.com/networkspirits/status/1762166635681415531/photo/1)
 - [March 18,2024](https://twitter.com/imgn_ai/status/1769791182270333067) - ImgnAI stages their "accelerate catgirl research" protest at Nvidia GTC
-- [March 29, 2024](https://www.tiktok.com/@basedredactedgang/video/7351968970771025158) - Remilia Corp x RBG Crocs accessories with a cute Sonnenrad are advertised on TikTok
+- [March 29, 2024](https://www.tiktok.com/@basedredactedgang/video/7351968970771025158) - Remilia Corp x RBG Crocs accessories with a cute [Sonnenrad](https://en.wikipedia.org/wiki/Black_Sun_(symbol)) are advertised on TikTok
 - [April 18, 2024](https://twitter.com/networkspirits/status/1780826003150934464) - Thelema is still posting and liking a bunch of Milady memes on Twitter
