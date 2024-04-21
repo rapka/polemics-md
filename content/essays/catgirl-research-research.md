@@ -15,17 +15,17 @@ draft: false
 Nvidia's [GPU Technology Conference (GTC)](https://www.nvidia.com/gtc/) for artificial intelligence was held last March. There were some protestors outside the event this year, holding signs arguing against the regulation of AI and while repeating their one demand: **"ACCELERATE CATGIRL RESEARCH"**.
 
 When I saw this, I absolutely needed to figure out just what in tarnation was going on with this protest[^1]. I've managed to find a couple of answers, but boy oh boy does this story get *weird*.
-### ImgnAI
+### ImgnAI: ### the crypto-based catgirl-focused AI company behind the protest
 
 ![promotional image of "Naifu" from ImgnAI's website](../images/catgirl-research-research/naifu.png)
 
-It didn't take long to find out who was behind the protest. Some searching for "catgirl research" on Twitter reveals that an AI startup called [ImgnAI](https:///app.imgnai.com) was its originator, with the company's account posting [several](https://twitter.com/imgn_ai/status/1769826150610559036) [videos](https://twitter.com/imgn_ai/status/1769791182270333067)  of the protest. A search for "accelerate catgirl research" on Google Images also gives results for the [t-shirts](https://oratee.com/campaign/accelerate-imgnai-catgirl-research-t-shirt) worn by the protestors that have imgnAI's name visible.
+It didn't take long to find out who was behind this stunt. Some searching for "catgirl research" on Twitter reveals that an AI startup called [ImgnAI](https:///app.imgnai.com) was its organizer, with the company's account posting [several](https://twitter.com/imgn_ai/status/1769826150610559036) [videos](https://twitter.com/imgn_ai/status/1769791182270333067)  of the protest. A search for "accelerate catgirl research" on Google Images also gives results for the [t-shirts](https://oratee.com/campaign/accelerate-imgnai-catgirl-research-t-shirt) worn by the protestors that have ImgnAI's name visible.
 
 ![Image of ImgnAI's branded "Accelerate Catgirl Research" t-shirt](../images/catgirl-research-research/imgnai-shirt.jpg)
 
 
 
-In addition to their generative AI crypto scheme, imgnAI has another product: a girlfriend chatbot named [Naifu](https://imgnai.com/naifu-early-access/). ImgnAI claims that Naifu is "largely uncensored", allowing the user to "roleplay, discuss taboo topics, and explore the limits of your imagination" - it's unclear exactly what these taboo topics are, but one testimonial[^2] claims that Naifu "opened their eyes to vast government conspiracies".
+In addition to their [generative AI crypto scheme](https://imgnai.com/token/), imgnAI has another product in the works: a girlfriend chatbot named [Naifu](https://imgnai.com/naifu-early-access/). ImgnAI claims that Naifu is "largely uncensored", allowing the user to "roleplay, discuss taboo topics, and explore the limits of your imagination" - it's unclear exactly what these taboo topics are, but one testimonial[^2] claims that Naifu "opened their eyes to vast government conspiracies".
 
 ![Screenshot of the Naifu website containing a testimonial for "Ren" about how Naifu "opened his eye to vast government conspiracies". There's a call to action for users to request an invite that says "what are you waiting for, anon?"](../images/catgirl-research-research/naifu-testimonial.png)
 
@@ -66,7 +66,7 @@ As mentioned earlier, Thelema is a big fan of the Milady Maker NFT line and thei
 
 The backstory behind Remilia is far too weird and dark to cover in this article, but here's the Cliff Notes version of what happened: 
 
-	Krishna Okhandiar (aka "Charlotte Fang") is the creator of Remilia and Milady. A few months after Milady launched in 2021 and a community began developing around the NFT collection, reporters began digging into Charlotte Fang's history on the public internet and the 4chan-esque memes and symbolism that constantly appear alongside the Milady NFTs. An [article from CoinDesk](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) on the topic detailed Fang's connection to Land's writings[^3] and the Kali Yuga Accelerationism group that frequently used Nazi dogwhistles.  
+Krishna Okhandiar (aka "Charlotte Fang") is the creator of Remilia and Milady. A few months after Milady launched in 2021 and a community began developing around the NFT collection, reporters began digging into Charlotte Fang's history on the public internet and the 4chan-esque memes and symbolism that constantly appear alongside the Milady NFTs. An [article from CoinDesk](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) on the topic detailed Fang's connection to Land's writings[^3] and the Kali Yuga Accelerationism group that frequently used Nazi dogwhistles.  
 
 Fang would later be [sued](https://news.bloomberglaw.com/esg/nft-founder-charlotte-fang-likened-to-cult-leader-in-lawsuit) by the other co-founders of Remilia in a lawsuit accusing him of tanking Milady's value with his racism and stealing over a million dollars in crypto. At the same time, Fang himself was [alleging](https://www.ccn.com/news/milady-nft-founder-sues-stealing-income-ip/) that his former partners tried to steal the Milady IP owned by him exclusively through Remilia. This public kerfuffle led to Milady NFTs [losing over 40% of their value](https://www.dlnews.com/articles/people-culture/milady-nfts-lose-a-third-of-their-value-as-founders-fight/).[^4]
 
@@ -80,7 +80,7 @@ Remilia Corp’s flirtations with the far-right didn’t end there. In March, th
 
 ![Graphic of ImgnAI's funders for their $1.6M seed round, including West Ham Capital](../images/catgirl-research-research/imgnai_funding.png)
 
-I decided to look into the funders in this image and one of them stood out to me in particular: "West Ham Capital, Inc". Its listed address of *London E20 2ST, United Kingdom* is actually that of the London Stadium, currently the home of [West Ham United FC](https://www.whufc.com/). It seems doubtful that West Ham Capital is officially associated with the actual West Ham football club.
+I decided to look into the VC groups behind ImgnAI's [latest funding round](https://imgnai.medium.com/announcing-our-1-6m-seed-round-led-by-hackvc-3ac775b6bc7f) listed above and one of them stood out to me in particular: "West Ham Capital, Inc". Its listed address of *London E20 2ST, United Kingdom* is actually that of the London Stadium, currently the home of [West Ham United FC](https://www.whufc.com/). It seems doubtful that West Ham Capital is officially associated with the actual West Ham football club.
 
 I then found West Ham Capital's [website](https://westhamcapital.com/) and uh... the whole thing is just a giant meme.
 
