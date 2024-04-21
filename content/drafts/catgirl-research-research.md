@@ -97,7 +97,7 @@ Even if West Ham Capital's website is just a huge joke, there has to be a real l
 
 Searching for West Ham in the [UK's companies register](https://find-and-update.company-information.service.gov.uk/company/15172852/officers) reveals that it was official incorporated on September 28th, 2023 by Dr. Laurence Edward Day. Dr. Day ([@functi0nZer0](https://twitter.com/functi0nZer0) on Twitter) is also in charge of [Zero Day Technologies](https://find-and-update.company-information.service.gov.uk/company/12136768), his Ethereum-focused [consulting firm](https://sites.google.com/zerodaytechnologies.co.uk/zerodaytechnologies/home?authuser=0). Thelema has tweeted [memes](https://twitter.com/networkspirits/status/1773768471639105945/photo/1) referencing both Dr. Day and West Ham. Day can also be seen wearing the same ImgnAI shirt from the protest in a [trailer](https://twitter.com/CodeIsLawFilm/status/1780975575722496335) for the upcoming crypto documentary [Code Is Law: The Movie](https://twitter.com/CodeIsLawFilm)[^8].
 
-In a [YouTube video](https://www.youtube.com/watch?v=fJiTHBqBCsA) from March 2023, West Ham's original incarnation was revealed by Dr. Day to be a massive crypto group chat on Twitter organized by him. It's unclear how this group chat became big enough to become a legit venture capital firm, a feeling apparently shared by West Ham itself - its Twitter account [posted](https://twitter.com/WestHamGC/status/1750940235343519764/photo/1) a meme indicating that the situation was a surprise to them as well. 
+In a [YouTube video](https://www.youtube.com/watch?v=fJiTHBqBCsA) from March 2023, West Ham's original incarnation was revealed by Dr. Day to be a massive crypto group chat on Twitter organized by him. It's unclear how this group chat became big enough to become a legit venture capital firm, a feeling apparently shared by West Ham itself - its Twitter account posted a [meme](https://twitter.com/WestHamGC/status/1750940235343519764/photo/1) indicating that the situation was a surprise to them as well. 
 
 ![Image macro of Plankton from Spongebob Squarepants saying "I didn't think I'd get this far"](../images/catgirl-research-research/west-ham-spongebob-meme.png) 
 
@@ -105,7 +105,9 @@ Fast forward to this year: ImgnAI and West Ham sponsored a private party at the 
 
 ![Animated Gif of West Ham's logo spinning 360 degrees that was used to promote their "No Longer Joking" party. ImgnAI's logo is also visible.](../images/catgirl-research-research/imgnai-west-ham-party.gif)
 
-It's unclear who else is officially involved with West Ham beside Lawrence Day. A Twitter user by the name of [@thepaulbalaji](https://twitter.com/thepaulbalaji) claims to be West Ham's "head of wristbands" - I have no clue what that means. Another user named "scrypto" penned what appears to be a critical [open letter](https://twitter.com/scrypto_/status/1693903335500505169) to the West Ham group chat, but I'm not convinced this isn't just another meme.
+It's unclear who else is officially involved with West Ham beside Lawrence Day. A Twitter user by the name of [@thepaulbalaji](https://twitter.com/thepaulbalaji) claims to be West Ham's "head of wristbands". I have no clue what that means.
+
+Another user named "scrypto" penned what appears to be a critical [open letter](https://twitter.com/scrypto_/status/1693903335500505169) to the West Ham group chat, but I'm not convinced this isn't just another meme.
 
 Besides West Ham, all of the other groups that funded ImgnAI appear to be normal crypto/web3 VC firms (though dao5 has an [advisor](https://dao5.com/collective) they refer to as ["Cuck of Femboy Capital"](https://twitter.com/cuckqueeen)).
 
@@ -121,46 +123,65 @@ Beyond that, I don't think I learned very much of value. I did sustain tremendou
 
 ### Additional Reading
 
-Both imgnAI and Milady fall under the "cute/acc" branch of accelerationism, which Matt Colquhoun has written extensively about cute/acc and its relation to Nick Land over at their Xenogothic blog. Cute/acc doesn't inherently fallunder the umbrella of "effective accelerationism" like other "/acc" variants, but is instead a descendent of Nick Land's proto-e/acc views[^9] and could theoretically be described as left wing, I believe the concept of left accelerationism is mostly dead in 2024[^10] and any association with NFTs invariably attracts crazed libertarians.
+Both imgnAI and Milady fall under the "cute/acc" branch of accelerationism, which Matt Colquhoun has written extensively about cute/acc and its relation to Nick Land over at their Xenogothic blog. Cute/acc doesn't inherently fall under the umbrella of "effective accelerationism" like other "/acc" variants, but is instead a descendent of Nick Land's proto-e/acc views[^9] and could theoretically be described as left wing, I believe the concept of left accelerationism is mostly dead in 2024[^10] and any association with NFTs invariably attracts crazed libertarians.
 
 Mattie "Xenogothic" Colquhoun on cute/acc: https://xenogothic.com/2024/02/02/cute-accs-postmodern-princedoms/
+
 Xenogothic on e/acc: https://xenogothic.com/2023/12/20/effective-accelerationism-brxg-on-acid-horizon-brwith-a-note-on-accelerationism-brand-its-revolutionary-sentiments/
+
 Miaia Arson Crimew on Remilia and Milady: https://maia.crimew.gay/posts/brg/
+
 Ryan Broderick on e/acc and Remilia: https://www.garbageday.email/p/you-are-tearing-me-apart-eacc
+
 CoinDesk article on Charlotte Fang and Remilia (via the Wayback Machine): https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/
+
+The Guardian article on Nick Land, the CCRU, and accelerationism: https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
+
+Interview about Nick Land with former CCRU member Robin MacKay: http://readthis.wtf/writing/towards-a-transcendental-deduction-of-jungle-interview-part-1/
 
 ---
 
 ##### Notes
 
 [1] I am not saying that I know for a fact that these protestors were paid...but I am saying that I've never seen so many women that are into crypto in one place at the same time.
+
 [1] These user reviews may be entirely fabricated; I have no way of knowing for sure.
+
 [2] Also mentioned as influential within this social sphere is the edgy [Angelicism01](https://cashedcobrazhousewriter.substack.com) Substack which has also made [references](https://cashedcobrazhousewriter.substack.com/p/reaction-harmony-korine-hitler-mitchell) to Land's accelerationism. The blog also has [several](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) [posts](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) calling for the "Columbining" of journalists.
+
 [3] My understanding that Charlotte Fang maintained control of Remilia and Milady after this incident.
+
 [4] West Ham also encourages the sharing of information on its website, like I'm doing right now.
+
 [5] West Ham states that their advice was "not, in fact, financial advice". They're also apparently looking for a new lawyer.
+
 [6] Memes aside, this is a pretty decent critique of crypto and EA if I'm being honest.
+
 [7] Lawrence Day's participation in this film is most likely due to a 2021 incident where his crypto project got, for lack of a better word, ["pwned"](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community) by a racist hacker.
+
 [8] This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
+
 [9] There's a minority of people with good politics still adopting the "accelerationist" and "l/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
 
 
 ---
 ### Timeline of events
 
-[Aug 25, 2021](https://finance.yahoo.com/news/milady-maker-crowned-nft-project-135400625.html) - Milady Maker NFT line launched
-[May 5, 2022](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) - CoinDesk publishes an article on Milady, detailing its connection to Charlotte Fang, "Miya", and the writings of Nick Land. Coindesk notes that the highest "tier" for Milady NFTs is "SS" rather than "S" or "SSS"
-[May 22, 2022](https://twitter.com/0xngmi/status/1528572556894142464) - @0xngmi tweets an exposé megathread alleging various misdeeds committed by Miya aka Charlotte Fang's misdeeds
-[Nov 17, 2022](https://miladytruth.substack.com/p/milady) - Remilia Corp releases a response to the accusations
-[March 30, 2023](https://goldenlight.mirror.xyz/o5CpltqerVga2ULwztI_jLmlpBe57K-ej2JWkVMJB14) - Charlotte Fang authors "KALI/ACC Basilisk: A Survival Horror Eschatology", describing ["Kali Yuga Accelerationism (kali/acc)"](https://kaliacc.org/) as an "infohazard" similar to [Roko's Basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk). The post describes Nick Land's creation of accelerationism as "xenobiology". It correctly describes Land's position on humanity as nihilistic, quoting him as saying "nothing human makes it out of the near-future"
-[May 10, 2023](https://twitter.com/elonmusk/status/1656326406618619910) - Elon Musk tweets a Milady meme, price skyrockets
-[Sept 11, 2023](https://news.bitcoin.com/nft-based-firm-remilia-corporation-sues-independent-contractors-accused-of-siphoning-1-million/) - Charlotte Fang files lawsuit against Remilia co-founders, alleging they stole $1 million from the project
-[Sept 21, 2023](https://mirror.xyz/networkspirits.eth/t2hW0Xk6artfSuDBlsCbmrSSeD40JYAOUvRESs6rZnc) - Thelema authors her manifesto on ImgnAI's philosophy, includes praise for Nick Land and Remilia Corp
-[Sep 22, 2023](https://cryptopotato.com/co-founders-of-remilia-file-lawsuit-in-new-milady-vs-milady-case-against-charlotte-fang/) - Remilia co-founders counter-sue Charlotte Fang
-[Nov 11, 2023](https://docs.scatter.art/blog/cute-acc-manifesto/) - Affirmational Posters NFT line releases the "Cute/acc Manifesto", refers to Nick Land as the "godfather of accelerationism". Affirmationals NFTs were created by @lilclearpill, a member of "Based Retard Gang" (BRG)
-[Jan 12, 2024](https://twitter.com/networkspirits/status/1745834754086203552) - Thelema celebrates Remilia Corp's birthday on Twitter, saying it "changed her life"
-[Jan 26, 2024](https://imgnai.medium.com/announcing-our-1-6m-seed-round-led-by-hackvc-3ac775b6bc7f) - ImgnAI seed round funding announced, including from West Ham Capital. ImgnAI also announces the development of Naifu, their "uncensored" AI girlfriend chatbot app
-[Feb 26, 2024](https://twitter.com/rosspower/status/1762243479340490815/photo/1) - Thelema does an IRL talk with ImgnAI aduringt the [Convergence AI Summit](http://convergenceai.xyz/) during the [ETHDenver](https://www.ethdenver.com/) Conference. One slide includes a Milady meme; another refers to the present moment as ["the seventh and final mass extinction event"](https://twitter.com/networkspirits/status/1762166635681415531/photo/1)
-[March 18,2024](https://twitter.com/imgn_ai/status/1769791182270333067) - ImgnAI stages their "accelerate catgirl research" protest at Nvidia GTC
-[March 29, 2024](https://www.tiktok.com/@basedredactedgang/video/7351968970771025158) - Remilia Corp x RBG Crocs accessories with a cute Sonnenrad are advertised on TikTok
-[April 18, 2024](https://twitter.com/networkspirits/status/1780826003150934464) - Thelema is still posting and liking a bunch of Milady memes on Twitter
+Here's a condensed summary of everything that's happened related to Remilia, BRG, Milady, and ImgnAI so far.
+
+- [Aug 25, 2021](https://finance.yahoo.com/news/milady-maker-crowned-nft-project-135400625.html) - Milady Maker NFT line launched
+- [May 5, 2022](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) - CoinDesk publishes an article on Milady, detailing its connection to Charlotte Fang, "Miya", and the writings of Nick Land. Coindesk notes that the highest "tier" for Milady NFTs is "SS" rather than "S" or "SSS"
+- [May 22, 2022](https://twitter.com/0xngmi/status/1528572556894142464) - @0xngmi tweets an exposé megathread alleging various misdeeds committed by Miya aka Charlotte Fang's misdeeds
+- [Nov 17, 2022](https://miladytruth.substack.com/p/milady) - Remilia Corp releases a response to the accusations
+- [March 30, 2023](https://goldenlight.mirror.xyz/o5CpltqerVga2ULwztI_jLmlpBe57K-ej2JWkVMJB14) - Charlotte Fang authors "KALI/ACC Basilisk: A Survival Horror Eschatology", describing ["Kali Yuga Accelerationism (kali/acc)"](https://kaliacc.org/) as an "infohazard" similar to [Roko's Basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk). The post describes Nick Land's creation of accelerationism as "xenobiology". It correctly describes Land's position on humanity as nihilistic, quoting him as saying "nothing human makes it out of the near-future"
+- [May 10, 2023](https://twitter.com/elonmusk/status/1656326406618619910) - Elon Musk tweets a Milady meme, price skyrockets
+- [Sept 11, 2023](https://news.bitcoin.com/nft-based-firm-remilia-corporation-sues-independent-contractors-accused-of-siphoning-1-million/) - Charlotte Fang files lawsuit against Remilia co-founders, alleging they stole $1 million from the project
+- [Sept 21, 2023](https://mirror.xyz/networkspirits.eth/t2hW0Xk6artfSuDBlsCbmrSSeD40JYAOUvRESs6rZnc) - Thelema authors her manifesto on ImgnAI's philosophy, includes praise for Nick Land and Remilia Corp
+- [Sep 22, 2023](https://cryptopotato.com/co-founders-of-remilia-file-lawsuit-in-new-milady-vs-milady-case-against-charlotte-fang/) - Remilia co-founders counter-sue Charlotte Fang
+- [Nov 11, 2023](https://docs.scatter.art/blog/cute-acc-manifesto/) - Affirmational Posters NFT line releases the "Cute/acc Manifesto", refers to Nick Land as the "godfather of accelerationism". Affirmationals NFTs were created by @lilclearpill, a member of "Based Retard Gang" (BRG)
+- [Jan 12, 2024](https://twitter.com/networkspirits/status/1745834754086203552) - Thelema celebrates Remilia Corp's birthday on Twitter, saying it "changed her life"
+- [Jan 26, 2024](https://imgnai.medium.com/announcing-our-1-6m-seed-round-led-by-hackvc-3ac775b6bc7f) - ImgnAI seed round funding announced, including from West Ham Capital. ImgnAI also announces the development of Naifu, their "uncensored" AI girlfriend chatbot app
+- [Feb 26, 2024](https://twitter.com/rosspower/status/1762243479340490815/photo/1) - Thelema does an IRL talk with ImgnAI aduringt the [Convergence AI Summit](http://convergenceai.xyz/) during the [ETHDenver](https://www.ethdenver.com/) Conference. One slide includes a Milady meme; another refers to the present moment as ["the seventh and final mass extinction event"](https://twitter.com/networkspirits/status/1762166635681415531/photo/1)
+- [March 18,2024](https://twitter.com/imgn_ai/status/1769791182270333067) - ImgnAI stages their "accelerate catgirl research" protest at Nvidia GTC
+- [March 29, 2024](https://www.tiktok.com/@basedredactedgang/video/7351968970771025158) - Remilia Corp x RBG Crocs accessories with a cute Sonnenrad are advertised on TikTok
+- [April 18, 2024](https://twitter.com/networkspirits/status/1780826003150934464) - Thelema is still posting and liking a bunch of Milady memes on Twitter
