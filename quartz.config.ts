@@ -32,6 +32,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "polemics.md",
+    ogImagePath: "static/og-image.png",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
