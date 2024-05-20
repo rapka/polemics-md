@@ -1,5 +1,5 @@
 # Two former Hillary Clinton campaigners organized a PAC that's trying to destroy The Squad
-## Primarying them is "critical to our mission"
+## Primarying them is "critical" to their mission
 
 Several former Hillary Clinton campaigners are involved in fundraising for a hybrid PAC called [**Pro PAC**](https://www.fec.gov/data/committee/C00858100/) that aims to unseat The Squad. 
 
