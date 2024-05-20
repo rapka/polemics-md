@@ -81,3 +81,4 @@ At first I was concerned that this may be a network of bots posting the links be
 | @DemsWin2024     | Demswin2024                                     | dwjm      |
 | @LeftWordInk     | LeftWORD 🌊🌊🌊                                 | lwjm      |
 | @UnseatTheSquad  | UnseatTheSquad 🌊🌊🌊                           | unseatjm  |
+*The tables from this article are also available on a [standalone page](../datasets/pro-pac-actblue).*
