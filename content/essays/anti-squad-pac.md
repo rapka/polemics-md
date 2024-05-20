@@ -7,7 +7,7 @@ Several former Hillary Clinton campaigners are involved in fundraising for a hyb
 
 A few weeks ago, trans public policy activist and comrade of mine Corinne Green [tweeted](https://twitter.com/gaynarcan/status/1784450254093402367) about an odd account that had followed her recently called [Ask Me About Raising Money For Democrats 🌊🌊🌊 (@OnTheTrail2024)](https://twitter.com/onthetrail2024). It's an election year, so Democrats attempting to fundraise isn't surprising - what made this account odd isn't just fundraising for campaigns against Republicans, but also **for [primary challengers](https://secure.actblue.com/donate/unseatcoribush) against the progressive group of Congressional Democrats known as [The Squad](https://en.wikipedia.org/wiki/The_Squad_(United_States_Congress))**.  
 
-To make matters even more bizarre, @OnTheTrail2024 also promotes a [Google Forms application](https://docs.google.com/forms/d/e/1FAIpQLSdaLJwZKkLJeEjm-sFbZ8xAB3j6oURkPPwjkbctgdj7shD17g/viewform)  for a group called "Back2Brunch". Apparently operated by a [Twitter account of the same name](https://twitter.com/back2brunch), Back2Brunch is a call to action to "use your social media networks to help raise money for Democratic candidates". This fundraising is done through ActBlue links that contain personalized tracking codes that allow each person to keep track of how much donation money they've brought in, presumably for bragging rights. Corinne's reaction to learning about this was pretty much the same as mine: **"WTF"**
+To make matters even more bizarre, @OnTheTrail2024 also promotes a [Google Forms application](https://docs.google.com/forms/d/e/1FAIpQLSdaLJwZKkLJeEjm-sFbZ8xAB3j6oURkPPwjkbctgdj7shD17g/viewform)  for a group called "Back2Brunch". Apparently operated by a [Twitter account of the same name](https://twitter.com/back2brunch), Back2Brunch is a call to action to "use your social media networks to help raise money for Democratic candidates". This fundraising is done through ActBlue links that contain personalized tracking codes that allow each person to keep track of how much donation money they've brought in, presumably for bragging rights. Corinne's reaction to learning about this was pretty much the same as mine: **"WTF?"**
 
 ![Screenshots of tweets by Sally Albright and "Ask Me About Raising Money for Democrats" as well as Back2Brunch's Google Form for fundraising links](../images/anti-squad-pac/tweet-mosaic.png)
 
@@ -45,7 +45,7 @@ Reading through the descriptions for all of the fundraisers, I noticed some inte
 - Strangely, the Biden-Harris fundraisers says "It's Official! Joe Biden and Kamala Harris are running!" as if this information is new even though Pro PAC didn't exist at all before November 2023.
 - The "Unseat Pramila Jayapal" fundraiser isn't going to a candidate. Donations go directly to Pro PAC, presumably to "make sure she has a viable, well-funded challenger". The call to action begins with the text **"We must stop the Squad before they destroy the Democratic party"**.
  - Similarly, the "Let's Beat Gym Jordan" and "Unseat Matt Gaetz in 2024" campaigns are also in support of Pro PAC rather than a specific candidate.
-- One of Pro PAC's fundraisers for Joe Biden is called "Reelect Biden Harris to Stop the MAGA Anti-woman Agenda!". Ironically, the "Help Us Unseat Cori Bush!!" fundraiser is in support of a man's primary challenge against a women.
+- One of Pro PAC's fundraisers for Joe Biden is called "Reelect Biden Harris to Stop the MAGA Anti-woman Agenda!". Ironically, the "Help Us Unseat Cori Bush!!" fundraiser is in support of a man's primary challenge against a woman.
 
 ---
 
@@ -55,7 +55,7 @@ Here's my take on all this: I don't like the fact that two moderate Democrats as
 
 I especially don't like this fact when the Democratic party has been very loudly begging voters to unite in defeating Donald Trump. Spending time and money on primary efforts doesn't accomplish this goal, nor does it address the underlying issues causing division in the party in the first place - namely, Joe Biden's steadfast support for Israel's ongoing genocide in Palestine.
 
-### Appdenix: Who's doing the fundraising
+### Appdenix: Who's doing the fundraising?
 
 These are all the accounts I've found that seem to be participating in Back2Brunch. The `refcode` tracking codes in the Pro PAC ActBlue URLs these accounts post align perfect with their account names.
 
