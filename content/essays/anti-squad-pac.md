@@ -44,7 +44,7 @@ Reading through the descriptions for all of the fundraisers, I noticed some inte
 - No criticism of Summer Lee is given at all to justify Pro PAC's funding of her primary challenger -- John Fetterman even endorsed her before October 7th. Lee went on to defeat Patel in the primary.
 - Strangely, the Biden-Harris fundraisers says "It's Official! Joe Biden and Kamala Harris are running!" as if this information is new even though Pro PAC didn't exist at all before November 2023.
 - The "Unseat Pramila Jayapal" fundraiser isn't going to a candidate. Donations go directly to Pro PAC, presumably to "make sure she has a viable, well-funded challenger". The call to action begins with the text **"We must stop the Squad before they destroy the Democratic party"**.
- - Similarly, the "Let's Beat Gym Jordan" and "Unseat Matt Gaetz in 2024" campaigns are also in support of Pro PAC rather than a specific candidate.
+ - Similarly, the "Let's Beat Gym(sic) Jordan" and "Unseat Matt Gaetz in 2024" campaigns are also in support of Pro PAC rather than a specific candidate. Jim Jordan's name is also misspelled.
 - One of Pro PAC's fundraisers for Joe Biden is called "Reelect Biden Harris to Stop the MAGA Anti-woman Agenda!". Ironically, the "Help Us Unseat Cori Bush!!" fundraiser is in support of a man's primary challenge against a woman.
 
 ---
