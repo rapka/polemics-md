@@ -6,7 +6,7 @@ tags: politics
 ---
 # What the Heck is "Musicians for Biden-Harris"?
 
-Last month I published an [article] detailing how a former Hillary Clinton campaign consultant [Sally Albright](https://www.sallylalbright.com/) is soliciting donations to primary elected progressive Democrats via a political action committee managed by the treasurer from John Fetterman's 2022 senatorial campaign.
+Last month I published an [article](./anti-squad-pac.md) detailing how a former Hillary Clinton campaign consultant [Sally Albright](https://www.sallylalbright.com/) is soliciting donations to primary elected progressive Democrats via a political action committee managed by the treasurer from John Fetterman's 2022 senatorial campaign.
 
 In addition to the Twitter accounts I found spamming links to donate to this PAC, another small account I stumbled across while researching is a pro-Biden account called [@Musicians4Biden](https://twitter.com/Musicians4Biden). At time of writing, it has only a few hundred tweets, allowing me to look at all of the account's activity. What I found was perplexing...
 
