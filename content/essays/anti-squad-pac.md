@@ -1,3 +1,9 @@
+---
+title: Two former Hillary Clinton campaigners organized a PAC that's trying to destroy The Squad
+date: 2024-05-20
+draft: false
+tags: politics
+---
 # Two former Hillary Clinton campaigners organized a PAC that's trying to destroy The Squad
 ## Primarying them is "critical" to their mission
 

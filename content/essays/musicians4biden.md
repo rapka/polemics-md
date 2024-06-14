@@ -1,4 +1,10 @@
-# What the heck is "Musicians for Biden-Harris"?
+---
+title: What the Heck is "Musicians for Biden-Harris"?
+date: 2024-6-14
+draft: false
+tags: politics
+---
+# What the Heck is "Musicians for Biden-Harris"?
 
 Last month I published an [article] detailing how a former Hillary Clinton campaign consultant [Sally Albright](https://www.sallylalbright.com/) is soliciting donations to primary elected progressive Democrats via a political action committee managed by the treasurer from John Fetterman's 2022 senatorial campaign.
 
