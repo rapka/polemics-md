@@ -24,7 +24,7 @@ I don't know why someone would feel the need to attempt a fundraising scheme tha
 
 ### Coordinated Back2Brunch social media behavior
 
-This is a screenshot showing all of the retweets of a [tweet]() mocking the idea of queer political theory extending to Palestinian rights. There are 12 retweets besides Musicians for Biden, 9 of which I had [previously](./anti-squad-pac.md) documented as being part of the Back 2 Brunch anti-Squad fundraising drive. The remaining four accounts have the same blue wave emojis in their names and spend almost all of their time retweeting Back2Brunch link.
+Below is a screenshot showing all of the retweets of one such [tweet](https://x.com/estherzelda0514/status/1797489170392473775/)  mocking a pro-Palestine message from queer academic Jess A. Goldberg. Besides Musicians for Biden, there's 12 retweets, 9 of which I had [previously documented](./anti-squad-pac.md) as being part of the Back 2 Brunch anti-Squad fundraiser/social media network. The remaining four accounts have the same blue wave emojis in their names and spend almost all of their time retweeting Back2Brunch links.
 
 ![A list of 13 Twitter accounts, nine of which are labeled with a thinking emoji](../musicians4biden/queer-retweets-annotated.png)
 
