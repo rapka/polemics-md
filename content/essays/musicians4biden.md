@@ -14,13 +14,15 @@ In addition to the Twitter accounts I found spamming links to donate to this PAC
 
 The [very first tweet](https://x.com/Musicians4Biden/status/1769084721110098247) from Musicians for Biden-Harris (misspelled as "Biden-Harrs" in the bio) is an [article](https://www.altpress.com/musicians-supporting-joe-biden-2020-election/) about musicians who supported Biden's campaign... in 2020. 
 
-![Screenshot of an article from October 30, 2020 about Joe Biden's campaign](./musicians-biden-harris/2020-article-screenshot.png)
+![Screenshot of @Musicians4Biden's first tweet](../images/musicians4biden/first-tweet.png)
+
+![Screenshot of an article from October 30, 2020 about Joe Biden's campaign](../images/musicians4biden/2020-article-screenshot.png)
 
 This was immediately followed by a [retweet](https://x.com/TWLadyGrey/status/1768605688777863352/retweets) of a post calling the majority of Biden critics "intellectual cowards who can't admit Biden is good". The third tweet is a [retweet](https://x.com/TommyInPA/status/1768814858005336434/retweets) of a post calling The Squad "racist antisemites".
 
 ![Screenshot of the first three tweets on @Musicians4Biden's timeline](../musicians4biden/first-tweets.png)
 
-Besides posting that initial article from 2020, the account has only made a handful of other posts about music: a retweet of a [Memorial to Dickey Betts](https://x.com/odie_jackson/status/1781060117800079452/retweets), a [quote](https://x.com/HeLiesWeDie1/status/1765961410763260391/retweets) of a tweet comparing Joe Biden at the State of the Union Address to Buddy Guy, a reply to [Clash - I Fought The Law](https://x.com/Musicians4Biden/status/1796346003857256583) being posted in response to Donal Trump's conviction, and a [recently-pinned](https://x.com/Musicians4Biden/status/1797895241682542731) tweet about favorite songs. That's it. From looking at Twitter, it's impossible to tell which musicians are involved with this account, if any.
+Besides posting that initial article from 2020, the account has only made a handful of other posts about music: a retweet of a [Memorial to Dickey Betts](https://x.com/odie_jackson/status/1781060117800079452/retweets), a [quote](https://x.com/HeLiesWeDie1/status/1765961410763260391/retweets) of a tweet comparing Joe Biden at the State of the Union Address to Buddy Guy, a reply to [Clash - I Fought The Law](https://x.com/Musicians4Biden/status/1796346003857256583) being posted in response to Donald Trump's conviction, and a [recently-pinned](https://x.com/Musicians4Biden/status/1797895241682542731) tweet about favorite songs. That's it. **There's no indication whatsoever on Twitter that there's any musicians involved with "Musicians 4 Biden" at all.**
 
 While the vast majority of the account's activity is retweets of other user's ActBlue links, it also sometimes posts these links [manually](https://x.com/Musicians4Biden/status/1798778554781487198) what's interesting about these posts is that the links don't contain a unique tracking code made for the @Musicians4Biden account. Instead, it uses the "b2bjm" code, which is used by the main @Back2Brunch account, **suggesting that "Musicians for Biden-Harris" is in fact a sock puppet account run by Sally Albright. This is supported by the complete lack of fundraising being done for any groups besides Pro PAC**.
 
@@ -39,3 +41,5 @@ Similarly, a [tweet](https://x.com/Raise4Dems/status/1796524028192063676) from @
 What's the purpose of all this internet detective work? **To show definitely that "Back 2 Brunch", an anti-left fundraising drive run by a former Hillary Clinton campaign employee, is engaging with political content on Twitter in a coordinated fashion that resembles bots.** If these accounts were posting in favor of Donald Trump, I doubt many would hesitate to refer to them as "Russian bots". There is little to no activity on many of these posts , further adding to the impression of a botnet.
 
 If all of these accounts are being run by real people then I deeply apologize to their owners. But if that's the case, they're still people who have seemingly conspired to coordinate their political social media activity in a bot-like manner. 
+
+🤔
