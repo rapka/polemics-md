@@ -6,7 +6,7 @@ tags: politics
 ---
 # What the Heck is "Musicians for Biden-Harris"?
 
-Last month I published an [article](./anti-squad-pac.md) detailing how a former Hillary Clinton campaign consultant [Sally Albright](https://www.sallylalbright.com/) is soliciting donations to primary elected progressive Democrats via a political action committee managed by the treasurer from John Fetterman's 2022 senatorial campaign.
+Last month I published an [article](./anti-squad-pac.md) detailing how a former Hillary Clinton campaign consultant named [Sally Albright](https://www.sallylalbright.com/) is soliciting donations to primary the progressive Democrat “Squad” of congresspeople via a political action committee managed by the treasurer from John Fetterman’s 2022 senatorial campaign.
 
 In addition to the Twitter accounts I found spamming links to donate to this PAC, another small account I stumbled across while researching is a pro-Biden account called [@Musicians4Biden](https://twitter.com/Musicians4Biden). At time of writing, it has only a few hundred tweets, allowing me to look at all of the account's activity. What I found was perplexing...
 
@@ -36,7 +36,7 @@ Here’s one example of this antagonism. The image below is a screenshot showing
 
 Similarly, a [tweet](https://x.com/Raise4Dems/status/1796524028192063676) from @Raise4Dems has 15 retweets - 8 were previously documented, 2 were included in the image above, and one is Musicians for Biden.
 
-What's the purpose of all this internet detective work? **To demonstrate that "Back 2 Brunch", an anti-left fundraising drive run by a former Hillary Clinton campaign employee, is engaging with political content on Twitter in a coordinated fashion that resembles bots.** If these accounts were posting in favor of Donald Trump, I doubt many would hesitate to refer to them as "Russian bots". There is little to no activity on many of these posts , further adding to the impression of a botnet.
+What's the purpose of all this internet detective work? **To demonstrate that "Back 2 Brunch", an anti-left fundraising drive run by a former Hillary Clinton campaign employee, is engaging with political content on Twitter in a coordinated fashion that resembles bots.** If these accounts were posting in favor of Donald Trump, I doubt many would hesitate to refer to them as "Russian bots". There is little to no replies or likes on many of these posts , further adding to the impression of a botnet.
 
 If all of these accounts are being run by real people then I deeply apologize to their owners. But if that's the case, they're still people who have seemingly conspired to coordinate their political social media activity in a bot-like manner. 
 
