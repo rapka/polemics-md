@@ -101,4 +101,4 @@ After the story, the book contains an appendix section in which the author spend
 >
 >Second-order effects are less obvious, because they depend on the evolution of the surrounding society. Some colonies have fallen into a cycle of adopting more and more potent sex mods, creating a population that grows ever more obsessed with increasingly intense and exotic sex until finally nothing else ever gets done. **Other societies become obsessed with specific fetishes, with most of the population adopting a common set of extreme mods (i.e. everyone becomes a cat person)**, but remain otherwise functional.
 
-**All of this is what Eliezer Yudkowsky considered to be "basically safe for work" and worth promoting to his audience on r/rational.** This is a shocking level of indifference to inappropriate sexual content involving children in a book that is tagged as "young adult".
+**All of this is what Eliezer Yudkowsky considered to be "charming", "basically safe for work", and worth promoting to his audience on r/rational.** This is a shocking level of indifference to inappropriate sexual content involving children in a book that is tagged as "young adult".
