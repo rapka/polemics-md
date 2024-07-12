@@ -3,33 +3,29 @@
 
 Eliezer Yudkowsky is a decision theorist and writer most known for leading the modern "rationality" movement, largely centered around his blog/forum LessWrong. In particular, Yudkowsky and many other rationalists are extremely concerned about the hypothetical possibility of evil sentient AI destroying humanity and want to slow down machine learning development to stop this. To this end, he penned an [op-ed](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) in Time Magazine arguing that countries should be "willing to destroy a rogue datacenter by airstrike" and recently [profiled](https://www.theguardian.com/technology/2024/feb/17/humanitys-remaining-timeline-it-looks-more-like-five-years-than-50-meet-the-neo-luddites-warning-of-an-ai-apocalypse) in the Guardian.
 
-Yudkowsky is also a prolific writer of science fiction. I was first introduced to him via Harry Potter and the Methods of Rationality, a [recruitment tool](https://www.vice.com/en/article/gq84xy/theres-something-weird-happening-in-the-world-of-harry-potter-168) for LessWrong (which has often been described as ["cult-like"](https://www.vice.com/en/article/gq84xy/theres-something-weird-happening-in-the-world-of-harry-potter-168)) in the form of a lengthy science-based fan fiction set in the Harry Potter universe.
+Yudkowsky is also a prolific writer of science fiction. I was first introduced to him via Harry Potter and the Methods of Rationality, a [recruitment tool](https://www.vice.com/en/article/gq84xy/theres-something-weird-happening-in-the-world-of-harry-potter-168) for the LessWrong community (which has often been described as ["cult-like"](https://www.vice.com/en/article/gq84xy/theres-something-weird-happening-in-the-world-of-harry-potter-168)) in the form of a lengthy science-based fan fiction set in the Harry Potter universe.
 
-### The Perilous Waif?
+### The Perilous Waif
 
-In [February 2017](https://web.archive.org/web/20170219192914/https://www.reddit.com/r/rational/comments/5txz0t/hsf_th_perilous_waif_a_charming_new_novellength/), Yudkowsky made a post on the Raitionality subreddit recommending a sci-fi book called The Perilous Waif. In response to a comment asking if the book has "less creepy sex scenes than Time Braid" (the author's previous work), Eliezer replied "I'd say it's basically Safe For Work". The book also has a "young adult" tag on [Goodreads](https://www.goodreads.com/book/show/33962948-perilous-waif), where it's the 11th item on a list of [Rational fiction](https://www.goodreads.com/list/show/100705.Rational_Fiction).
+In [February 2017](https://web.archive.org/web/20170219192914/https://www.reddit.com/r/rational/comments/5txz0t/hsf_th_perilous_waif_a_charming_new_novellength/), Yudkowsky made a post on the Rationality subreddit recommending a sci-fi book called The Perilous Waif. In response to a comment asking if the book has "less creepy sex scenes than Time Braid" (the author's previous work), Eliezer replied "I'd say it's basically Safe For Work". The book also has a "young adult" tag on [Goodreads](https://www.goodreads.com/book/show/33962948-perilous-waif), where it's the 11th item on a list of [Rational fiction](https://www.goodreads.com/list/show/100705.Rational_Fiction).
 
-![](../images/yudkowsky-perilous-waif/basically-sfw.png)
+![Screenshot of a Reddit post about The Perilous Waif. A user asks "Does it have less creepy sex scenes than Time Braid" and Eliezer Yudkowsky replies "I'd say it's basically Safe For Work."](../images/yudkowsky-perilous-waif/basically-sfw-context.png)
 
-Dear readers, I regret to inform you that *The Perilous Waif* is **not** safe for work. 
+Dear readers, I regret to inform you that *The Perilous Waif* is **not** safe for work.  Out of curiosity, I decided to check some of the negative Amazon reviews for *The Perilous Waif* and was alarmed by what I found. Several reviewers complained about the book's apparent sexualization of its young protagonist.
 
----
-
-Out of curiosity, I decided to check some of the negative Amazon reviews for *The Perilous Waif* and was alarmed by what I found. Several reviewers complained about the book's apparent sexualization of its young protagonist.
-
-![](../images/yudkowsky-perilous-waif/amazon-review-1.png)
-![](../images/yudkowsky-perilous-waif/amazon-review-2.png)
-![](../images/yudkowsky-perilous-waif/amazon-review-3.png)
+![A one-star review of The Perilous Waif. The title is "Pedofile" and it reads "Author is obsessed with underage sex though there is no actual sex there is nudity, exposure and grooming. I hate the reviews of these books that don't mention stuff like this. Terrible terrible book"](../images/yudkowsky-perilous-waif/amazon-review-1.png)
+![A two-star review of The Perilous Waif. The title is "Perilous if you are under 18" and it reads "The book is well written. It is character driven. There were no major problems with grammar. My problem with the book has to do with a thirteen year old having sexual fantasies…... When I was thirteen, I wasn't dreaming about someone kissing me. Maybe I was naive, but I certainly didn't dream about having sex with someone at thirteen. Is it necessary to have stuff like this in books? Thus, the two stars."](../images/yudkowsky-perilous-waif/amazon-review-2.png)
+![A one-star review of The Perilous Waif. The title is "Creepy sexualization of young female characters" and it reads "If you like Piers Anthony or anime fanservice with young female characters, this book may be for you. The worldbuilding sounded very cool. But it's so, so, so male gaze-y. The main character - who is 14ish- is sexualized. There's a girl-on-girl sexual assault in the first chapter."](../images/yudkowsky-perilous-waif/amazon-review-3.png)
 
 In fairness, these reviews are a tiny minority of the overall positive reception the book has gotten - it's currently sitting at 4.6 stars with 4,109 ratings. Did they all miss the creepiness? Are the negative reviews just exaggerating? I bought the book myself to find out and discovered that the book is even more creepy than the reviews let on.
 
 **CONTENT WARNING: DESCRIPTIONS OF SEXUALIZATION OF MINORS AHEAD**
 
-**I CANNOT EMPHASIZE THIS ENOUGH! IT'S REALLY WEIRD!**
+**I CANNOT EMPHASIZE THIS ENOUGH! IT'S VERY DISTURBING!**
 
 ---
 
-_The Perilous Waif_ follows the story of its narrator Alice Long, a cybernetically enhanced orphan with a variety of superhuman powers in the 25th century. One of these enhancements causes Alice's body to grow very fast, causing her to be a six year old in the body of a thirteen year old at the time the story takes place. 
+_The Perilous Waif_ follows the story of its narrator Alice Long, a cybernetically enhanced orphan with a variety of superhuman powers in the 25th century. One of these enhancements causes Alice's body to grow very fast, giving her the body of a thirteen year old at just age six.
 
 >I was an infant when I was brought here, but **I'd sprouted into a credible imitation of a thirteen-year-old girl in only six years**. Most of the kids were freaked out by that, and the matrons had no idea what to do with me.
 
@@ -51,7 +47,7 @@ Beyond the first chapter, inappropriate sexual situations continue to happen ove
 >
 >...
 > 
->They were all joking and talking smack about who was going to 'land' the richest spacer tonight. But then why were they ignoring me?
+>They were all joking and talking smack about who was going to 'land' the richest spacer tonight. But then why were they ignoring me??
 >
 >I kept listening, and soon I had my answer.
 >
@@ -69,7 +65,7 @@ Another scene portrays Alice using powers of invisibility granted to her by her 
 >
 >I went into stealth mode, and drifted around the corner.
 
-At one point, an android character named Lina describes herself as a "hot android sex kitten" to Alice (reminder: Alice is six years old). Being a manufactured robot, Lina has "imprinting" software that causes her to be devoted to her master. 
+At one point, an android character named Lina describes herself as a "hot android sex kitten" to six-year-old Alice. Being a manufactured robot, Lina has "imprinting" software that causes her to be devoted to her master. 
 
 >"But aren't you imprinted on Chief Benson?" I protested, confused.
 >
@@ -81,7 +77,7 @@ The book's universe also contains digital aphrodisiacs:
 >
  "No one buys that option," Lina scoffed. "You have to remember, **deep in their heart every human wants to be seduced by a hot android sex kitten.** Sometimes the military types will be all locked down and immune to everything, but anyone else is easy.
 
-In an act that I can only describe as "grooming", Lina later introduces six year old Alice to a video with "sexy scenes".
+In an act that I can only describe as "grooming", Lina later introduces Alice to a video with "sexy scenes".
 
 >She restarted the vidshow. The trashy catgirls went back to seducing the office lady, who wasn't putting up much of a fight to be honest. **She seemed to really like the way they were taking turns kissing her lips, and working their way up and down the sides of her neck.
 >
@@ -95,14 +91,14 @@ In an act that I can only describe as "grooming", Lina later introduces six year
 >
 >It was painful to watch, but at the same time it was kind of fun. Thankfully the sexy scenes never quite made it to the point where anyone got undressed, even when Ghost Black got captured by the bad guys and had to seduce their torturer into letting her go.
 
-After the story, the book contains an appendix section in which the author spends several paragraphs describing his fantasy of what genetically enhanced sex will be like in the 25th century. This includes eugenics, described as "generations of hereditary cosmetic tweaks" will theoretically allow all women to become conventionally attractive.
+After the story, the book contains an appendix section in which the author spends several paragraphs describing his fantasy of what genetically enhanced sex will be like in the 25th century. This includes eugenics, described as "generations of hereditary cosmetic tweaks" will theoretically allow all women to become conventionally attractive. 
 
 > **Sex Mods**
-
+> 
 >Yes, we're going to go there. For some reason SF authors have generally been very reluctant to touch this issue, but the more immediate applications of easy personal modification tech seem fairly obvious. First, by the 25th century practically all women have a set of mods that give them conscious control of their own fertility while completely eliminating the need to have periods. **Another set of tweaks that makes it easy to achieve orgasm through intercourse is also nearly universal, because practically everyone wants that to be easy. Generations of hereditary cosmetic tweaks ensure that even average women are as beautiful as the supermodels of the 21st century, while those who work at it can achieve a level of exotic perfection that would be impossible in nature.**
 >
 >Meanwhile men generally have more stamina, and are able to perform several times in the course of an evening. **Larger sex organs are fairly common, as are various minor design tweaks reputed to increase a partner's pleasure**. Gender dimorphism in height and weight is also significantly increased - the average male is a couple of inches taller and carries an extra twenty or thirty pounds of muscle, while the average female size hasn't changed.
 >
 >Second-order effects are less obvious, because they depend on the evolution of the surrounding society. Some colonies have fallen into a cycle of adopting more and more potent sex mods, creating a population that grows ever more obsessed with increasingly intense and exotic sex until finally nothing else ever gets done. **Other societies become obsessed with specific fetishes, with most of the population adopting a common set of extreme mods (i.e. everyone becomes a cat person)**, but remain otherwise functional.
 
-**All of this is what Eliezer Yudkowsky considered to be "safe for work" and worth promoting to his audience on r/rational.** This level of indifference to inappropriate sexual situations is indicative of a deeper issue within the rationality community. Similar instances have cropped up multiple times throughout the years, too many to limit to a single article.
+**All of this is what Eliezer Yudkowsky considered to be "basically safe for work" and worth promoting to his audience on r/rational.** This is a shocking level of indifference to inappropriate sexual content involving children in a book that is tagged as "young adult".
