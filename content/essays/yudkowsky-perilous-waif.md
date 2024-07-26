@@ -1,9 +1,14 @@
+---
+title: That Time Eliezer Yudkowsky recommended a really creepy sci-fi book to his audience
+date: 2024-07-12
+draft:
+---
 # That Time Eliezer Yudkowsky recommended a really creepy sci-fi book to his audience
 ## ...and called it "safe for work"
 
 ![Book cover of Perilous Waif alongside Eliezer Yudkowsky's Reddit posts about it and a one-star Amazon review titled "creepy sexualization of young female characters](../images/yudkowsky-perilous-waif/perilous-waif-header.png)
 
-Eliezer Yudkowsky is a decision theorist and writer most known for leading the modern "rationality" movement, largely centered around his blog/forum LessWrong. In particular, Yudkowsky and many other rationalists are extremely concerned about the hypothetical possibility of evil sentient AI destroying humanity and want to slow down machine learning development to stop this. To this end, he penned an [op-ed](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) in Time Magazine arguing that countries should be "willing to destroy a rogue datacenter by airstrike" and was recently [profiled](https://www.theguardian.com/technology/2024/feb/17/humanitys-remaining-timeline-it-looks-more-like-five-years-than-50-meet-the-neo-luddites-warning-of-an-ai-apocalypse) in the Guardian.
+Eliezer Yudkowsky is a decision theorist and writer most known for spearheading the modern "rationality" movement, largely centered around his blog/forum LessWrong. In particular, Yudkowsky and many other rationalists are extremely concerned about the hypothetical possibility of evil sentient AI destroying humanity and wants to slow down machine learning development to stop this. To this end, he penned an [op-ed](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) in Time Magazine arguing that countries should be "willing to destroy a rogue datacenter by airstrike" and was recently [featured](https://www.theguardian.com/technology/2024/feb/17/humanitys-remaining-timeline-it-looks-more-like-five-years-than-50-meet-the-neo-luddites-warning-of-an-ai-apocalypse) in a Guardian article about his beliefs.
 
 Yudkowsky is also a prolific writer of science fiction. I was first introduced to him via Harry Potter and the Methods of Rationality, a [recruitment tool](https://www.vice.com/en/article/gq84xy/theres-something-weird-happening-in-the-world-of-harry-potter-168) for the LessWrong community (which has often been described as ["cult-like"](https://www.vice.com/en/article/gq84xy/theres-something-weird-happening-in-the-world-of-harry-potter-168)) in the form of a lengthy science-based fan fiction set in the Harry Potter universe.
 
