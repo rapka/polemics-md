@@ -1,5 +1,15 @@
+---
+title: "# What's up with the \"Greta Thunberg of AI\"?"
+date: 2024-08-20
+tags:
+  - AI
+  - BigTech
+  - ExistentialRisk
+  - EffectiveAltruism
+draft: false
+---
 # What's up with the "Greta Thunberg of AI"?
-### The sponsor of California's AI regulatory bill has taken a turn toward the apocalyptic while her sister works at a Peter Thiel funded AI company
+### California’s AI regulatory bill sponsor has taken a turn toward the apocalyptic while her sister works at a Peter Thiel-funded AI company
 ![Screenshots of Sneha Revanur, the "Greta Thunberg of AI" and her interview saying her sister work contrasted with a screenshot of Wall Street Journal's video about Hebbia and Swetha Revanur](../images/ai-greta-thunberg/greta-thunberg-ai.png)
 
 Sneha Revanur was dubbed the "Greta Thunberg of AI" in a [Politico article](https://www.politico.com/newsletters/digital-future-daily/2023/05/01/meet-the-greta-thunberg-of-ai-00094709)  covering her tech-related activism through her Encode Justice group[^1] with a focus on social justice issues such as her opposition to California's dystopian [Proposition 25](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_(2020)) that would have replaced cash bail with an algorithm. 
@@ -22,7 +32,7 @@ In her interview with *The Bulletin*, Sneha said that her parents joke about her
 
 ---
 
-[^2] Encode Justice is primarily funded by the Omidyar Network, a "social change venture" created by billionaire eBay founder Pierre Omidyar.
+[^1] Encode Justice is primarily funded by the Omidyar Network, a "social change venture" created by billionaire eBay founder Pierre Omidyar.
 [^2] The Center for AI Safety is one of many organizations funded by [Open Philanthropy](https://www.openphilanthropy.org/grants/?focus-area=potential-risks-advanced-ai), a grantmaking group founded by Facebook co-founder Dustin Muskovitz that focuses much of its effort on hypothetical AI risk under the guise of a "longtermist" ideology that disproportionately focuses on the lives of people born in the far future over those alive today.
 [^3] As I've [previously reported](https://medium.com/@collegehill/max-tegmark-ai-conspiracy-theories-and-the-swedish-right-an-investigation-5c70eea21b56), Future of Life Institute co-founder and president Max Tegmark has endorsed a book authored by his anti-vaccine brother Per Shapiro that claims modern AI was predicted by "ancient teachings of the Gnostics". He also once [offered $100,000 of FLI's money](https://expo.se/nyhet/elon-musk-funded-nonprofit-run-mit-professor-offered-finance-swedish-pro-nazi-group/) to *Nya Dagbladet*, the neo-Nazi news outlet her brother has written for.
 [^4] Beyond Andreessen-Horowitz' investments, Marc Andreessen is a follower of the "effective accelerationist" ideology that opposes the regulation of technology on principle. Effective accelerationists are often in conflict with adherents to longtermism and effective altruism, its ideological predecessor.
