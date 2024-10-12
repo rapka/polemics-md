@@ -1,5 +1,5 @@
 ---
-title: "# What's up with the \"Greta Thunberg of AI\"?"
+title: "What's up with the \"Greta Thunberg of AI\"?"
 date: 2024-08-20
 tags:
   - AI
