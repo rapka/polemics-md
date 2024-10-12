@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
       title: "writings", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: 'open', // default state of folders ("collapsed" or "open")
@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
             const month = dateFormatter.format(date)
             const year = date.getFullYear()
 
-             console.log('sroo', dateA)
+             console.log('sroo', node.file)
             // node.displayName = `[${month} ${year}] ${node.displayName}`;
             node.displayName = `${node.displayName}`
           }
@@ -61,7 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
       // what order to apply functions in
       order: ["filter", "map", "sort"],
-    })),
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
