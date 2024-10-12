@@ -36,10 +36,12 @@ export const defaultContentPageLayout: PageLayout = {
       useSavedState: true, // wether to use local storage to save "state" (which folders are opened) of explorer
       // Sort order: folders first, then files. Sort folders and files alphabetically
       sortFn: (a, b) => {
-        const dateA = a?.file?.dates?.created;
-        const dateB = b?.file?.dates?.created;
+        const dateA = a?.file?.dates?.created
+        const dateB = b?.file?.dates?.created
 
-        return dateB - dateA;
+        console.log('sroo', dateA)
+
+        return dateB - dateA
       },
       // filterFn: (node) => node.name !== "tags", // filters out 'tags' folder
       mapFn: (node) => {
@@ -47,11 +49,13 @@ export const defaultContentPageLayout: PageLayout = {
         if (node.depth > 0) {
           // set emoji for file/folder
           if (node.file) {
-            const date = node.file.dates?.created;
-            const month = dateFormatter.format(date);
+            const date = node.file.dates?.created
+            const month = dateFormatter.format(date)
             const year = date.getFullYear()
+
+             console.log('sroo', dateA)
             // node.displayName = `[${month} ${year}] ${node.displayName}`;
-            node.displayName = `${node.displayName}`;
+            node.displayName = `${node.displayName}`
           }
         }
       },
