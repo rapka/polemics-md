@@ -5,6 +5,7 @@ draft: false
 tags:
   - Politics
   - AI
+  - Racism
 ---
 # That time Lex Fridman Promoted Race Science
 ### ...during an interview with Sam Altman
