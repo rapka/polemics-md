@@ -15,17 +15,26 @@ Lex Fridman is a podcaster who generally covers tech but has been in the news re
 
 > There could be truths that are harmful in their truth. I don't know... group differences in IQ. There you go. Scientific work that when spoken, might do more harm. You ask GPT that, would GPT tell you? There's books written on this that are rigorous, scientifically, but are very uncomfortable and probably not productive in any sense...but maybe are.
 
-Fridman doesn't mention any books or authors by name, leaving the listener to wonder what exactly he's referring to. However, a hint can be seen in his 2022 [interview](https://www.youtube.com/watch?v=hppbxV9C63g) with psychologist Richard Haier. 
+Fridman doesn't mention any books or authors by name, leaving the listener to wonder what exactly he's referring to. However, a hint can be seen in his [2022 interview](https://www.youtube.com/watch?v=hppbxV9C63g) with psychologist Richard Haier. 
 
-In it, Haier appears to advocate for eugenics in response to a question about the Bell Curve's chapter on race on Ted Koppel's show:
-
-> **Haier:**
-She said, "'What would you say if you were on TV?' And I said, well, what I would say is that it's not at all clear if there's any genetic component to intelligence, any differences, but if there were a strong genetic component, that would be a good thing. And you know, complete silence on the other end of the phone. And she said "well, what do you mean"?
-> And I said, well, if it's the more genetic any difference is the more it's biological. And if it's biological, we can figure out how to fix it.
-**Fridman:** I see, that's interesting.
-**Haier:** She said, would you say that on television?
-**Fridman:** Yes.
-**Haier:** I said, no. And so that was the end of that.
+In it, Haier appears to advocate for eugenics in response to a question about *The Bell Curve*'s chapter on race from a producer for Ted Koppel's show:
+ 
+> **Haier:** She said, "What would you say if you were on TV?"
+> And I said, "Well, what I would say is that it's not at all clear if there's any genetic component to intelligence, any differences, but if there were a strong genetic component, that would be a good thing."
+> 
+> And you know, complete silence on the other end of the phone.
+> 
+> And she said, "Well, what do you mean?"
+> 
+> And I said, "Well, the more genetic any difference is the more it's biological. And if it's biological, we can figure out how to fix it."
+> 
+> **Fridman:** I see, that's interesting.
+> 
+> **Haier:** She said, "Would you say that on television?"
+> 
+> **Fridman:** Yes.
+> 
+> **Haier:** I said, no. And so that was the end of that. 
 
 Haier serves at the editor in chief of the *Intelligence*, a scientific journal. *Intelligence's* whose board includes Gerhard Meisenberg and Richard Lynn, two researchers closely tied to *Mankind Quarterly*, a fringe pro-eugenics journal funded by the [SPLC-designated hate group](https://www.splcenter.org/fighting-hate/extremist-files/group/pioneer-fund) Pioneer Fund. In response to criticism, Haier claimed that ["sunlight and by inclusion"]((https://www.theguardian.com/commentisfree/2018/jan/22/eugenics-racism-mainstream-science)) is the best way to deal with race scientists holding white supremacist views.
 
