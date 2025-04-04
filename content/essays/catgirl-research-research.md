@@ -15,7 +15,7 @@ draft: false
 Nvidia's [GPU Technology Conference (GTC)](https://www.nvidia.com/gtc/) for artificial intelligence was held last March. There were some protestors outside the event this year, holding signs arguing against the regulation of AI and while repeating their one demand: **"ACCELERATE CATGIRL RESEARCH"**.
 
 When I saw this, I absolutely needed to figure out just what in tarnation was going on with this protest[^1]. I've managed to find a couple of answers, but boy oh boy does this story get *weird*.
-### ImgnAI: ### the crypto-based catgirl-focused AI company behind the protest
+### ImgnAI: The crypto-based catgirl-focused AI company behind the protest
 
 ![promotional image of "Naifu" from ImgnAI's website](../images/catgirl-research-research/naifu.png)
 
@@ -62,7 +62,7 @@ A Twitter account by the name of [Bot Chad](https://twitter.com/BotChadX) is the
 
 As mentioned earlier, Thelema is a big fan of the Milady Maker NFT line and their creator, the Remilia Corporation. In a [November 2023 tweet](https://twitter.com/networkspirits/status/1728442706366484949) praising the project, she celebrated Remilia "pushing cancel culture into its own combustion" while celebrating accelerationism taking over the tech world. 
 
-![Screenshot of a Tweet from Thelema that says "happy birthday remilia corp. you found me some of my best friends and changed my life in doing so](../images/catgirl-research-research/thelema-thanks-remilia.png)
+![Screenshot of a Tweet from Thelema that says "happy birthday remilia corp. you found me some of my best friends and changed my life in doing so"](../images/catgirl-research-research/thelema-thanks-remilia.png)
 
 The backstory behind Remilia is far too weird and dark to cover in this article, but here's the Cliff Notes version of what happened: 
 
@@ -72,7 +72,7 @@ Fang would later be [sued](https://news.bloomberglaw.com/esg/nft-founder-charlot
 
 Remilia Corp’s flirtations with the far-right didn’t end there. In March, they [announced](https://store.remilia.org/products/brg-x-remilia-jibbitz) a line of cute accessories for Croc shoes in collaboration with another collective that calls themselves the [“Based Retard Gang”](https://www.tiktok.com/@basedredactedgang). Among the items is a rainbow heart version of the [Sonnenrad](https://en.wikipedia.org/wiki/Black_Sun_%28symbol%29), an esoteric Nazi symbol often used by modern Neo-Nazis online as a dogwhistle. An incredibly saccharine and ironic advertisement for the merch is viewable on both [TikTok](https://www.tiktok.com/@basedredactedgang/video/7351968970771025158) and [Instagram](https://www.instagram.com/p/C5Hs4SmMDBv/?hl=en).
 
-![Instagram ad for Remilia merch featuring a rainbow version the Nazi "Black Sun" Sonnenrad icon. One comment say "lovepilled sonnerad goes crazy".](../images/catgirl-research-research/remilia-insta-ad.png)
+![Instagram ad for Remilia merch featuring a rainbow version the Nazi "Black Sun" Sonnenrad icon. One comment says "lovepilled sonnerad goes crazy"](../images/catgirl-research-research/remilia-insta-ad.png)
 
 ### West Ham Capital
 
@@ -100,7 +100,7 @@ Searching for West Ham in the [UK's companies register](https://find-and-update.
 
 In a [YouTube video](https://www.youtube.com/watch?v=fJiTHBqBCsA) from March 2023, West Ham's original incarnation was revealed by Dr. Day to be a massive crypto group chat on Twitter organized by him. It's unclear how this group chat became big enough to become a legit venture capital firm, a feeling apparently shared by West Ham itself - its Twitter account posted a [meme](https://twitter.com/WestHamGC/status/1750940235343519764/photo/1) indicating that the situation was a surprise to them as well. 
 
-![Image macro of Plankton from Spongebob Squarepants saying "I didn't think I'd get this far"](../images/catgirl-research-research/west-ham-spongebob-meme.png) 
+![Image macro of Plankton from Spongebob Squarepants saying "I didn't think I'd get this far"](../images/catgirl-research-research/west-ham-spongebob-meme.png)
 
 Fast forward to this year: ImgnAI and West Ham sponsored a private party at the 2024 ETH Denver conference called [West Ham: No Longer Joking](https://lu.ma/isitvegan) in the lead up to GTC.
 
@@ -138,34 +138,33 @@ To learn more about the history of the various kinds , check out these writings:
 - [Interview about Nick Land with former CCRU member Robin MacKay](http://readthis.wtf/writing/towards-a-transcendental-deduction-of-jungle-interview-part-1/)
 
 ---
-
 ##### Notes
 
-[1] I am not saying that I know for a fact that these protestors were paid...but I am saying that I've never seen so many women that are into crypto in one place at the same time.
+[1]: I am not saying that I know for a fact that these protestors were paid...but I am saying that I've never seen so many women that are into crypto in one place at the same time.
 
-[2] These user reviews may be entirely fabricated; I have no way of knowing for sure.
+[2]: These user reviews may be entirely fabricated; I have no way of knowing for sure.
 
-[3] Also mentioned as influential within this social sphere is the edgy [Angelicism01](https://cashedcobrazhousewriter.substack.com) Substack which has also made [references](https://cashedcobrazhousewriter.substack.com/p/reaction-harmony-korine-hitler-mitchell) to Land's accelerationism. The blog also has [several](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) [posts](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) calling for the "Columbining" of journalists.
+[3]: Also mentioned as influential within this social sphere is the edgy [Angelicism01](https://cashedcobrazhousewriter.substack.com) Substack which has also made [references](https://cashedcobrazhousewriter.substack.com/p/reaction-harmony-korine-hitler-mitchell) to Land's accelerationism. The blog also has [several](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) [posts](https://cashedcobrazhousewriter.substack.com/p/somebody-please-columbine-the-entire) calling for the "Columbining" of journalists.
 
-[4] My understanding that Charlotte Fang maintained control of Remilia and Milady after this incident.
+[4]: My understanding that Charlotte Fang maintained control of Remilia and Milady after this incident.
 
-[5] West Ham also encourages the sharing of information on its website, like I'm doing right now.
+[5]: West Ham also encourages the sharing of information on its website, like I'm doing right now.
 
-[6] West Ham states that their advice was "not, in fact, financial advice". They're also apparently looking for a new lawyer.
+[6]: West Ham states that their advice was "not, in fact, financial advice". They're also apparently looking for a new lawyer.
 
-[7] Memes aside, this is a pretty decent critique of crypto and EA if I'm being honest.
+[7]: Memes aside, this is a pretty decent critique of crypto and EA if I'm being honest.
 
-[8] Lawrence Day's participation in this film is most likely due to a 2021 incident where his crypto project got, for lack of a better word, ["pwned"](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community) by a racist hacker.
+[8]: Lawrence Day's participation in this film is most likely due to a 2021 incident where his crypto project got, for lack of a better word, ["pwned"](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community) by a racist hacker.
 
-[9] This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
+[9]: This is ironic because Land has been vocal about his dislike of anime, [tweeting](https://twitter.com/xenocosmography/status/1746122125348626909) in January 2024 that he has a "cartoon allergy". 
 
-[10] There's a minority of people with good politics still adopting the "accelerationist" and "l(eft)/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
+[10]: There's a minority of people with good politics still adopting the "accelerationist" and "l(eft)/acc" labels, but they've sadly been eclipsed by the right-wing antics of effective accelerationism. I don't believe any sort of "acc" is the most descriptive term for an ideology, but that's a linguistic nitpick outside the scope of this blog post.
 
 
 ---
 ### Timeline of events
 
-Here's a condensed summary of everything that's happened related to Remilia, BRG, Milady, and ImgnAI so far.
+This is a condensed summary of everything that's happened related to Remilia, BRG, Milady, and ImgnAI so far.
 
 - [Aug 25, 2021](https://finance.yahoo.com/news/milady-maker-crowned-nft-project-135400625.html) - Milady Maker NFT line launched
 - [May 5, 2022](https://web.archive.org/web/20220505153929/https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/) - CoinDesk publishes an article on Milady, detailing its connection to Charlotte Fang, "Miya", and the writings of Nick Land. Coindesk notes that the highest "tier" for Milady NFTs is "SS" rather than "S" or "SSS"
