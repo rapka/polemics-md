@@ -7,7 +7,7 @@ His appearance in The Blaze was Hunter Ash's first big publication, but he actua
 
 ### Who is Hunter Ash?
 
-
+![](../images/hunter-ash-psikey/hunter-pre-chewed.png)
 
 Ash defines his current presence on the internet as being ["like a mother bird pre-chewing Nick Land’s content for my audience"](https://x.com/ArtemisConsort/status/1849290159985959380)[^1].
 
@@ -60,9 +60,15 @@ Hunter would go on to post another Sonnenrad to his new account just a few month
 
 ![](../images/hunter-ash-psikey/hunter-ai-sonnenrad.png)
 
-In one of the most shocking social media posts of all time, Ash also admitted to being both a racist and a pedophile, embracing his status as the former while hating his status as the latter[^5].
+Psikey would openly engage with racists such as Steve Sailer on his account, going as far as to advocate for eugenics via capital punishment of low IQ convicts.
+
+![](../images/hunter-ash-psikey/psikey-sailer-iq.png)
+
+And in one of the most shocking social media posts of all time, Psikey also admitted to being both a racist and a pedophile, embracing his status as the former while hating his status as the latter[^5].
 
 ![Screenshot from Roko Mijic of Psikey tweeting "That's not fair to racists. Racism is good, pedophilia is bad. I say this as someone who is both."](../images/hunter-ash-psikey/roko-psikey-admission-tweet.jpg)
+
+### MindEnjoyer's Enjoyers
 
 Prior to his meltdown and account deletion, Psikey attracted the attention of many big names in the reactionary and e/acc circles on Twitter. He publicly bragged about his influential followers on his @MindEnjoyer account, which include:
 - **Nick Land (Tweeting under the name @Xenocosmography)**
