@@ -1,13 +1,13 @@
 ![](../images/hunter-ash-psikey/psikey-mindenjoyer-hunter-ash-cover.png)
 # "Pre-Chewing Nick Land": The Racist Accelerationism of Detransitioner Hunter Ash
 
-In December 2024, The Blaze published an essay called [Transitioning didn't make me a woman — but rejecting trans ideology taught me what it means to be a man](https://www.theblaze.com/align/transitioning-didnt-make-me-a-woman-but-rejecting-trans-ideology-taught-me-what-it-means-to-be-a-man) by Hunter Ash, someone who's relatively new to the conservative detransitioner circuit. For those unaware, anti-trans groups often uplift the voices of anyone they can find who has stopped their gender transition and is now willing to denounce the transgender community. These individuals have often repressed themselves back into the closet and are sometimes even [paid](https://www.erininthemorning.com/p/chloe-cole-testifies-she-makes-up) by anti-transgender groups to parrot their talking points.
+In December 2024, The Blaze published an essay called [Transitioning didn't make me a woman — but rejecting trans ideology taught me what it means to be a man](https://www.theblaze.com/align/transitioning-didnt-make-me-a-woman-but-rejecting-trans-ideology-taught-me-what-it-means-to-be-a-man) by Hunter Ash, a former trans woman who's relatively new to the conservative detransitioner circuit. For those unaware, anti-transgender groups often uplift the voices of anyone they can find who has stopped their gender transition and is now willing to denounce the gender-affirming care they once received. These individuals have often repressed themselves back into the closet and are sometimes even [paid](https://www.erininthemorning.com/p/chloe-cole-testifies-she-makes-up) by these hate groups to parrot their talking points.
 
-His appearance in The Blaze was Hunter Ash's first big publication, but he actually has an extensive and controversial social media history before reappearing under his current name. Let's look into it...
+Hunter Ash's appearance in The Blaze was his first big publication, but he actually has an extensive and controversial social media history before he reappeared under his current name. Let's look into it...
 
 ### Who is Hunter Ash?
 
-![](../images/hunter-ash-psikey/hunter-pre-chewed.png)
+![Tweet from Hunter Ash on Oct 23, 2024: "My account is like a mother bird pre-chewing Nick Land's content for my audience."](../images/hunter-ash-psikey/hunter-pre-chewed.png)
 
 Ash defines his current presence on the internet as being ["like a mother bird pre-chewing Nick Land’s content for my audience"](https://x.com/ArtemisConsort/status/1849290159985959380)[^1].
 
@@ -29,7 +29,7 @@ There is a frequent overlap between transphobic medical concepts such as AGP and
 
 Nowadays, Blanchard is virtually indistinguishable from your average "gender critical" transphobe on Twitter, [promoting](https://x.com/BlanchardPhD/status/1864809373115035960) the likes of Libs of TikTok. J. Michael Bailey is much the same, even going so far as to [retweet](https://x.com/profjmb/status/1894931623751065757) Hunter Ash's bizarre assertion that "transwomen are not women, but men attracted to them are not gay". Notably, one of the anti-trans propaganda films recently [promoted]() by Dr. Blanchard was made by a director who describes himself as "Hyperborean" - a dogwhistle used by [esoteric neo-Nazis](https://csmfht.substack.com/p/hyperborea-the-white-supremacist) referencing a mythological land inhabited by Aryans.
 
-![Screenshot of Ray Blanchard promoting an anti-trans film by Travis Brown, who calls himself a "filmmaker, philosopher, Hyperborean" ](../images/hunter-ash-psikey/blanchard-travis-brown-hyperborean.png)
+![Screenshot of Ray Blanchard promoting an anti-trans film by Travis Brown, who calls himself a "filmmaker, philosopher, Hyperborean"](../images/hunter-ash-psikey/blanchard-travis-brown-hyperborean.png)
 
 Ash delves into his belief in AGP more in an essay called[*"Things I Learned When I Was Trans"*](https://www.piratewires.com/p/things-i-learned-when-i-was-trans)  for Pirate Wires, where he further demonizes trans people with misleading claims like "Almost all trans people have mental illnesses" and that trans women are "not any more behaviorally or psychologically feminine than the average man". 
 
@@ -37,16 +37,16 @@ Hunter Ash appeared alongside another right-wing influencer in the tech sphere n
 
 ### Who was Psikey?
 
-![](../images/hunter-ash-psikey/hunter-old-account-dead.png)
+![Tweet from Hunter Ash on Jun 26, 2024: Yeah had to let the old account die permanently. All buried. Doing much better now also. Going to be less fun on this one probably, more marketable. In relative terms, haha."](../images/hunter-ash-psikey/hunter-old-account-dead.png)
 
 Prior to relaunching his, more marketable internet presence, Hunter Ash was known as "Psikey" or "Pischey", using the @MindEnjoyer handle on Twitter. This is shown by both interactions on the platform regarding his old account[^3] as well as a Wayback Machine [archive](https://web.archive.org/web/20231201152951/https://inferringtheattractor.substack.com/) linking his Substack account to the name "piskey"[^4].
 
-![](../images/hunter-ash-psikey/mindenjoyer-back.png)
+![Tweet from @FuhrerScholar on Jul 20, 2024: You are back dearest consort formerly known as @MindEnjoyer." Reply from @ArtemisConsort: "Yes 🥰"](../images/hunter-ash-psikey/mindenjoyer-back.png)
 
 Psikey also had a podcast appearance under this name, [From Gender Fantasy to Race Realism: A Gen Z Journey](https://www.youtube.com/watch?v=CIB-M2Zt5G0) with YouTuber Benjamin A. Boyce which clearly shows that he and Hunter Ash are the same person.
 
-![](../images/hunter-ash-psikey/hunter-truth-appearance.png)
-![](../images/hunter-ash-psikey/psikey-race-realism-appearance.png)
+![Screenshot of Hunter Ash's appearance on "The Truth of Being Male" on YouTube.](../images/hunter-ash-psikey/hunter-truth-appearance.png)
+![Screenshot of Psikey's appearance on "From Gender Fantasy to Race Realism: A Gen Z Journey" on YouTube.](../images/hunter-ash-psikey/psikey-race-realism-appearance.png)
 
 On of Ash's recent appearances was on an anti-transgender interview series called [Calmversations](https://www.youtube.com/watch?v=8LckyQ5ew3c&list=PLRdayXEOwuMH3f0pmZqVQUU62rgJIzvt9) hosted by YouTuber Benjamin A. Boyce which also featured of interviews with notable transphobes such as Helen Joyce and Kathleen Stock as well as Ray Blanchard himself. 
 
@@ -54,19 +54,19 @@ Boyce's channel has another series called ["Right-Winging It"](https://www.youtu
 
 Around the time of his detransition, Ash's mental health took a clear turn for the worse and his Twitter account was deleted after making several shocking posts. In response to user "generic_void" [tweeted](https://x.com/generic_void/status/1789506962763444328) that "people Hitler definitely would’ve killed" were saying "nazi-coded sh\*t", Psikey tweeted an esoteric Nazi symbol known as the [Sonnenrad](https://www.theguardian.com/world/2020/nov/24/the-neo-nazi-symbol-posted-by-pete-evans-has-a-strange-and-dark-history) decorated in the colors of the trans pride flag. The Sonnenrad is tied to the previously discussed concept of the Aryan land of Hyperborea and is frequently [used in memes](https://gnet-research.org/2023/02/15/the-dangers-of-pseudohistorical-conspiracy-theories/) referencing the concept.
 
-![](../images/hunter-ash-psikey/trans-sonnenrad.png)
+![Reply from @MindEnjoyer on May 5, 2024: "Gonna keep doing it." Attached is a trans pride flag with a pink Sonnenrad icon in the center.](../images/hunter-ash-psikey/trans-sonnenrad.png)
 
 Hunter would go on to post another Sonnenrad to his new account just a few months later.
 
-![](../images/hunter-ash-psikey/hunter-ai-sonnenrad.png)
+![Tweet from @AltCulture on Jul 20, 2024: "Women need to wear more black. Black sun dress. Come on, ladies." @ArtemisConsort replies with an AI generated picture of 6 women in dressed posed to look like a Sonnenrad.](../images/hunter-ash-psikey/hunter-ai-sonnenrad.png)
 
 Psikey would openly engage with racists such as Steve Sailer on his account, going as far as to advocate for eugenics via capital punishment of low IQ convicts.
 
-![](../images/hunter-ash-psikey/psikey-sailer-iq.png)
+![Tweet from @Steve_Sailer on Mar 26, 2024: "The U.S. Supreme Court bars capital punishment of murderers with IQs below 70.". Reply from @MindEnjoyer: "What a perfectly stupid policy. It should be mandatory for <70 IQ criminals."](../images/hunter-ash-psikey/psikey-sailer-iq.png)
 
 And in one of the most shocking social media posts of all time, Psikey also admitted to being both a racist and a pedophile, embracing his status as the former while hating his status as the latter[^5].
 
-![Screenshot from Roko Mijic of Psikey tweeting "That's not fair to racists. Racism is good, pedophilia is bad. I say this as someone who is both."](../images/hunter-ash-psikey/roko-psikey-admission-tweet.jpg)
+![Screenshot posted by Roko Mijic of Psikey tweeting "That's not fair to racists. Racism is good, pedophilia is bad. I say this as someone who is both."](../images/hunter-ash-psikey/roko-psikey-admission-tweet.jpg)
 
 ### MindEnjoyer's Enjoyers
 
@@ -82,13 +82,13 @@ Prior to his meltdown and account deletion, Psikey attracted the attention of ma
 - **Curt Doolittle** - Creator of the openly fascist ["Natural Law Institute"](https://naturallawinstitute.com/) that promotes the "Great Replacement" conspiracy theory
 - **Dr. Will Kinney** - cosmologist at the University of Buffalo
 
-![](../images/hunter-ash-psikey/mindenjoyer-followers.png)
+![Tweet from @MindEnjoyer on Feb 17, 2024 showing that he's followed by the listed accounts.](../images/hunter-ash-psikey/mindenjoyer-followers.png)
 
 ### "Divine Accelerationism"
 
-![ ](../images/hunter-ash-psikey/psikey-guys-one-thing.png)
+![Tweet from @empireenjoyer10: "I want to create a race of super humans with high IQ to then make them exponentially smarter with Neuralink implants." Reply from @MindEnjoyer: "Guys only want one thing and it's f\*cking awesome." ](../images/hunter-ash-psikey/psikey-guys-one-thing.png)
 
-The effective accelerationism movement (often referred to as "e/acc") is a modern, more meme-y interpretation of the ideas that Nick Land embraced in the 90's. The philosophy was [coined](https://effectiveaccelerationism.substack.com/p/repost-effective-accelerationism) by a group of pseudononymous Twitter users, most infamously Guillaume "Beff Jezos" Verdon who was subsequently [unmasked](https://www.forbes.com/sites/emilybaker-white/2023/12/01/who-is-basedbeffjezos-the-leader-of-effective-accelerationism-eacc/)by Emily Baker-White in an investigation for Forbes. Other notable adherents to the ideology include Marc Andreessen, YCombinator CEO Garry Tan (who proclaimed his desire to ["take over every nation in the world"](https://www.youtube.com/watch?v=xMRlKPqNMT4) in 2023), and disgraced investor Martin Shkreli.
+The effective accelerationism movement (often referred to as "e/acc") is a modern, more meme-y interpretation of the ideas that Nick Land embraced in the 90's. The philosophy was [coined](https://effectiveaccelerationism.substack.com/p/repost-effective-accelerationism) by a group of pseudonymous Twitter users, most infamously Guillaume "Beff Jezos" Verdon who was subsequently [unmasked](https://www.forbes.com/sites/emilybaker-white/2023/12/01/who-is-basedbeffjezos-the-leader-of-effective-accelerationism-eacc/) by Emily Baker-White in an investigation for Forbes. Other notable adherents to the ideology include Marc Andreessen, YCombinator CEO Garry Tan (who proclaimed his desire to ["take over every nation in the world"](https://www.youtube.com/watch?v=xMRlKPqNMT4) in 2023), and disgraced investor Martin Shkreli.
 
 Effective accelerationism stands in contrast to movements to regulate a hypothetical future superintelligence such as the [influential](https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.htm) but [cult-like](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried) Rationality community and its adjacent utilitarian philosophy of Effective Altruism, from which the movement drew inspiration for its name. E/acc followers frequently refer to these groups as "decels" impeding the path to the future of humankind.
 
@@ -106,5 +106,5 @@ The manifesto concludes with Ash's accelerationist thesis that humanity should e
 [^2]: In the same essay explaining his bad mushroom trip, Ash describes his gender transition in an extremely positive light, saying that the relief from dysphoria it gave him was "almost instant, and intoxicating". On the flip side, Ash's strategy for dealing with his feelings of gender dysphoria was to repress them (or  ["not think about it"](https://x.com/ArtemisConsort/status/1852477650859622611) in his words). Perhaps Diane Yap would feel better if she embraced her masculine side since she thinks presenting feminine makes her feel like a "tr\*nny".
 [^3]: In July 2024, Twitter user "FuhrerScholar" [tweeted](https://x.com/ArtemisConsort/status/1814659976847032592) "You are back, dearest consort formerly known as @MindEnjoyer". Hunter Ash replied ["Yes 🥰"](https://x.com/ArtemisConsort/status/1814659976847032592)
 [^4]: An [archive](https://web.archive.org/web/20231201152951/https://inferringtheattractor.substack.com/) of the *Inferring the Attractor* Substack from the Wayback Machine shows that Alice Field's account used "psikey" as a handle. A later [archive](https://web.archive.org/web/20240905235642/https://inferringtheattractor.substack.com/) shows that the same account also briefly used "Azrael" as a pseudonym. An [introductory post](https://inferringtheattractor.substack.com/p/5-who-i-am-and-why) on the Substack still refers to Alice Fields despite the account that posted it now being named Hunter Ash.
-[5]: After Psikey's account was deleted, Roko [posted](https://x.com/RokoMijic/status/1795202810968957013) a screenshot of this tweet along with the commentary "Psikey @mindenjoyer will be remembered for going out on this absolute banger".
+[^5]: After Psikey's account was deleted, Roko [posted](https://x.com/RokoMijic/status/1795202810968957013) a screenshot of this tweet along with the commentary "Psikey @mindenjoyer will be remembered for going out on this absolute banger".
 [^6]: Much like Hunter Ash, Andreessen's manifesto positively cited Nick Land's "Hyper-Realism" essay.
